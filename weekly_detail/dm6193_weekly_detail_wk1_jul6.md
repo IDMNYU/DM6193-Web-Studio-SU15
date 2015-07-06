@@ -46,7 +46,7 @@
 <li>Discuss Show &amp; Tells</li>
 <li>Discuss Learning Logs</li>
 </ul></td>
-<td><strong>Jul 8</strong><br><b>Style Presentations Due</b><br>
+<td valign="top"><strong>Jul 8</strong><br><b>Style Presentations Due</b><br>
 
     <p>Each student will choose 2 movements to present to the class. Share a brief introduction to the movement and at least 3 images.</p>
 
