@@ -27,6 +27,10 @@
   * [Foundation Cheat Sheet](https://princessdesign.net/foundation-cheat-sheet/)
   * [Bootstrap Cheat Sheet](http://creativealive.com/wp-content/uploads/2014/01/bootstrap3-cheatsheet.pdf)
 
+* Make sure you have closed tags and closed quotes.
+
+* Make sure you have spelled tags correctly (that's what sublime text and the cheatsheets are for.)
+
 * index.html in each folder (except images folder). why?
   * Server can be setup so that this is the default page within a directory
   * Shorter/Cleaner URL
