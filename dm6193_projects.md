@@ -21,14 +21,13 @@
 </tr>
 <tr>
     <td>HTML5/CSS3 Framework Website</td> 
-    <td>Recreate your website using the HTML/CSS framework of your choice. Choose one of the following HTML/CSS frameworks or discuss with the professor a HTML/CSS framework of your choice:</p>
+    <td>Recreate your website using the HTML/CSS framework of your choice. Choose one of the following HTML/CSS frameworks (or if you are a CS student discuss with the professor another HTML/CSS framework of your choice):</p>
     <ul>
     <li>foundation (http://foundation.zurb.com)</li>
     <li>bootstrap (http://getbootstrap.com)</li>
     </ul>
     </td>
 <tr>
-
 </table>
 
 ### ASSIGNMENTS
@@ -38,10 +37,7 @@
 <td><a href="assignments/dm6193_project_plan.md">View project plan details</a></td>
 </tr>
 
-<tr>
-<td><strong>Mural.ly Inspiration Board</strong></td>
-<td><p>Create a free Mural.ly account at http://mural.ly</p><p>Conduct a competitive analysis of similar sites or document sites that you'd like to reference (for functionality, layout, color, typography, etc.)</td>
-</tr>
+
 
 <tr>
 <td><strong>Framework Clickthrough / Skeleton</strong></td>
@@ -56,22 +52,13 @@
 </tr>
 
 <tr>
-<td><strong>Mural.ly Mood Board</strong></td>
-<td><p>Create your mood board using http://mural.ly.</p>
+<td><strong>Mood Board</strong></td>
+<td><p>Create your mood board using photoshop or another application of your choice.</p>
 <p>Use the Template Mood Board (NOT the collage mood board) in the link below as a guide. The only thing that is missing from the Template Mood Board guide is the functionality or interactivity you’d also like to include in your site.</p>
 
 <p>http://www.webdesignerdepot.com/2008/12/why-mood-boards-matter</p>
 
-<p>Or, alternatively, you can create your mood board in Photoshop. If you do, post a png to basecamp.</p></td>
-</tr>
-<tr>
-    <td>Show &amp; Tells
-  Each week by Monday before class (except last week, Thursday), post to basecamp with a subject of “show &amp; tell: descriptive name” and your name as the category, and briefly describe why you are sharing it.</td>
-    <td>Each week, select a link to one of the following: 
-  a website that has clear navigation and visual hierarchy. 
-  a website that is well designed visually.
-  a website that has an interesting use of technology.
-  a link to an article or tutorial about HTML5, CSS3, mobile first, the responsive web, and other web related issues.</td>
+<p>Post a png to basecamp.</p></td>
 </tr>
 <tr>
     <td>Stylistic Movements Presentation
@@ -80,24 +67,28 @@
     Great resources are:
     http://images.google.com
     http://www.designishistory.com/home</td>
-    <td>Russian Constructivism
-    Bauhaus 
-    Swiss Design (AKA Swiss Style or International Style)
-    Josef Müller-Brockmann 
-    New Wave
-    Dada
-    De Stijl
-    Psychedelic Art (The Fillmore)
-    Semiotics (the study of symbols)
-    Art Nouveau
-    Art Deco
-    David Carson (design and typography)
-    Punk Aesthetic (Art Chantry)
-    House Industries</td>
+    <td>
+    <ul>
+    <li>Russian Constructivism</li>
+    <li>Bauhaus</li>
+    <li>Swiss Design (AKA Swiss Style or International Style)</li>
+    <li>Josef Müller-Brockmann</li>
+    <li>New Wave</li>
+    <li>Dada</li>
+    <li>De Stijl</li>
+    <li>Psychedelic Art (The Fillmore)</li>
+    <li>Semiotics (the study of symbols)</li>
+    <li>Art Nouveau</li>
+    <li>Art Deco</li>
+    <li>David Carson (design and typography)</li>
+    <li>Punk Aesthetic (Art Chantry)</li>
+    <li>House Industries</li>
+    </ul>
+    </td>
 </tr>
 <tr>
 <td>Reading Responses</td>
-<td>Each week by Monday before class (except last week, Thursday), post to basecamp with a subject of “reading response: name of article” and your name as the category for at least one required article and reflect on one of the following questions.  The most important point(s) (or the most useful or valuable thing(s) you learned) from the reading, and why.</td>
+<td>Each week by Monday before class, post to basecamp with a subject of “reading response: name of article” and your name as the category for at least one required article and reflect on one of the following questions.  The most important point(s) (or the most useful or valuable thing(s) you learned) from the reading, and why.</td>
 <td>The most confusing points, and why they were confusing.
 How the material connects with or breaks from your prior knowledge or how it connects with your knowledge from other courses.</td>
 </tr>
@@ -105,17 +96,15 @@ How the material connects with or breaks from your prior knowledge or how it con
 <td>Learning Logs
 Each week by Monday before class (except last week, Thursday), post to basecamp with a subject of “learning log: descriptive name” and your name as the category.</td>
 <td>Identify (name, URL, sections, etc.) at least one tutorial you did, and answer the following questions.
-Instances where you achieved clarity or experienced fragments of knowledge failing into place in your learning.
-Instances where you did NOT achieve clarity and why. What can you do to aid your understanding?
-Connections you made among the week’s readings, lectures, class activities, homework assignments, etc.</td>
+<ul>
+<li>Instances where you achieved clarity or experienced fragments of knowledge failing into place in your learning.</li>
+<li>Instances where you did NOT achieve clarity and why. What can you do to aid your understanding?</li>
+<li>Connections you made among the week’s readings, lectures, class activities, homework assignments, etc.</li></td>
 </tr>
 <tr>
-    <td>Ticket to Leave
-    Each class period, before you leave write your name on the writing material provided (post it, note card, etc.) and answer 1 or both of the questions.</td>
-    <td>What are the three most important points you learned today in class? 
-What concept(s) confuses you from today’s lecture or exercises?
-HTML5/CSS3 Responsive 
-Self-Assessment Critically analyze/evaluate your intro to web development process so far, and discuss what qualitative description you would give your process and why? (i.e. excellent, very good, good, etc. Consult the grading overview descriptions presented earlier in this syllabus.)
+    <td>
+HTML5/CSS3 Responsive<br> 
+Self-Assessment</td><td>Critically analyze/evaluate your intro to web development process so far, and discuss what qualitative description you would give your process and why? (i.e. excellent, very good, good, etc. Consult the grading overview descriptions presented earlier in this syllabus.)
 Critically analyze/evaluate your intro to web development execution so far, and discuss what qualitative description you would give your execution and why? (i.e. excellent, very good, good, etc. Consult the grading overview descriptions presented earlier in this syllabus.)</td>
 </tr>
 <tr>
@@ -170,8 +159,6 @@ Identify (name, URL, sections, etc.) at least one tutorial you did, and answer t
 <li>The most important point(s) (or the most useful or valuable thing(s) you learned) from the reading, and why.</li>
 <li>The most confusing points, and why they were confusing.</li>
 <li>How the material connects with or breaks from your prior knowledge or how it connects with your knowledge from other courses</li></ul>
-<p>For learning (your first job), an additional requirement:
-Based on the article and your own experience, create 10 commandments for success in a project-based course</p>
 </td>
 </tr>
 
@@ -264,14 +251,14 @@ Of The Course
 PDF Cover:
 <ul>
 <li>Your First and Last Name</li>
-<li>DM 3193 Dynamic Web Applications</li>
-<li>Fall 2014</li>
+<li>DM 6193 Web Studio</li>
+<li>Summer 2015</li>
 <li>Duff</li>
 </ul>
 PDF Contents:
 <ul>
 <li> Revised Project plan</li>
-<li> HTML5/CSS3/Responsive</li>
+<li> HTML5/CSS3/Responsive Website</li>
   <ul>
   <li> Sitemap</li>
   <li> Wireframes or Schematics</li>
@@ -283,18 +270,14 @@ PDF Contents:
       </ul>
   <li> Screenshots</li>
   </ul>
-<li> Wordpress, Drupal, Ruby on Rails, (or your chosen CMS if discussed with professor)</li>
+<li> Framework Website</li>
   <ul>
   <li> (Optional Revised) Sitemap</li>
   <li> (Optional Revised) Wireframes or Schematics</li>
   <li> (Optional Revised) Inspiration and Mood Boards</li>
   <li> Revised Tech &amp; Functionality Specifications</li>
     <ul>
-      <li>List the CMS you used (Wordpress, Drupal, Symphony, etc.)</li>
-      <li>List the theme you used (if applicable)</li>
-      <li>List all the plugins or modules you actually used</li>
-      <li>List any custom templates or custom fields you created (if applicable)</li>
-      <li>List your URL (and ISP if applicable)</li>
+      <li>List the Framework you used</li>
       </ul>
   <li> Screenshots</li>
   </ul>
