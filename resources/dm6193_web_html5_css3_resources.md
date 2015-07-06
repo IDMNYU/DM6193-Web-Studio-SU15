@@ -10,7 +10,7 @@
 ##  GENERAL WEB, HTML5, and CSS3 RESOURCES
 
 
-    * Available as an ebook through [NYU Poly’s Library website](http://poly.libguides.com/ebooks) via books 24x7
+    * Available as an ebook through NYU Poly’s Library website via books 24x7
     ** Available as an ebook through NYU Poly’s Library’s website via Safari
 
 #### General Web Books
@@ -37,7 +37,7 @@
 #### HTML & HTML5 Resources
 
 ### HTML5 Books
-* HTML & CSS by Jon Duckett * 
+* * [HTML & CSS by Jon Duckett] (http://www.amazon.com/HTML-CSS-Design-Build-Websites/dp/1118008189)*
 * [HTML & CSS Book Online Companion] (http://htmlandcssbook.com)
 * Head First HTML with CSS & XHTML by Elizabeth & Eric Freeman **
 * Head First HTML5 Programming by Elizabeth & Eric Freeman **

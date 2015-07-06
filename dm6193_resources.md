@@ -20,15 +20,16 @@
 
 #### Books
 
-    * Available as an ebook through <a href="http://poly.libguides.com/ebooks">NYU Poly’s Library website</a> via books 24x7
-    ** Available as an ebook through NYU Poly’s Library’s website via Safari
+    * Available as an ebook through NYU Poly Library's website via books 24x7
+    ** Available as an ebook through NYU Poly Library’s website via Safari
 
 * [HTML & CSS by Jon Duckett] (http://www.amazon.com/HTML-CSS-Design-Build-Websites/dp/1118008189)* 
-* [HTML & CSS Book Online Companion] (http://htmlandcssbook.com)
+* [HTML & CSS  by Jon Duckett Online Companion] (http://htmlandcssbook.com)
 * Head First HTML with CSS & XHTML by Elizabeth & Eric Freeman **
 * Head First HTML5 Programming by Elizabeth & Eric Freeman **
 * A Book Apart: HTML5 for Web Designers by Jeremy Keith 
 * [Javascript & JQuery by Jon Duckett](http://www.amazon.com/JavaScript-JQuery-Interactive-Front-End-Development/dp/1118531647)
+* [Javascript & JQuery by Jon Duckett Online Companion] (http://javascriptbook.com)
 
 #### Specific Resources for Coursework (as separate github pages in resources folder)
 * [General Web / HTML5 / CSS3] (resources/dm6193_web_html5_css3_resources.md)
