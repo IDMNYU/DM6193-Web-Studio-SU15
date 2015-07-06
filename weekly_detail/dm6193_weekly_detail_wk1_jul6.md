@@ -23,7 +23,6 @@
         <strong>Class</strong><br>CLASS OVERVIEW &amp; IDEATION 
 <ul>
 <li>Knowledge Survey</li>
-<li>Quiz</li>
 <li>Class Exercise: Your Learning Goals</li>
 <ul>
     <li><i>“There are two reasons for doing anything. A good reason and the real reason.”</i> –J.P. Morgan
@@ -45,7 +44,31 @@
     </ul>
 <li>Review Syllabus</li>
 <li>Discuss Show &amp; Tells</li>
+<li>Discuss Learning Logs</li>
 </ul></td>
-<td><strong>Jul 8</strong><br></td>
+<td><strong>Jul 8</strong><br><b>Style Presentations Due</b><br>
+
+    <p>Each student will choose 2 movements to present to the class. Share a brief introduction to the movement and at least 3 images.</p>
+
+    Great resources are:<br>
+    http://images.google.com<br>
+    http://www.designishistory.com/home<br>
+ 
+    <ul>
+    <li>Russian Constructivism</li>
+    <li>Bauhaus</li>
+    <li>Swiss Design (AKA Swiss Style or International Style)</li>
+    <li>Josef Müller-Brockmann</li>
+    <li>New Wave</li>
+    <li>Dada</li>
+    <li>De Stijl</li>
+    <li>Psychedelic Art (The Fillmore)</li>
+    <li>Semiotics (the study of symbols)</li>
+    <li>Art Nouveau</li>
+    <li>Art Deco</li>
+    <li>David Carson (design and typography)</li>
+    <li>Punk Aesthetic (Art Chantry)</li>
+    <li>House Industries</li>
+    </ul></td>
 </tr>
 </table>
