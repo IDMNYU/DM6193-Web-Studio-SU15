@@ -16,15 +16,54 @@
     <td colspan="2"><i>All due dates can be found in the schedule overview grid. This is just an overview and description of all the projects and main assignments for the course. All projects and assignments are subject to change at the discretion of the professor.</i></td>
 </tr>
 <tr>
-    <td>HTML5/CSS3/Responsive Project: Create a website.</td>  
-    <td>Create a website by hand-coding</td>
+    <td>HTML5/CSS3/Responsive Flat File Website</td>  
+    <td>Design (or redesign) and build the front-end (or client-side) of a flat file website by hand-coding. Possible ideas are (but not limited to) a portfolio website, choose your own adventure website, website for a client, etc.<p>Focus on Content first and foremost. Also focus on functionality and interactivity (i.e. javascript, jQuery, &amp; / or CSS3)</p></td>
 </tr>
 <tr>
-    <td>HTML/CSS Framework:</td> 
-    <td>Recreate your website using the HTML/CSS framework of your choice.  Choose one of the following HTML/CSS frameworks or discuss with the professor a HTML/CSS framework of your choice;
-  foundation (http://foundation.zurb.com)
-  bootstrap (http://getbootstrap.com)</td>
+    <td>HTML5/CSS3 Framework Website</td> 
+    <td>Recreate your website using the HTML/CSS framework of your choice. Choose one of the following HTML/CSS frameworks or discuss with the professor a HTML/CSS framework of your choice:</p>
+    <ul>
+    <li>foundation (http://foundation.zurb.com)</li>
+    <li>bootstrap (http://getbootstrap.com)</li>
+    </ul>
+    </td>
 <tr>
+
+</table>
+
+### ASSIGNMENTS
+<table>
+<tr>
+<td><strong>Project Plan</strong></td>
+<td><a href="assignments/dm6193_project_plan.md">View project plan details</a></td>
+</tr>
+
+<tr>
+<td><strong>Mural.ly Inspiration Board</strong></td>
+<td><p>Create a free Mural.ly account at http://mural.ly</p><p>Conduct a competitive analysis of similar sites or document sites that you'd like to reference (for functionality, layout, color, typography, etc.)</td>
+</tr>
+
+<tr>
+<td><strong>Framework Clickthrough / Skeleton</strong></td>
+<td>Using the framework of your choice (hopefully, either Bootstrap or Foundation) and your sitemap, create the skeleton of the directory structure of your site by creating all corresponding folders and files. At the very least there should be a persistent, main navigation (nav) on every page linking to the corresponding pages of your main nav. Every page of your site should be represented. 
+<ul>
+<li>There should be index.html files in every folder.</li>
+<li>There should be at least css, js, and images folders in the root directory. Optionally, a scss or sass folder.</li>
+<li>There should be images folders as needed in each directory.</li>
+<li>You should commit to github.</li>
+</ul>
+</td>
+</tr>
+
+<tr>
+<td><strong>Mural.ly Mood Board</strong></td>
+<td><p>Create your mood board using http://mural.ly.</p>
+<p>Use the Template Mood Board (NOT the collage mood board) in the link below as a guide. The only thing that is missing from the Template Mood Board guide is the functionality or interactivity you’d also like to include in your site.</p>
+
+<p>http://www.webdesignerdepot.com/2008/12/why-mood-boards-matter</p>
+
+<p>Or, alternatively, you can create your mood board in Photoshop. If you do, post a png to basecamp.</p></td>
+</tr>
 <tr>
     <td>Show &amp; Tells
   Each week by Monday before class (except last week, Thursday), post to basecamp with a subject of “show &amp; tell: descriptive name” and your name as the category, and briefly describe why you are sharing it.</td>
@@ -86,18 +125,6 @@ Self-Assessment</td>
 Critically analyze/evaluate your overall intro to web development process, and discuss what qualitative description you would give your process and why? (i.e. excellent, very good, good, etc. Consult the grading overview descriptions presented earlier in this syllabus.)
 Critically analyze/evaluate your intro to web development framework execution, and discuss what qualitative description you would give your execution and why? (i.e. excellent, very good, good, etc. Consult the grading overview descriptions presented earlier in this syllabus.</td>
 </tr>
-<tr>
-    <td><strong>Midterm: HTML/CSS Responsive Framework</strong></td>
-    <td><p>Design (or redesign) and build the front-end (or client-side) of a website for a real client of your choosing using the HTML/CSS responsive framework of your choice. If you can not find an external client, build a website for one of your classmates.</p>
-
-    <p>Choose one of the following HTML/CSS frameworks or discuss with the professor a HTML/CSS framework of your choice:</p>
-    <ul>
-    <li>foundation (http://foundation.zurb.com)</li>
-    <li>bootstrap (http://getbootstrap.com)</li>
-    </ul>
-
-    <p>Focus on Content first and foremost. Also focus on functionality and interactivity (i.e. javascript, jQuery, &amp; / or CSS3)</p></td>
-</tr>
 
 <tr>
     <td><strong>IDM Coursework Documentation</strong></td>
@@ -111,42 +138,6 @@ possibility that you would delete your archives after they graduate or even soon
 MAGNET 883, to set up an appointment for space on sites.bxmc.poly.edu.</p></td>
 
 </tr>
-</table>
-
-### ASSIGNMENTS
-<table>
-<tr>
-<td><strong>Project Plan</strong></td>
-<td><a href="assignments/dm6193_project_plan.md">View project plan details</a></td>
-</tr>
-
-<tr>
-<td><strong>Mural.ly Inspiration Board</strong></td>
-<td><p>Create a free Mural.ly account at http://mural.ly</p><p>Conduct a competitive analysis of similar sites or document sites that you'd like to reference (for functionality, layout, color, typography, etc.)</td>
-</tr>
-
-<tr>
-<td><strong>Framework Clickthrough / Skeleton</strong></td>
-<td>Using the framework of your choice (hopefully, either Bootstrap or Foundation) and your sitemap, create the skeleton of the directory structure of your site by creating all corresponding folders and files. At the very least there should be a persistent, main navigation (nav) on every page linking to the corresponding pages of your main nav. Every page of your site should be represented. 
-<ul>
-<li>There should be index.html files in every folder.</li>
-<li>There should be at least css, js, and images folders in the root directory. Optionally, a scss or sass folder.</li>
-<li>There should be images folders as needed in each directory.</li>
-<li>You should commit to github.</li>
-</ul>
-</td>
-</tr>
-
-<tr>
-<td><strong>Mural.ly Mood Board</strong></td>
-<td><p>Create your mood board using http://mural.ly.</p>
-<p>Use the Template Mood Board (NOT the collage mood board) in the link below as a guide. The only thing that is missing from the Template Mood Board guide is the functionality or interactivity you’d also like to include in your site.</p>
-
-<p>http://www.webdesignerdepot.com/2008/12/why-mood-boards-matter</p>
-
-<p>Or, alternatively, you can create your mood board in Photoshop. If you do, post a png to basecamp.</p></td>
-</tr>
-
 <tr>
 <td><strong>Learning Logs</strong><br></td>
 <td><p><i>Post to basecamp with a subject of "learning log: descriptive name" and your name as the category.</i></p>
