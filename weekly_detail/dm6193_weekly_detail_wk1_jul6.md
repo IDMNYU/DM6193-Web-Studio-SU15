@@ -16,7 +16,7 @@
 <td>Wednesday (due on date listed)</td>
 </tr>
 <!-- first week -->
-< <tr>
+<tr>
         <td valign="top" width="4%">2</td>
         <td valign="top" width="48%"><strong>Jul 6</strong></td>
         <td valign="top" width="48%"><strong>Jul 8</strong></td>
