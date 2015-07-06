@@ -12,7 +12,7 @@
 ###Github Repository: http://github.com/IDMNYU/DM6193-Web-Studio-SU15
 
 ####Course Management Site
-* http://basecamp.com | http://polishedsolid.basecamphq.com | 
+* https://bxmc.slack.com/messages/webstudiosu15/ (you will receive an email that invites you to the channel)
 
 ---
 
@@ -105,7 +105,7 @@ Students will conduct self assessments as well as be evaluated by the professor 
 * Study outside of class (ideally with classmate(s)
 * Devote at a minimum 3 to 6 hours per week outside of class, fulfilling homework assignments, reading, and studying concepts covered in class.
 * **Back up your work constantly** (that's what github is for)
-* Consult basecamp at least once a week for up to date info
+* Consult slack and github at least once a week for up to date info
 * Complete all assignments by due dates
 * Acquire and read all assigned readings before they are due
 * Action – do your absolute best
