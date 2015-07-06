@@ -28,9 +28,10 @@
     <li><i>“There are two reasons for doing anything. A good reason and the real reason.”</i> –J.P. Morgan
     <li>Why am I in this class? Why have I chosen to be sitting here NOW? Is there some better place I could be?</li>
     <li>What do I hope I will learn?</li> 
-    <li>What does my presence here mean to me? What are my goals?</li>
+    <li>What are my goals?</li>
     <li>What content do I think will help me accomplish my learning goals?</li>
-    <li>What are my existing skill sets as it relates to this course? What websites have you designed &amp; developed?</li>
+    <li>What are my existing skill sets as it relates to this course?</li> 
+    <li>What websites have you designed &amp; developed?</li>
     </ul>
 <li>Discussion of job boards for web design and development</li>
     <ul>
