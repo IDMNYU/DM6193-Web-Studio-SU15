@@ -31,7 +31,7 @@
      <tr>
         <td valign="top">2</td>
         <td valign="top">Jul 13<br><b>PROJECT PLAN DUE<br>SITEMAP DUE<br>WIREFRAMES / SCHEMATICS DUE<br>MOOD BOARDS DUE</b><br>Intro to HTML<br>Intro to Git &amp; Github</td>
-        <td valign="top">Jul 15<br><i>Revised PROJECT PLAN DUE<br>Revised SITEMAP DUE<br>Revised WIREFRAMES / SCHEMATICS DUE<br>Revised MOOD BOARDS DUE</i>Intro to HTML5<br>Intro to CSS for visual style</td>
+        <td valign="top">Jul 15<br><i>Revised PROJECT PLAN DUE<br>Revised SITEMAP DUE<br>Revised WIREFRAMES / SCHEMATICS DUE<br>Revised MOOD BOARDS DUE</i><br>Intro to HTML5<br>Intro to CSS for visual style</td>
     </tr>
       <tr>
         <td valign="top">3</td>

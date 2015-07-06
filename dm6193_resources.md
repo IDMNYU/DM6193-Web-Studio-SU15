@@ -10,8 +10,7 @@
 
 ## REQUIRED RESOURCES
 
-* Book: **JavaScript and JQuery: Interactive Front-End Web Development** by Jon Duckett
-  * This book should be available for purchase in the NYU bookstore, as well as be on reserve in the NYU School of Engineering library.
+
 
 * [Learn Shay Howe] (http://learn.shayhowe.com)
 * [lynda.com] (http://lynda.com)
@@ -20,19 +19,28 @@
 
 ## RECOMMENDED RESOURCES
 
+#### Books
+
+    * Available as an ebook through [NYU Poly’s Library website](http://poly.libguides.com/ebooks) via books 24x7
+    ** Available as an ebook through NYU Poly’s Library’s website via Safari
+
+* [HTML & CSS by Jon Duckett] (http://www.amazon.com/HTML-CSS-Design-Build-Websites/dp/1118008189)* 
+* [HTML & CSS Book Online Companion] (http://htmlandcssbook.com)
+* Head First HTML with CSS & XHTML by Elizabeth & Eric Freeman **
+* Head First HTML5 Programming by Elizabeth & Eric Freeman **
+* A Book Apart: HTML5 for Web Designers by Jeremy Keith 
+* [Javascript & JQuery by Jon Duckett](http://www.amazon.com/JavaScript-JQuery-Interactive-Front-End-Development/dp/1118531647)
+
 #### Specific Resources for Coursework (as separate github pages in resources folder)
-* [General Web / HTML5 / CSS3] (resources/dm3193_web_html5_css3_resources.md)
-* [Drupal] (resources/dm3193_drupal_resources.md)
-* [Framework Resources] (resources/dm3193_frameworks_resources.md)
-* [GitHub Resources] (resources/dm3193_github_resources.md)
-* [Javascript & JQuery Resources] (resources/dm3193_javascript_jquery_resources.md)
-* [MAMP/WAMP] (resources/dm3193_mamp_wamp_resources.md)
-* [Mobile First Resources] (resources/dm3193_mobile_first_resources.md)
-* [Responsive Web Resources] (resources/dm3193_responsive_web_resources.md)
-* [Ruby On Rails] (resources/dm3193_ruby_on_rails_resources.md)
-* [Sass Resources] (resources/dm3193_sass_resources.md)
-* [User Experience] (resources/dm3193_ux_resources.md)
-* [Wordpress] (resources/dm3193_wordpress_resources.md)
+* [General Web / HTML5 / CSS3] (resources/dm6193_web_html5_css3_resources.md)
+* [Framework Resources] (resources/dm6193_frameworks_resources.md)
+* [GitHub Resources] (resources/dm6193_github_resources.md)
+* [Javascript & JQuery Resources] (resources/dm6193_javascript_jquery_resources.md)
+* [Mobile First Resources] (resources/dm6193_mobile_first_resources.md)
+* [Responsive Web Resources] (resources/dm6193_responsive_web_resources.md)
+* [Sass Resources] (resources/dm6193_sass_resources.md)
+* [User Experience] (resources/dm6193_ux_resources.md)
+
 
 #### Additional Web Resources: Tutorials and Articles
 * [A List Apart](http://www.alistapart.com)
@@ -60,3 +68,4 @@
 * [ReWork](http://rework.jobs/about) - a really interesting job board
 * [AIGA](http://designjobs.aiga.org) - need to be a member
 * [AIGA Philadelphia](http://philadelphia.aiga.org/job-board)
+* [Glass Door] (http://glassdoor.com)
