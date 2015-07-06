@@ -19,7 +19,11 @@
 
 * Learn Relative Paths.
 
-* Acquire and Use a HTML, CSS, Framework tag list or cheat sheet. 
+* Acquire and Use a HTML, CSS, Framework tag list or cheat sheet. (See Resources Folder.) 
+    * [Smashing Magazine's HTML5 Cheat Sheet] (http://media.mediatemple.netdna-cdn.com/wp-content/uploads/images/html5-cheat-sheet/html5-cheat-sheet.pdf)
+    * [Smashing Magazine's CSS Cheat Sheet] (http://coding.smashingmagazine.com/wp-content/uploads/images/css3-cheat-sheet/css3-cheat-sheet.pdf)
+    * [Foundation Cheat Sheet](https://princessdesign.net/foundation-cheat-sheet/)
+    * [Bootstrap Cheat Sheet](http://creativealive.com/wp-content/uploads/2014/01/bootstrap3-cheatsheet.pdf)
 
 * index.html in each folder (except images folder). why?
   * Server can be setup so that this is the default page within a directory
@@ -30,25 +34,14 @@
 
 * **Lowercase filenames**
 
-* Be consistent in the style that you write your code. 
-(lower case per W3C standards)
-tag attribute=”value” except for Hexadecimal Color Code (#RRGGBB)
-a tag can have multiple attributes
+* Be consistent in the style that you write your code. (lower case per [W3C] (http://www.w3.org/) standards)
 
-* Use hexadecimal code; Don’t use color names; Use web safe color palette; make sure you use #
-
-* Title (descriptive text descriptions; exception descriptive phrases)
-
-* Clean and accurate code; Use the syntax checker of Sublime Text.
-
-* Easy to read code 
-  * indent title, table cell code, and nested tables and frameset
-  * put HTML, HEAD, and BODY tags on separate lines 
+* Title (descriptive text descriptions for browser bookmarking)
 
 * Cross Browser and Device Compatibility
   * Test on as many browsers and devices as possible.
 
-* List some common fonts i.e. helvetica, arial, times, as alternates in case the computer doesn’t have the fonts you want
+* Validate your code: [HTML5 Validator](http://validator.w3.org) and [CSS Validator](http://jigsaw.w3.org/css-validator)
 
 * Comment your code! 
 

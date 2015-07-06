@@ -16,10 +16,14 @@
 <td>Wednesday (due on date listed)</td>
 </tr>
 <!-- first week -->
-<tr>
-<td>1</td>
-
-<td valign="top"><strong>Jul 6</strong><br>
+< <tr>
+        <td valign="top" width="4%">2</td>
+        <td valign="top" width="48%"><strong>Jul 6</strong></td>
+        <td valign="top" width="48%"><strong>Jul 8</strong></td>
+    </tr>
+ <tr>
+        <td valign="top">class</td>
+        <td valign="top">
         <strong>Class</strong><br>CLASS OVERVIEW &amp; IDEATION 
 <ul>
 <li>Knowledge Survey</li>
@@ -47,7 +51,7 @@
 <li>Discuss Show &amp; Tells</li>
 <li>Discuss Learning Logs</li>
 </ul></td>
-<td valign="top"><strong>Jul 8</strong><br><b>Style Presentations Due</b><br>
+<td valign="top"><b>Style Presentations Due</b><br>
 
     <p>Each student will choose 2 movements to present to the class. Share a brief introduction to the movement and at least 3 images.</p>
 
@@ -71,5 +75,22 @@
     <li>Punk Aesthetic (Art Chantry)</li>
     <li>House Industries</li>
     </ul></td>
+</tr>
+<tr>
+        <td valign="top">do</td>
+        <td valign="top"></td>
+        <td valign="top">
+        <ul>
+            <li>Learning Log for as many as needed based on your current knowledge and skill level:</li>
+                <ul>
+                <li>HTML/CSS</li>
+                <li>HTML5/CSS3</li>
+                <li>git/github</li>
+                <li>Javascript/JQuery</li>
+                <li>The Reponsive Web (Media Queries)</li>
+                <li>Frameworks (Bootstrap and Foundation)</li>
+                <li>CSS Preprocessor: SASS</li>
+                </ul>
+        </ul></td>
 </tr>
 </table>

@@ -61,6 +61,7 @@
 * http://html5please.com
 * http://html5readiness.com
 * http://www.html5rocks.com/en/resources
+* [Smashing Magazine's HTML5 Cheat Sheet] (http://media.mediatemple.netdna-cdn.com/wp-content/uploads/images/html5-cheat-sheet/html5-cheat-sheet.pdf)
 * [HTML5 Validator](http://validator.w3.org)
 
 #### CSS & CSS3 Resources
