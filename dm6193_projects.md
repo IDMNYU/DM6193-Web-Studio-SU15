@@ -72,7 +72,6 @@
     </td>
 </tr>
 
-
 <tr>
 <td><strong>Framework Clickthrough / Skeleton</strong></td>
 <td>Using the framework of your choice (hopefully, either Bootstrap or Foundation) and your sitemap, create the skeleton of the directory structure of your site by creating all corresponding folders and files. At the very least there should be a persistent, main navigation (nav) on every page linking to the corresponding pages of your main nav. Every page of your site should be represented. 
@@ -92,16 +91,6 @@
 <td>The most confusing points, and why they were confusing.
 How the material connects with or breaks from your prior knowledge or how it connects with your knowledge from other courses.</td>
 </tr>
-<tr>
-<td>Learning Logs
-</td>
-<td>Identify (name, URL, sections, etc.) at least one tutorial you did, and answer the following questions.
-<ul>
-<li>Instances where you achieved clarity or experienced fragments of knowledge failing into place in your learning.</li>
-<li>Instances where you did NOT achieve clarity and why. What can you do to aid your understanding?</li>
-<li>Connections you made among the week’s readings, lectures, class activities, homework assignments, etc.</li></td>
-</tr>
-
 
 
 <tr>
