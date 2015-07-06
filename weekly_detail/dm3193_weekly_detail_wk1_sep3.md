@@ -23,7 +23,6 @@
         <strong>Class</strong><br>CLASS OVERVIEW &amp; IDEATION 
 <ul>
 <li>Knowledge Survey</li>
-<li>Quiz</li>
 <li>Class Exercise: Your Learning Goals</li>
 <ul>
     <li><i>“There are two reasons for doing anything. A good reason and the real reason.”</i> –J.P. Morgan

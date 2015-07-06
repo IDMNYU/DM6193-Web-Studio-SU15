@@ -20,8 +20,8 @@
     <td>Design (or redesign) and build the front-end (or client-side) of a flat file website by hand-coding. Possible ideas are (but not limited to) a portfolio website, choose your own adventure website, website for a client, etc.<p>Focus on Content first and foremost. Also focus on functionality and interactivity (i.e. javascript, jQuery, &amp; / or CSS3)</p></td>
 </tr>
 <tr>
-    <td>HTML5/CSS3 Framework Website</td> 
-    <td>Recreate your website using the HTML/CSS framework of your choice. Choose one of the following HTML/CSS frameworks (or if you are a CS student discuss with the professor another HTML/CSS framework of your choice):</p>
+    <td>HTML5/CSS3/Responsive Framework Website</td> 
+    <td>Recreate your website using the HTML/CSS responsive framework of your choice. Choose one of the following HTML/CSS frameworks (or if you are a CS student discuss with the professor another HTML/CSS framework of your choice):</p>
     <ul>
     <li>foundation (http://foundation.zurb.com)</li>
     <li>bootstrap (http://getbootstrap.com)</li>
@@ -117,17 +117,6 @@ Identify (name, URL, sections, etc.) at least one tutorial you did, and answer t
 </ul></td>
 </tr>
 
-
-
-<tr>
-<td><strong>Reading Responses</strong></td>
-<td><i>Post to basecamp with a subject of "reading response: name of article" and your name as the category and reflect on one of the following questions.</i>
-<ul>
-<li>The most important point(s) (or the most useful or valuable thing(s) you learned) from the reading, and why.</li>
-<li>The most confusing points, and why they were confusing.</li>
-<li>How the material connects with or breaks from your prior knowledge or how it connects with your knowledge from other courses</li></ul>
-</td>
-</tr>
 <tr>
 <td><strong>Show &amp; Tells<br></strong></td>
 <td><p>Every class session 1 to 2 students will share a link with the class. Dates TBD.</p>

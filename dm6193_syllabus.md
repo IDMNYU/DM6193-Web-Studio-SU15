@@ -9,10 +9,10 @@
     Office: 2MTC MAGNET 882 • Office Phone: 646 997 0718
    
   
-###Github Repository: http://github.com/IDMNYU/DM3193-DWA-FA14
+###Github Repository: http://github.com/IDMNYU/DM6193-Web-Studio-SU15
 
 ####Course Management Site
-* http://basecamp.com | http://polishedsolid.basecamphq.com | http://dwa.polishedsolid.com
+* http://basecamp.com | http://polishedsolid.basecamphq.com | 
 
 ---
 
@@ -47,16 +47,21 @@ The following IDM program goals are reinforced within this course. At a graduate
   * Students will be able to integrate/interface different technologies within a technological ecosystem.
 * 3 – develop **critical thinking skills** that will allow them to analyze and position their work within cultural, historic, aesthetic, economic, and technological contexts.
 * 4 – gain knowledge of **professional practices and organizations** by developing their verbal, visual, and written communication for documentation and presentation, exhibition and promotion, networking, and career preparation.
-* 5 – develop **collaboration skills** to actively and effectively work in a team or group.
+
 
 
 ### COURSE GOALS
 
 This course will reinforce or introduce students to:
 * the web design and development process 
-* information architecture aka user interface (ui)
+  * information design (user interface (ui)) 
+  * visual design
+  * interaction design
 * version control through git and github
-* the responsive web
+* HTML5/CSS3
+* The Responsive Web
+* Javascript/ Javascript Libraries (i.e. JQuery)
+* HTML / CSS Frameworks: Foundation and Bootstrap
 * web accessibility
 
 This course will help students to:
@@ -131,21 +136,18 @@ Students will conduct self assessments as well as be evaluated by the professor 
 
 ##### Quantitative Grading Overview
 
-* 4% Mural.ly boards
-* 5% IDM Coursework Documentation / Portfolio PDF
+* 5% Mood Board
+* 5% IDM Coursework Documentation
+* 5% Portfolio PDF
 * 5% Show & Tells
-* 5% Reading Responses
-Learning Logs
-Tickets to Leave
-HTML Quizzes
 * 5% Midterm Self-Assessment & Rubric
-* 5% Letter to Next Cohort, Final Self-Assessment & Rubric
+* 5% Letter to Next Cohort
 * 5% Project Plan
-* 5% Service Agreement
-* 13% Learning Logs
-* 13% Classroom Exercises
-* 15% Midterm: HTML/CSS Responsive Flat File
-* 20% Final: HTML/CSS Responsive Framework
+* 6% Tickets to Leave
+* 10% Final Self-Assessment & Rubric
+* 12% Learning Logs
+* 17% Midterm: HTML5/CSS3 Responsive Flat File Website
+* 20% Final: HTML5/CSS3 Responsive Framework Website
 
 
 ##### Midterm and Final Grading Overview
