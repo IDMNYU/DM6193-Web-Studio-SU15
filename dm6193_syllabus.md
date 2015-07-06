@@ -95,6 +95,7 @@ Students will conduct self assessments as well as be evaluated by the professor 
 
 ### COMMUNICATING WITH THE PROFESSOR OUTSIDE OF CLASS
 
+* Instead of email we will be using Slack, https://bxmc.slack.com/messages/webstudiosu15/, for communication and sharing files (that are NOT HTML or CSS. i.e. pdfs, pngs, jpgs, gifs, etc.)
 * Direct Message on Slack about logistics (when, where, how many?) ONLY
 * Talk to me in person directly before or after class OR set up an appointment about issues and problems. 
 * **DO NOT email (or direct message on Slack) long conversations. (If your email turns into paragraphs that means you should be talking to me in person not emailing me.)**
