@@ -25,13 +25,13 @@
     </tr>
     <tr>
         <td valign="top">1</td>
-        <td valign="top">Jul 6<br>Intro to Each Other<br>Why Are You Here?<br>What are you expecting to learn?<br>Overview of Course<br>Project Ideas<br>Mural.ly</td>
-        <td valign="top">Jul 8<br>VISUAL DESIGN<br><b>STYLE PRESENTATIONS DUE</b><br>Intro to Typography<br>Google Fonts / Font Squirrel<br>Mood Boards<br>Photoshop Basics</td>
+        <td valign="top">Jul 6 Overview of Course<br><a href="weekly_detail/dm6193_weekly_detail_wk1_jul6.md">Intro to Each Other<br>Why Are You Here?<br>What are you expecting to learn?<br>Overview of Syllabus<br>Project Ideas</a></td>
+        <td valign="top">Jul 8 Visual Design<br><a href="weekly_detail/dm6193_weekly_detail_wk1_jul6.md"><b>STYLE PRESENTATIONS DUE</b><br>Intro to Typography<br>Google Fonts / Font Squirrel<br>Photoshop Basics</a></td>
     </tr>
      <tr>
         <td valign="top">2</td>
-        <td valign="top">Jul 13<br><b>PROJECT PLAN DUE<br>SITEMAP DUE<br>WIREFRAMES / SCHEMATICS DUE</b><br>Intro to HTML<br>Intro to Git &amp; Github</td>
-        <td valign="top">Jul 15<br>Intro to HTML5<br>Intro to CSS for visual style</td>
+        <td valign="top">Jul 13<br><b>PROJECT PLAN DUE<br>SITEMAP DUE<br>WIREFRAMES / SCHEMATICS DUE<br>MOOD BOARDS DUE</b><br>Intro to HTML<br>Intro to Git &amp; Github</td>
+        <td valign="top">Jul 15<br><i>Revised PROJECT PLAN DUE<br>Revised SITEMAP DUE<br>Revised WIREFRAMES / SCHEMATICS DUE<br>Revised MOOD BOARDS DUE</i>Intro to HTML5<br>Intro to CSS for visual style</td>
     </tr>
       <tr>
         <td valign="top">3</td>
