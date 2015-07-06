@@ -48,8 +48,12 @@
     <li>glass door - http://glassdoor.com</li>
     </ul>
 <li>Review Syllabus</li>
+<ul>
+<li>http://gitprint.com</li>
+</ul>
 <li>Discuss Show &amp; Tells</li>
-<li>Discuss Learning Logs</li>
+<li>Discuss and Assign Style Presentations</li>
+<li>Discuss and Assign Learning Logs</li>
 </ul></td>
 <td valign="top"><b>Style Presentations Due</b><br>
 
