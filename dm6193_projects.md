@@ -68,7 +68,7 @@
 </tr>
 <tr>
 <td><strong>Wireframes/Schematics</strong></td>
-<td>Create a sitemap for your website.</td>
+<td>Create wireframes/schematics for your website.</td>
 </tr>
 <tr>
 <td><strong>Mood Board</strong></td>
@@ -94,19 +94,6 @@
 </tr>
 
 
-
-<tr>
-    <td><strong>IDM Coursework Documentation</strong></td>
-    <td><p>Set up your IDM coursework documentation site at sites.bxmc.poly.edu/~yourfirstnamelastname/idm</p>
-<p>Add your blog URL to basecamp underneath, MESSAGES > IDM coursework documentation, as a comment.</p>
-<p>This is a new policy that IDM is implementing this semester. We would like to begin archiving all student coursework.
-We would like all students to document their IDM coursework on sites.bxmc.poly.edu. We want you to archive on
-sites.bxmc.poly.edu because these are IDM servers. If your work is archived on your personal servers, there is a
-possibility that you would delete your archives after they graduate or even sooner.</p>
-<p>If you don’t already have server space, please email Elton Kwok, IDM Technology Director, eltonkwok@nyu.edu,
-MAGNET 883, to set up an appointment for space on sites.bxmc.poly.edu.</p></td>
-
-</tr>
 <tr>
 <td><strong>Learning Logs</strong><br>Each week by Monday before class.</td>
 <td><p><i>Post to basecamp with a subject of "learning log: descriptive name" and your name as the category.</i></p>
@@ -141,9 +128,6 @@ Identify (name, URL, sections, etc.) at least one tutorial you did, and answer t
 <li>How the material connects with or breaks from your prior knowledge or how it connects with your knowledge from other courses</li></ul>
 </td>
 </tr>
-
-
-
 <tr>
 <td><strong>Show &amp; Tells<br></strong></td>
 <td><p>Every class session 1 to 2 students will share a link with the class. Dates TBD.</p>
@@ -173,16 +157,27 @@ will give you a clue as to what you should study before the next class.)</li>
 </ul></td>
 </tr>
 <tr>
-  <td>Responsive Website Rubric</td><td>a handout</td>
+  <td><strong>Responsive Website Rubric</strong></td><td>a handout</td>
 </tr>
+<tr>
+    <td><strong>IDM Coursework Documentation</strong></td>
+    <td><p>Set up your IDM coursework documentation site at sites.bxmc.poly.edu/~yourfirstnamelastname/idm</p>
+<p>Add your blog URL to basecamp underneath, MESSAGES > IDM coursework documentation, as a comment.</p>
+<p>This is a new policy that IDM is implementing this semester. We would like to begin archiving all student coursework.
+We would like all students to document their IDM coursework on sites.bxmc.poly.edu. We want you to archive on
+sites.bxmc.poly.edu because these are IDM servers. If your work is archived on your personal servers, there is a
+possibility that you would delete your archives after they graduate or even sooner.</p>
+<p>If you don’t already have server space, please email Elton Kwok, IDM Technology Director, eltonkwok@nyu.edu,
+MAGNET 883, to set up an appointment for space on sites.bxmc.poly.edu.</p></td>
 
+</tr>
 
 </table>
 
 ### END OF SEMESTER DELIVERABLES
 <table>
 <tr>
-  <td>Framework Website Rubric</td><td>a handout</td>
+  <td><strong>Framework Website Rubric</strong></td><td>a handout</td>
 </tr>
 <tr>
     <td><strong>Letter to Next Cohort</strong></td>
@@ -217,7 +212,7 @@ Of The Course
 </td>
 </tr>
 <tr>
-<td><strong>END OF SEMESTER PDF</strong></td>
+<td><strong>End of Semester pdf</strong></td>
 <td><i>Email as a pdf to deangela.duff@nyu.edu or attach to a message on basecamp.</i> 
 
 PDF Cover:
