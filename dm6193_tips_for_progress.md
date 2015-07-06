@@ -11,6 +11,8 @@
 
 * Get ready to be frustrated. This is an integral part of learning. Everyone makes mistakes; you will too. It is ok.
 
+* Keep Calm and Focus your study.
+
 * Don’t give up when something gets hard. Keep at it.
 
 * Read and/or watch everything you can (multiple resources on the same topic give you different perspectives). Watch and learn from the mistakes you make. These are prime ways to improve your skills. You will continue to learn even if you have been at it for a long time.
@@ -20,10 +22,10 @@
 * Learn Relative Paths.
 
 * Acquire and Use a HTML, CSS, Framework tag list or cheat sheet. (See Resources Folder.) 
-    * [Smashing Magazine's HTML5 Cheat Sheet] (http://media.mediatemple.netdna-cdn.com/wp-content/uploads/images/html5-cheat-sheet/html5-cheat-sheet.pdf)
-    * [Smashing Magazine's CSS Cheat Sheet] (http://coding.smashingmagazine.com/wp-content/uploads/images/css3-cheat-sheet/css3-cheat-sheet.pdf)
-    * [Foundation Cheat Sheet](https://princessdesign.net/foundation-cheat-sheet/)
-    * [Bootstrap Cheat Sheet](http://creativealive.com/wp-content/uploads/2014/01/bootstrap3-cheatsheet.pdf)
+  * [Smashing Magazine's HTML5 Cheat Sheet] (http://media.mediatemple.netdna-cdn.com/wp-content/uploads/images/html5-cheat-sheet/html5-cheat-sheet.pdf)
+  * [Smashing Magazine's CSS Cheat Sheet] (http://coding.smashingmagazine.com/wp-content/uploads/images/css3-cheat-sheet/css3-cheat-sheet.pdf)
+  * [Foundation Cheat Sheet](https://princessdesign.net/foundation-cheat-sheet/)
+  * [Bootstrap Cheat Sheet](http://creativealive.com/wp-content/uploads/2014/01/bootstrap3-cheatsheet.pdf)
 
 * index.html in each folder (except images folder). why?
   * Server can be setup so that this is the default page within a directory

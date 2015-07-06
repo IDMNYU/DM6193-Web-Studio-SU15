@@ -16,11 +16,11 @@
     <td colspan="2"><i>All due dates can be found in the schedule overview grid. This is just an overview and description of all the projects and main assignments for the course. All projects and assignments are subject to change at the discretion of the professor.</i></td>
 </tr>
 <tr>
-    <td>HTML5/CSS3/Responsive Flat File Website</td>  
+    <td><strong>HTML5/CSS3/Responsive Flat File Website</strong></td>  
     <td>Design (or redesign) and build the front-end (or client-side) of a flat file website by hand-coding. Possible ideas are (but not limited to) a portfolio website, choose your own adventure website, website for a client, etc.<p>Focus on Content first and foremost. Also focus on functionality and interactivity (i.e. javascript, jQuery, &amp; / or CSS3)</p></td>
 </tr>
 <tr>
-    <td>HTML5/CSS3/Responsive Framework Website</td> 
+    <td><strong>HTML5/CSS3/Responsive Framework Website</strong></td> 
     <td>Recreate your website using the HTML/CSS responsive framework of your choice. Choose one of the following HTML/CSS frameworks (or if you are a CS student discuss with the professor another HTML/CSS framework of your choice):</p>
     <ul>
     <li>foundation (http://foundation.zurb.com)</li>
@@ -64,11 +64,11 @@
 </tr>
 <tr>
 <td><strong>Sitemap</strong></td>
-<td>Create a sitemap for your website.</td>
+<td>Create a digital (or haptic (only if you have legible handwriting)) <a href="resources/dm6193_ux_resources.md">sitemap</a> for your website.</td>
 </tr>
 <tr>
 <td><strong>Wireframes/Schematics</strong></td>
-<td>Create wireframes/schematics for your website.</td>
+<td>Create a digital (or haptic (only if you have legible handwriting)) <a href="resources/dm6193_ux_resources.md">wireframes/schematics</a> for your website.</td>
 </tr>
 <tr>
 <td><strong>Mood Board</strong></td>

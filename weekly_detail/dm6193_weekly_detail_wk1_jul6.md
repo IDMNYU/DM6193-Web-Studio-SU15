@@ -26,7 +26,7 @@
         <td valign="top">
         <strong>Class</strong><br>CLASS OVERVIEW &amp; IDEATION 
 <ul>
-<li>Knowledge Survey</li>
+<li>Knowledge Survey (Google Form)</li>
 <li>Class Exercise: Your Learning Goals</li>
 <ul>
     <li><i>“There are two reasons for doing anything. A good reason and the real reason.”</i> –J.P. Morgan
@@ -51,6 +51,7 @@
 <ul>
 <li>http://gitprint.com</li>
 </ul>
+<li>Review Tips for Progress</li>
 <li>Discuss Show &amp; Tells</li>
 <li>Discuss and Assign Style Presentations</li>
 <li>Discuss and Assign Learning Logs</li>
@@ -85,6 +86,7 @@
         <td valign="top"></td>
         <td valign="top">
         <ul>
+            <li>Research and prepare style presentation</li>
             <li>Learning Log for as many as needed based on your current knowledge and skill level:</li>
                 <ul>
                 <li>HTML/CSS</li>
