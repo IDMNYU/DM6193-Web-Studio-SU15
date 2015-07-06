@@ -95,32 +95,30 @@ Students will conduct self assessments as well as be evaluated by the professor 
 
 ### COMMUNICATING WITH THE PROFESSOR OUTSIDE OF CLASS
 
-* Email contact about logistics (when, where, how many?) ONLY
-* Talk to me in person directly after or before class or set up an appointment about issues and problems. DO NOT email long conversations. (If your email turns into paragraphs that means you should be talking to me in person not emailing me.)
+* Direct Message on Slack about logistics (when, where, how many?) ONLY
+* Talk to me in person directly before or after class OR set up an appointment about issues and problems. 
+* **DO NOT email (or direct message on Slack) long conversations. (If your email turns into paragraphs that means you should be talking to me in person not emailing me.)**
 
 ### STUDENT RESPONSIBILITIES
 
 * Schedule your time (keep a calendar of some sort) 
 * Come to class on time and participate (be present and engaged)
-* Study outside of class (ideally with classmate(s)
+* Study outside of class (ideally with classmate(s) i.e. Form a Study Group or Team)
 * Devote at a minimum 3 to 6 hours per week outside of class, fulfilling homework assignments, reading, and studying concepts covered in class.
 * **Back up your work constantly** (that's what github is for)
 * Consult slack and github at least once a week for up to date info
 * Complete all assignments by due dates
-* Acquire and read all assigned readings before they are due
+
+### STUDENT VALUES
 * Action – do your absolute best
 * Strive for continuous improvement
 * Pay attention to detail & craft
-* Take risks & be fearless in your projects
-* Have fun!
-
-### STUDENT VALUES
-
 * Have desire amounting to enthusiasm (to learn, to explore)
 * Have self-motivation, proactiveness, and focus 
 * Have patience, persistence, and discipline 
 * Be creative
 * Have self-confidence and pride in your work
+* Have fun!
 
 ### EVALUATION & GRADING
 
