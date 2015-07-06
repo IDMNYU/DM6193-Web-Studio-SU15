@@ -33,7 +33,7 @@ Freely distributed information thatâ€™s relevant to the person reading it. Thatâ
 
 ## Welcome to Web Studio!
 
-In this course, students focus on client and server side programming, as well as the web design and development process. Students are also introduced to databases for the web. Examples of dynamic web applications include content management systems, registration systems, and social media solutions.
+In this course, students focus on client-side web programming, as well as the web design and development process. 
 
 
 ### PROGRAM GOALS
@@ -82,7 +82,7 @@ By the end of the course, students will be able to
 
 ### COURSE STRUCTURE
 
-Class will be comprised of lectures, critiques, show & tells, and working labs. There will be weekly homework assignments that students will present to the class, quizzes, a midterm exam and midterm and final project critiques. We will also have a guest speaker (Date to be determined, depending on their schedule). 
+Class will be comprised of lectures, critiques, show & tells, and working production labs. There will be weekly homework assignments that students will present to the class, quizzes,midterm and final project critiques. We will also have a guest speaker (Date to be determined, depending on their schedule). 
 
 Critiques (AKA crits) are the best way to articulate your ideas to others and get immediate feedback. During the crit, the professor and your classmates analyze and suggest ways to increase the visual and conceptual impact of each existing idea. Take notes when your work is being critiqued and do not edit the responses, whether you agree with them or not. Review your crit notes and reflect upon what was said. Ask yourself how you could combine, transform, or expand the ideas that show the most promise. However, resist the temptation to incorporate all suggestions and comments. Only utilize the ones that work for you and your project. 
 
@@ -96,7 +96,7 @@ Students will conduct self assessments as well as be evaluated by the professor 
 ### COMMUNICATING WITH THE PROFESSOR OUTSIDE OF CLASS
 
 * Email contact about logistics (when, where, how many?) ONLY
-* Talk to me in person directly after class, during your status meeting, or set up an appointment about issues and problems. DO NOT email long conversations. (If your email turns into paragraphs that means you should be talking to me in person not emailing me.)
+* Talk to me in person directly after or before class or set up an appointment about issues and problems. DO NOT email long conversations. (If your email turns into paragraphs that means you should be talking to me in person not emailing me.)
 
 ### STUDENT RESPONSIBILITIES
 
