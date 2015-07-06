@@ -60,15 +60,15 @@
 </tr>
 <tr>
 <td><strong>Project Plan</strong></td>
-<td><a href="assignments/dm6193_project_plan.md">View project plan details</a></td>
+<td><a href="dm6193_project_plan.md">View project plan details</a></td>
 </tr>
 <tr>
 <td><strong>Sitemap</strong></td>
-<td>Create a digital (or haptic (only if you have legible handwriting)) <a href="resources/dm6193_ux_resources.md">sitemap</a> for your website.</td>
+<td>Create a digital (or haptic (only if you have legible handwriting)) <a href="../resources/dm6193_ux_resources.md">sitemap</a> for your website.</td>
 </tr>
 <tr>
 <td><strong>Wireframes/Schematics</strong></td>
-<td>Create a digital (or haptic (only if you have legible handwriting)) <a href="resources/dm6193_ux_resources.md">wireframes/schematics</a> for your website.</td>
+<td>Create a digital (or haptic (only if you have legible handwriting)) <a href="../resources/dm6193_ux_resources.md">wireframes/schematics</a> for your website.</td>
 </tr>
 <tr>
 <td><strong>Mood Board</strong></td>

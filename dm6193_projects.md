@@ -11,12 +11,11 @@
 
 *All due dates can be found in the schedule overview grid. This is just an overview and description of all the projects and main assignments for the course. All projects and assignments are subject to change at the discretion of the professor.*
 
+**You will do one of the following sets of projects (either the beginner track or intermediate/advanced track), NOT both.**
+
 ### PROJECTS for BEGINNERS
 
 <table>
-<tr>
-    <td colspan="2"></td>
-</tr>
 <tr>
     <td><strong>Triterm: HTML5/CSS3/Responsive Flat File Website</strong></td>  
     <td>Design (or redesign) and build the front-end (or client-side) of a flat file website by hand-coding. Possible ideas are (but not limited to) a portfolio website, choose your own adventure website, website for a client, etc.<p>Focus on Content first and foremost. Also focus on functionality and interactivity (i.e. javascript, jQuery, &amp; / or CSS3)</p></td>
@@ -36,7 +35,7 @@
 *You will take a quiz to see if you qualify, as well as post the websites you have developed on slack.*
 <table>
 <tr>
-        <td><strong>Midterm: HTML/CSS Responsive Framework</strong></td>
+        <td><strong>Triterm: HTML/CSS Responsive Framework</strong></td>
         <td><p>Design (or redesign) and build the front-end (or client-side) of a website for a real client of your choosing using the HTML/CSS responsive framework of your choice. If you can not find an external client, build a website for one of your classmates.</p>
 
         <p>Choose one of the following HTML/CSS frameworks or discuss with the professor a HTML/CSS framework of your choice:</p>
@@ -49,7 +48,7 @@
     </tr>
     <tr>
         <td><strong>Final: Course Management System (CMS)</strong></td>
-        <td>Migrate your website to a CMS of your choice (back-end or server-side integration) while maintaining the same look and feel, structure, and layout of your flat file site.
+        <td>Migrate your website to a CMS of your choice (back-end or server-side integration) while maintaining the same look and feel, structure, and layout of your flat file, framework.
 <ul>
 <li>wordpress (http://wordpress.org)</li>
 <li>drupal (http://www.drupal.org)</li>

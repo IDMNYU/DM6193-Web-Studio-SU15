@@ -55,33 +55,7 @@
 <li>Discuss and Assign Style Presentations</li>
 <li>Discuss and Assign Learning Logs</li>
 </ul></td>
-<td valign="top"><b>Style Presentations Due</b><br>
-
-    <p>Each student will choose 2 from the list below to present to the class. Share a brief introduction about your movement, artist, or designer and at least 3 images.</p>
-
-    Great resources are:<br>
-    http://images.google.com<br>
-    http://www.designishistory.com/home<br>
- 
-    <ol>
-    <li>Russian Constructivism</li>
-    <li>Bauhaus</li>
-    <li>Swiss Design (AKA Swiss Style or International Style)</li>
-    <li>Josef Müller-Brockmann</li>
-    <li>New Wave</li>
-    <li>Dada</li>
-    <li>De Stijl</li>
-    <li>Psychedelic Art (The Fillmore)</li>
-    <li>Semiotics (the study of symbols)</li>
-    <li>Art Nouveau</li>
-    <li>Art Deco</li>
-    <li>David Carson (design and typography)</li>
-    <li>Punk Aesthetic (Art Chantry)</li>
-    <li>House Industries (typography)</li>
-    <li>Stefan Sagmeister (design and typography)</li>
-    <li>Paula Scher (design and typography)</li>
-    <li>Hi Res! (web design and development)</li>
-    </ol></td>
+<td valign="top"><a href="assignments/dm6193_style_presentations.md">Style Presentations Due</a></td>
 </tr>
 <tr>
         <td valign="top">do</td>
