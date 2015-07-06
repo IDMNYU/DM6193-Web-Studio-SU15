@@ -64,7 +64,7 @@
     http://images.google.com<br>
     http://www.designishistory.com/home<br>
  
-    <ul>
+    <ol>
     <li>Russian Constructivism</li>
     <li>Bauhaus</li>
     <li>Swiss Design (AKA Swiss Style or International Style)</li>
@@ -78,8 +78,11 @@
     <li>Art Deco</li>
     <li>David Carson (design and typography)</li>
     <li>Punk Aesthetic (Art Chantry)</li>
-    <li>House Industries</li>
-    </ul></td>
+    <li>House Industries (typography)</li>
+    <li>Stefan Sagmeister (design and typography)</li>
+    <li>Paula Scher (design and typography)</li>
+    <li>Hi Res! (web design and development)</li>
+    </ol></td>
 </tr>
 <tr>
         <td valign="top">do</td>
