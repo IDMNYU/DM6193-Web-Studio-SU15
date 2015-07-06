@@ -221,5 +221,8 @@ See Appendix
 ### [PROJECT PLAN](assignments/dm6193_project_plan.md)
 See Appendix
 
+### [TIPS FOR PROGRESS](dm6193_tips_for_progress.md)
+See Appendix
+
 ### [SCHEDULE OVERVIEW GRID] (dm6193_schedule_overview.md)
 See Appendix
