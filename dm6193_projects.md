@@ -36,21 +36,6 @@
 <td><strong>Project Plan</strong></td>
 <td><a href="assignments/dm6193_project_plan.md">View project plan details</a></td>
 </tr>
-
-
-
-<tr>
-<td><strong>Framework Clickthrough / Skeleton</strong></td>
-<td>Using the framework of your choice (hopefully, either Bootstrap or Foundation) and your sitemap, create the skeleton of the directory structure of your site by creating all corresponding folders and files. At the very least there should be a persistent, main navigation (nav) on every page linking to the corresponding pages of your main nav. Every page of your site should be represented. 
-<ul>
-<li>There should be index.html files in every folder.</li>
-<li>There should be at least css, js, and images folders in the root directory. Optionally, a scss or sass folder.</li>
-<li>There should be images folders as needed in each directory.</li>
-<li>You should commit to github.</li>
-</ul>
-</td>
-</tr>
-
 <tr>
 <td><strong>Mood Board</strong></td>
 <td><p>Create your mood board using photoshop or another application of your choice.</p>
@@ -86,6 +71,21 @@
     </ul>
     </td>
 </tr>
+
+
+<tr>
+<td><strong>Framework Clickthrough / Skeleton</strong></td>
+<td>Using the framework of your choice (hopefully, either Bootstrap or Foundation) and your sitemap, create the skeleton of the directory structure of your site by creating all corresponding folders and files. At the very least there should be a persistent, main navigation (nav) on every page linking to the corresponding pages of your main nav. Every page of your site should be represented. 
+<ul>
+<li>There should be index.html files in every folder.</li>
+<li>There should be at least css, js, and images folders in the root directory. Optionally, a scss or sass folder.</li>
+<li>There should be images folders as needed in each directory.</li>
+<li>You should commit to github.</li>
+</ul>
+</td>
+</tr>
+
+
 <tr>
 <td>Reading Responses</td>
 <td>Each week by Monday before class, post to basecamp with a subject of “reading response: name of article” and your name as the category for at least one required article and reflect on one of the following questions.  The most important point(s) (or the most useful or valuable thing(s) you learned) from the reading, and why.</td>
@@ -94,26 +94,15 @@ How the material connects with or breaks from your prior knowledge or how it con
 </tr>
 <tr>
 <td>Learning Logs
-Each week by Monday before class (except last week, Thursday), post to basecamp with a subject of “learning log: descriptive name” and your name as the category.</td>
+</td>
 <td>Identify (name, URL, sections, etc.) at least one tutorial you did, and answer the following questions.
 <ul>
 <li>Instances where you achieved clarity or experienced fragments of knowledge failing into place in your learning.</li>
 <li>Instances where you did NOT achieve clarity and why. What can you do to aid your understanding?</li>
 <li>Connections you made among the week’s readings, lectures, class activities, homework assignments, etc.</li></td>
 </tr>
-<tr>
-    <td>
-HTML5/CSS3 Responsive<br> 
-Self-Assessment</td><td>Critically analyze/evaluate your intro to web development process so far, and discuss what qualitative description you would give your process and why? (i.e. excellent, very good, good, etc. Consult the grading overview descriptions presented earlier in this syllabus.)
-Critically analyze/evaluate your intro to web development execution so far, and discuss what qualitative description you would give your execution and why? (i.e. excellent, very good, good, etc. Consult the grading overview descriptions presented earlier in this syllabus.)</td>
-</tr>
-<tr>
-    <td>HTML/CSS Framework<br> 
-Self-Assessment</td> 
-    <td>Compare and Contrast your experience of hand-coding vs. using a framework. Also, discuss the resources you used heavily during both.
-Critically analyze/evaluate your overall intro to web development process, and discuss what qualitative description you would give your process and why? (i.e. excellent, very good, good, etc. Consult the grading overview descriptions presented earlier in this syllabus.)
-Critically analyze/evaluate your intro to web development framework execution, and discuss what qualitative description you would give your execution and why? (i.e. excellent, very good, good, etc. Consult the grading overview descriptions presented earlier in this syllabus.</td>
-</tr>
+
+
 
 <tr>
     <td><strong>IDM Coursework Documentation</strong></td>
@@ -128,7 +117,7 @@ MAGNET 883, to set up an appointment for space on sites.bxmc.poly.edu.</p></td>
 
 </tr>
 <tr>
-<td><strong>Learning Logs</strong><br></td>
+<td><strong>Learning Logs</strong><br>Each week by Monday before class.</td>
 <td><p><i>Post to basecamp with a subject of "learning log: descriptive name" and your name as the category.</i></p>
 Do as many as needed based on your needs: 
 <ul>
@@ -162,20 +151,6 @@ Identify (name, URL, sections, etc.) at least one tutorial you did, and answer t
 </td>
 </tr>
 
-<tr>
-<td><strong>Self-Assessment: Midterm<br></strong></td>
-<td><p><i>Email your midterm self assessment as a pdf to deangela.duff@nyu.edu. Do NOT put self assessments on basecamp, a public forum.</i></p>
-
-<p>Critically analyze/evaluate your <strong>web design and development process</strong> and how it is has changed over the course of the semester.</p>
-<ul> 
-<li>What are you learning?</li> 
-<li>How are your learning?</li>
-<li>What qualitative description would you give your process and why? (i.e. excellent, very good, good, etc. Consult the grading overview descriptions presented earlier in this syllabus.)</li>
-<li>What qualitative description would you give the execution of your logo project and why?</li>
-</ul>
-</td>
-</tr>
-
 
 
 <tr>
@@ -206,13 +181,18 @@ material provided and answer 1 or both of the following questions:
 will give you a clue as to what you should study before the next class.)</li>
 </ul></td>
 </tr>
-
+<tr>
+  <td>Responsive Website Rubric (a handout)</td>
+</tr>
 
 
 </table>
 
 ### END OF SEMESTER DELIVERABLES
 <table>
+<tr>
+  <td>Framework Website Rubric (a handout)</td>
+</tr>
 <tr>
     <td><strong>Letter to Next Cohort</strong></td>
     <td><i>Email your letter as a pdf to deangela.duff@nyu.edu. Do NOT put letters on basecamp, a public forum.</i> 
@@ -226,11 +206,12 @@ will give you a clue as to what you should study before the next class.)</li>
 
 Of Self<br>
 <ul>
-<li>How has your <strong>web design and development process</strong> changed, since beginning this course? Evaluate your increased awareness and understanding of the <strong>web design and development process</strong>
-<li>If your growth is not where you would like it to be, what specific steps will you take to improve your skills?
-<li>What resources have you found to be specifically helpful to you for this course? And why?
+<li>How has your <strong>web design and development process</strong> changed, since beginning this course? Evaluate your increased awareness and understanding of the <strong>web design and development process</strong></li>
+<li>Compare and Contrast your experience of hand-coding vs. using a framework.</li> 
+<li>If your growth is not where you would like it to be, what specific steps will you take to improve your skills?</li>
+<li>What resources have you found to be specifically helpful to you for this course? And why?</li>
 <li>Did you accomplish your goals that you established at the outset of this course?
-What other things have you learned in this course?
+What other things have you learned in this course?</li>
 </ul>
 Of Classmates
 <ul>
