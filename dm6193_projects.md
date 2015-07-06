@@ -85,13 +85,6 @@
 </tr>
 
 
-<tr>
-<td>Reading Responses</td>
-<td>Each week by Monday before class, post to basecamp with a subject of “reading response: name of article” and your name as the category for at least one required article and reflect on one of the following questions.  The most important point(s) (or the most useful or valuable thing(s) you learned) from the reading, and why.</td>
-<td>The most confusing points, and why they were confusing.
-How the material connects with or breaks from your prior knowledge or how it connects with your knowledge from other courses.</td>
-</tr>
-
 
 <tr>
     <td><strong>IDM Coursework Documentation</strong></td>
