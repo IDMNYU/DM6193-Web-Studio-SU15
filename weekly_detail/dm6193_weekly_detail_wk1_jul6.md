@@ -27,14 +27,13 @@
         <strong>Class</strong><br>CLASS OVERVIEW &amp; IDEATION 
 <ul>
 <li>Knowledge Survey (Google Form)</li>
-<li>Class Exercise: Your Learning Goals</li>
-<ul>
-    <li><i>“There are two reasons for doing anything. A good reason and the real reason.”</i> –J.P. Morgan
-    <li>Why am I in this class? Why have I chosen to be sitting here NOW? Is there some better place I could be?</li>
+<li>Class Exercise: Your Learning Goals<br><i>“There are two reasons for doing anything. A good reason and the real reason.”</i> –J.P. Morgan</li>
+    <ul>
+    <li>
+    <li>Why am I in this class? Why have I chosen to be sitting here NOW?</li>
     <li>What do I hope I will learn?</li> 
     <li>What are my goals?</li>
     <li>What content do I think will help me accomplish my learning goals?</li>
-    <li>What are my existing skill sets as it relates to this course?</li> 
     <li>What websites have you designed &amp; developed?</li>
     </ul>
 <li>Discussion of job boards for web design and development</li>
@@ -48,9 +47,9 @@
     <li>glass door - http://glassdoor.com</li>
     </ul>
 <li>Review Syllabus</li>
-<ul>
-<li>http://gitprint.com</li>
-</ul>
+    <ul>
+    <li>http://gitprint.com</li>
+    </ul>
 <li>Review Tips for Progress</li>
 <li>Discuss Show &amp; Tells</li>
 <li>Discuss and Assign Style Presentations</li>
@@ -58,7 +57,7 @@
 </ul></td>
 <td valign="top"><b>Style Presentations Due</b><br>
 
-    <p>Each student will choose 2 movements to present to the class. Share a brief introduction to the movement and at least 3 images.</p>
+    <p>Each student will choose 2 from the list below to present to the class. Share a brief introduction about your movement, artist, or designer and at least 3 images.</p>
 
     Great resources are:<br>
     http://images.google.com<br>
