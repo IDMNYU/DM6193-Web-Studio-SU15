@@ -33,20 +33,7 @@
 ### ASSIGNMENTS
 <table>
 <tr>
-<td><strong>Project Plan</strong></td>
-<td><a href="assignments/dm6193_project_plan.md">View project plan details</a></td>
-</tr>
-<tr>
-<td><strong>Mood Board</strong></td>
-<td><p>Create your mood board using photoshop or another application of your choice.</p>
-<p>Use the Template Mood Board (NOT the collage mood board) in the link below as a guide. The only thing that is missing from the Template Mood Board guide is the functionality or interactivity you’d also like to include in your site.</p>
-
-<p>http://www.webdesignerdepot.com/2008/12/why-mood-boards-matter</p>
-
-<p>Post a png to basecamp.</p></td>
-</tr>
-<tr>
-    <td>Stylistic Movements Presentation
+    <td><b>Stylistic Movements Presentation</b>
     Each student will choose 2 movements to present to the class. Share a brief introduction to the movement and at least 3 images.
 
     Great resources are:
@@ -71,10 +58,32 @@
     </ul>
     </td>
 </tr>
+<tr>
+<td><strong>Project Plan</strong></td>
+<td><a href="assignments/dm6193_project_plan.md">View project plan details</a></td>
+</tr>
+<tr>
+<td><strong>Sitemap</strong></td>
+<td>Create a sitemap for your website.</td>
+</tr>
+<tr>
+<td><strong>Wireframes/Schematics</strong></td>
+<td>Create a sitemap for your website.</td>
+</tr>
+<tr>
+<td><strong>Mood Board</strong></td>
+<td><p>Create your mood board using photoshop or another application of your choice.</p>
+<p>Use the Template Mood Board (NOT the collage mood board) in the link below as a guide. The only thing that is missing from the Template Mood Board guide is the functionality or interactivity you’d also like to include in your site.</p>
+
+<p>http://www.webdesignerdepot.com/2008/12/why-mood-boards-matter</p>
+
+<p>Post a png to basecamp.</p></td>
+</tr>
+
 
 <tr>
-<td><strong>Framework Clickthrough / Skeleton</strong></td>
-<td>Using the framework of your choice (hopefully, either Bootstrap or Foundation) and your sitemap, create the skeleton of the directory structure of your site by creating all corresponding folders and files. At the very least there should be a persistent, main navigation (nav) on every page linking to the corresponding pages of your main nav. Every page of your site should be represented. 
+<td><strong>Clickthrough / Skeleton</strong></td>
+<td>Using your sitemap, create the skeleton of the directory structure of your site by creating all corresponding folders and files. At the very least there should be a persistent, main navigation (nav) on every page linking to the corresponding pages of your main nav. Every page of your site should be represented. 
 <ul>
 <li>There should be index.html files in every folder.</li>
 <li>There should be at least css, js, and images folders in the root directory. Optionally, a scss or sass folder.</li>
@@ -164,7 +173,7 @@ will give you a clue as to what you should study before the next class.)</li>
 </ul></td>
 </tr>
 <tr>
-  <td>Responsive Website Rubric (a handout)</td>
+  <td>Responsive Website Rubric</td><td>a handout</td>
 </tr>
 
 
@@ -173,7 +182,7 @@ will give you a clue as to what you should study before the next class.)</li>
 ### END OF SEMESTER DELIVERABLES
 <table>
 <tr>
-  <td>Framework Website Rubric (a handout)</td>
+  <td>Framework Website Rubric</td><td>a handout</td>
 </tr>
 <tr>
     <td><strong>Letter to Next Cohort</strong></td>
