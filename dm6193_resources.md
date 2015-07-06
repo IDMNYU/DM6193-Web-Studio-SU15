@@ -20,7 +20,7 @@
 
 #### Books
 
-    * Available as an ebook through [NYU Poly’s Library website](http://poly.libguides.com/ebooks) via books 24x7
+    * Available as an ebook through <a href="http://poly.libguides.com/ebooks">NYU Poly’s Library website</a> via books 24x7
     ** Available as an ebook through NYU Poly’s Library’s website via Safari
 
 * [HTML & CSS by Jon Duckett] (http://www.amazon.com/HTML-CSS-Design-Build-Websites/dp/1118008189)* 
