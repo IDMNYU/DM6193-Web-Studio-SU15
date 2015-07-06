@@ -170,14 +170,14 @@ MAGNET 883, to set up an appointment for space on sites.bxmc.poly.edu.</p></td>
 </tr>
 <tr>
     <td><strong>Letter to Next Cohort</strong></td>
-    <td><i>Email your letter as a pdf to deangela.duff@nyu.edu. Do NOT put letters on basecamp, a public forum.</i> 
+    <td><i>Direct message a pdf on slack to deangela. Do NOT put letters on our slack channel, a public forum.</i> 
     <ul>
     <li>Write a letter to the next class giving them advice on how to reach their learning goals and get value out of this course.</li>
     </ul></td>
 </tr>
 <tr>
     <td><strong>Self-Assessment: Final<br></strong></td>
-    <td><p><i>Email your final self assessment as a pdf to deangela.duff@nyu.edu. Do NOT put self assessments on basecamp, a public forum.</i></p>
+    <td><p><i>Direct message a pdf on slack. Do NOT put self-assessment on our slack channel, a public forum.</i></p>
 
 Of Self<br>
 <ul>
@@ -202,7 +202,7 @@ Of The Course
 </tr>
 <tr>
 <td><strong>End of Semester pdf</strong></td>
-<td><i>Email as a pdf to deangela.duff@nyu.edu or attach to a message on basecamp.</i> 
+<td><i>Post on our slack channel</i> 
 
 PDF Cover:
 <ul>

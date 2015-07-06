@@ -12,7 +12,7 @@
 ###Github Repository: http://github.com/IDMNYU/DM6193-Web-Studio-SU15
 
 ####Course Management Site
-* https://bxmc.slack.com/messages/webstudiosu15/ (you will receive an email that invites you to the channel)
+* https://bxmc.slack.com/messages/webstudiosu15/ (you will receive an email that invites you to this slack channel)
 
 ---
 
@@ -31,9 +31,9 @@ Freely distributed information thatâ€™s relevant to the person reading it. Thatâ
 ---
 
 
-## Welcome to Web Studio!
+# Welcome to Web Studio!
 
-In this course, students focus on client-side web programming, as well as the web design and development process. 
+In this course, students will focus on client-side web programming, as well as the web design and development process. 
 
 
 ### PROGRAM GOALS
