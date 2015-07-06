@@ -10,11 +10,10 @@
 
 ## REQUIRED RESOURCES
 
-
-
+* [w3schools] (http://w3schools.com)
+* [learnlayout.com] (http://learnlayout.com)
 * [Learn Shay Howe] (http://learn.shayhowe.com)
 * [lynda.com] (http://lynda.com)
-* [w3schools] (http://w3schools.com)
 
 
 ## RECOMMENDED RESOURCES
