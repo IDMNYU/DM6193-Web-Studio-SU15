@@ -12,8 +12,8 @@
 Each student will choose 2 movements, artists, or designers to present to the class. Share a brief introduction to the movements, artists, or designers and at least 3 images.
 
 Great resources are:
-* http://images.google.com
-* http://www.designishistory.com/home
+http://images.google.com
+http://www.designishistory.com/home
 
 
 * Russian Constructivism - Bobby
