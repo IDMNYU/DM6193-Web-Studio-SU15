@@ -12,31 +12,31 @@
 <table>
 <tr>
     <td><b>Stylistic Movements Presentation</b>
-    Each student will choose 2 movements to present to the class. Share a brief introduction to the movement and at least 3 images.
+    Each student will choose 2 movements, artists, or designers to present to the class. Share a brief introduction to the movements, artists, or designers and at least 3 images.
 
     Great resources are:
     http://images.google.com
     http://www.designishistory.com/home</td>
     <td>
     <ul>
-    <li>Russian Constructivism</li>
+    <li>Russian Constructivism - Bobby</li>
     <li>Bauhaus</li>
     <li>Swiss Design (AKA Swiss Style or International Style)</li>
-    <li>Josef Müller-Brockmann</li>
-    <li>New Wave</li>
-    <li>Dada</li>
-    <li>De Stijl</li>
-    <li>Psychedelic Art (The Fillmore)</li>
+    <li>Josef Müller-Brockmann - Anneka</li>
+    <li>New Wave - Yoshi</li>
+    <li>Dada - Bobby</li>
+    <li>De Stijl - Rui</li>
+    <li>Psychedelic Art (The Fillmore) - Sriya</li>
     <li>Semiotics (the study of symbols)</li>
-    <li>Art Nouveau</li>
-    <li>Art Deco</li>
-    <li>David Carson (design and typography)</li>
-    <li>Punk Aesthetic (Art Chantry)</li>
-    <li>Stefan Sagmeister</li>
-    <li>Paula Scher</li>
-    <li>Hi Res!</li>
-    <li>House Industries</li>
-    <li>Ellen Lupton</li>
+    <li>Art Nouveau - Rui</li>
+    <li>Art Deco - Sriya</li>
+    <li>David Carson (design and typography) - Monica</li>
+    <li>Punk Aesthetic (Art Chantry) - Monica</li>
+    <li>Stefan Sagmeister - Manuel</li>
+    <li>Paula Scher - Yoshi</li>
+    <li>Hi Res! - Anneka</li>
+    <li>House Industries - Manuel</li>
+    <li>Ellen Lupton </li>
     </ul>
     </td>
 </tr>
