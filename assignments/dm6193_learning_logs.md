@@ -10,7 +10,7 @@
 ## LEARNING LOGS
 <table>
 <tr>
-<td><p><i>Post to basecamp with a subject of "learning log: descriptive name" and your name as the category.</i></p>
+<td><p><i>Post to slack. Begin message with "LL: descriptive name" (where descriptive name is a title that describes your show and tell).</i></p>
 Do as many as needed based on your needs: 
 <ul>
 <li>HTML/CSS</li>
@@ -23,7 +23,7 @@ Do as many as needed based on your needs:
 <li>Other Web Technologies (as applicable to your project)</li>
 </ul>
 
-Identify (name, URL, sections, etc.) at least one tutorial you did, and answer the following questions.
+<b>Identify (name, URL, sections, etc.)</b> at least one tutorial you did, and answer the following questions.
 <ul>
 <li>Instances where you achieved clarity or experienced fragments of knowledge falling into place in your learning.</li>
 <li>Instances where you did NOT achieve clarity and why. What can you do to aid your understanding?</li>

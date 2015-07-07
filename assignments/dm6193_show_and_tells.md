@@ -12,7 +12,7 @@
 <table>
 <tr>
 <td><p>Every class session 1 to 2 students will share a link with the class. Dates TBD.</p>
-<p><i>Post a message to basecamp with a subject of "show &amp; tell: descriptive name" and your name as the category. You will post 2 for the semeter. Dates TBD.</i></p>
+<p><i>Post to slack. Begin message with "S&amp;T: descriptive name" (where descriptive name is a title that describes your show and tell). You will post 2 for the semester. Dates TBD.</i></p>
 
 For post 1, select a link to one of the following:
 <ul>
@@ -20,7 +20,7 @@ For post 1, select a link to one of the following:
 <li>a website that is well designed visually.</li>
 <li>a website that has an interesting use of technology.</li>
 </ul>
- For post 2, select a link to one of the following:
+For post 2, select a link to one of the following:
 <ul>
 <li>a link to an article or tutorial about HTML5, CSS3, mobile first, the responsive web, and other web related issues.</li>
 </ul>
