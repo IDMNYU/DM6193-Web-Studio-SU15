@@ -45,13 +45,13 @@
     </tr>
     <tr>
         <td valign="top">5</td>
-        <td valign="top">Aug 3<br><b>RESPONSIVE WEBSITE DUE<br>SELF-ASSESSMENT: MIDTERM DUE<br>RESPONSIVE WEBSITE RUBRIC DUE</b><br>CSS Preprocessors: SASS vs. LESS<br>SASS</td>
+        <td valign="top">Aug 3<br><b>TRITERM WEBSITE DUE<br>SELF-ASSESSMENT: TRITERM DUE<br>TRITERM WEBSITE RUBRIC DUE</b><br>CSS Preprocessors: SASS vs. LESS<br>SASS</td>
         <td valign="top">Aug 5<br>HTML / CSS Frameworks Foundation Vs.
 bootstrap<br>Production</td>
     </tr>
     <tr>
         <td valign="top">6</td>
         <td valign="top">Aug 10<br>Web Accessibility<br>Production</td>
-        <td valign="top">Aug 12<br><b>FRAMEWORK WEBSITE DUE<br>SELF-ASSESSMENT: FINAL DUE<br>FRAMEWORK WEBSITE RUBRIC DUE</b></td>
+        <td valign="top">Aug 12<br><b>FINAL WEBSITE DUE<br>SELF-ASSESSMENT: FINAL DUE<br>FINAL WEBSITE RUBRIC DUE</b></td>
     </tr>
 </table>
