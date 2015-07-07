@@ -138,18 +138,18 @@ Students will conduct self assessments as well as be evaluated by the professor 
 * 5% Mood Board
 * 5% IDM Coursework Documentation
 * 5% Portfolio PDF
-* 5% Show & Tells
-* 5% Midterm Self-Assessment & Rubric
+* 5% Triterm Self-Assessment & Rubric
 * 5% Letter to Next Cohort
 * 5% Project Plan
 * 6% Tickets to Leave
+* 6% Show & Tells (A total of 3 including stylistic movements)
 * 10% Final Self-Assessment & Rubric
-* 12% Learning Logs
-* 17% Midterm: HTML5/CSS3 Responsive Flat File Website
-* 20% Final: HTML5/CSS3 Responsive Framework Website
+* 12% Learning Logs (A total of at least 12)
+* 16% Triterm
+* 20% Final
 
 
-##### Midterm and Final Grading Overview
+##### Triterm and Final Grading Overview
 
 * 40% Participation in the mandatory class critique
 * 20% Information Design
