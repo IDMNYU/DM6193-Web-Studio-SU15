@@ -36,26 +36,20 @@
     <li>What content do I think will help me accomplish my learning goals?</li>
     <li>What websites have you designed &amp; developed?</li>
     </ul>
-<li>Discussion of job boards for web design and development</li>
-    <ul>
-    <li>37signals - http://jobs.37signals.com</li>
-    <li>aiga - http://designjobs.aiga.org</li>
-    <li>coroflot - http://www.coroflot.com/public/jobs_browse.asp</li>
-    <li>creative hotlist - http://www.creativehotlist.com</li>
-    <li>krop - http://www.krop.com</li>
-    <li>adobe design achievement awards - http://adaaentry.com</li>
-    <li>glass door - http://glassdoor.com</li>
-    </ul>
+<li>Discussion of <a href="../dm6193_resources.md">job boards for web design and development</a></li>
 <li>Review Syllabus</li>
     <ul>
     <li>http://gitprint.com</li>
     </ul>
 <li>Review Tips for Progress</li>
-<li>Discuss Show &amp; Tells</li>
 <li>Discuss and Assign Style Presentations</li>
-<li>Discuss and Assign Learning Logs</li>
 </ul></td>
-<td valign="top"><a href="../assignments/dm6193_style_presentations.md">Style Presentations Due</a></td>
+<td valign="top">
+<ul>
+<li><a href="../assignments/dm6193_style_presentations.md">Style Presentations Due</a></li>
+<li>Discuss Show &amp; Tells</li>
+<li>Discuss Learning Logs</li>
+</ul></td>
 </tr>
 <tr>
         <td valign="top">do</td>
