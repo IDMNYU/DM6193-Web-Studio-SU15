@@ -12,7 +12,7 @@
 <table>
 <tr>
 <td><p>Every class session 1 to 2 students will share a link with the class. Dates TBD.</p>
-<p><i>Post to slack. Begin message with "S&amp;T: descriptive name" (where descriptive name is a title that describes your show and tell). You will post 2 for the semester. Dates TBD.</i></p>
+<p><b>Post to slack. Begin message with "S&amp;T: descriptive name" (where descriptive name is a title that describes your show and tell). You will post 2 for the semester. Dates TBD.</b></p>
 
 For post 1, select a link to one of the following:
 <ul>

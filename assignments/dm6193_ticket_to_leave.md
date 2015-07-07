@@ -9,7 +9,7 @@
 
 ## TICKET TO LEAVE
 
-At the end of each class period, before you leave <p><i>post to slack. Begin message with "TTL"</i></p>
+At the end of each class period, before you leave <p><b>post to slack. Begin message with "TTL"</b></p>
 
 Respond to 1 or both of the following:
 * List **at least 1** thing you learned today in class.

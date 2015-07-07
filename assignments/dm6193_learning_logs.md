@@ -10,7 +10,7 @@
 ## LEARNING LOGS
 <table>
 <tr>
-<td><p><i>Post to slack. Begin message with "LL: descriptive name" (where descriptive name is a title that describes your show and tell).</i></p>
+<td><p><b>Post to slack. Begin message with "LL: descriptive name" (where descriptive name is a title that describes your show and tell).</b></p>
 Do as many as needed based on your needs: 
 <ul>
 <li>HTML/CSS</li>

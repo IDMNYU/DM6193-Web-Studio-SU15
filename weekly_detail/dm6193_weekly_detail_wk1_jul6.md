@@ -62,8 +62,14 @@
         <td valign="top"></td>
         <td valign="top">
         <ul>
-            <li>Research and prepare style presentation</li>
-            <li>Learning Log for as many as needed based on your current knowledge and skill level:</li>
+            <li>Research and prepare <a href="../assignments/dm6193_style_presentations.md">Style Presentations Due</a></li>
+            <li>Decide whether or not you want to follow the <a href="../dm6193_projects.md">beginner's or intermediate track</a></li>
+            <ul>
+                <li>If you decide to follow intermediate track, please post on slack links to your websites.</li>
+                <li>You will also be required to take a quiz to test your knowledge.</li>
+            </ul>
+            <li>Be prepared to discuss your website project idea</li>
+            <li><a href="../assignments/dm6193_learning_logs.md">Learning Log</a> for as many as needed based on your current knowledge and skill level:</li>
                 <ul>
                 <li>HTML/CSS</li>
                 <li>HTML5/CSS3</li>
