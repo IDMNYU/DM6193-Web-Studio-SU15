@@ -55,7 +55,7 @@
 <li>Discuss and Assign Style Presentations</li>
 <li>Discuss and Assign Learning Logs</li>
 </ul></td>
-<td valign="top"><a href="assignments/dm6193_style_presentations.md">Style Presentations Due</a></td>
+<td valign="top"><a href="../assignments/dm6193_style_presentations.md">Style Presentations Due</a></td>
 </tr>
 <tr>
         <td valign="top">do</td>

@@ -10,7 +10,6 @@
 ## LEARNING LOGS
 <table>
 <tr>
-<td><strong>Learning Logs</strong><br>Each week by Monday before class.</td>
 <td><p><i>Post to basecamp with a subject of "learning log: descriptive name" and your name as the category.</i></p>
 Do as many as needed based on your needs: 
 <ul>

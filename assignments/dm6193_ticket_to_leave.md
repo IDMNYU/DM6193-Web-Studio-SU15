@@ -11,7 +11,6 @@
 
 <table>
 <tr>
-<td><strong>Ticket to Leave</strong></td>
 <td>Each class period, before you leave write your name on the writing
 material provided and answer 1 or both of the following questions:
 <ul>

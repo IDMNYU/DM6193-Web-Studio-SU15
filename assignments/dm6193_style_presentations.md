@@ -9,60 +9,38 @@
 
 ## STYLE PRESENTATIONS
 
-Refer to http://www.webmonkey.com/2010/02/information_architecture_tutorial for more detailed information. Should be 1 or 2 pages maximum. Be clear, concise, and to the point.
-
-**Post as a pdf on our slack channel.**
-
 <table>
-    <tr>
-        <td>Title</td>
-        <td><ul>
-            <li>Your first and last name</li>
-            <li>Optional: Your client's name or organization</li>
-            <li>Web Studio</li>
-            <li>NYU School of Engineering</li>
-            <li>Summer 2015</li>
-            </ul></td>
-    </tr>
-    <tr>
-        <td>Project Statement / Goal</td>
-        <td>Define the core idea of your website. What is this about? What’s the problem you’re trying to solve or opportunity you are trying to create? Think elevator pitch.</td>
-    </tr>
-    <tr>
-        <td>Your motivation, drive, and/or purpose</td>
-        <td>Why are you doing this project? What are you discovering here? What questions are you asking? What are you exploring?</td>
-    </tr>
-    <tr>
-        <td>Target Audience</td>
-        <td>Who is this website for? Please note that everyone is not a valid answer. Target is the key word here. Why will people come to your site?</td>
-    </tr>
-    <tr>
-        <td>Competitive Analysis</td>
-        <td>What sites are similar to yours and how will yours be different? How will your site be positioned (branding) and differentiated (market and competitors or like works)?)</td>
-    </tr>
-    <tr>
-        <td>Content Requirements</td>
-        <td>Content is King! What types of content will your site have? 
-</td>
-    </tr>
-    <tr>
-        <td>Technical Requirements /Functionality</td>
-        <td>What are the tech requirements / functionality of your site?</td>
-    </tr>
-    <tr>
-        <td>Creative Brief</td>
-        <td>What will be the look and feel of your site, including, but not limited to, stylistic influences, color, typography?</td>
-    </tr>
-    <tr>
-        <td>Future Iterations</td>
-        <td>Discuss any content, tech, or creative requirements you’d like to add to your site during future iterations.</td>
-    </tr>
-    <tr>
-        <td>Risks</td>
-        <td>What are your risks of failure? (lack of tech, time, knowledge, etc.)</td>
-    </tr>
-</table>
+<tr>
+    <td><b>Stylistic Movements Presentation</b>
+    Each student will choose 2 movements to present to the class. Share a brief introduction to the movement and at least 3 images.
 
+    Great resources are:
+    http://images.google.com
+    http://www.designishistory.com/home</td>
+    <td>
+    <ul>
+    <li>Russian Constructivism</li>
+    <li>Bauhaus</li>
+    <li>Swiss Design (AKA Swiss Style or International Style)</li>
+    <li>Josef Müller-Brockmann</li>
+    <li>New Wave</li>
+    <li>Dada</li>
+    <li>De Stijl</li>
+    <li>Psychedelic Art (The Fillmore)</li>
+    <li>Semiotics (the study of symbols)</li>
+    <li>Art Nouveau</li>
+    <li>Art Deco</li>
+    <li>David Carson (design and typography)</li>
+    <li>Punk Aesthetic (Art Chantry)</li>
+    <li>Stefan Sagmeister</li>
+    <li>Paula Scher</li>
+    <li>Hi Res!</li>
+    <li>House Industries</li>
+    <li>Ellen Lupton</li>
+    </ul>
+    </td>
+</tr>
+</table>
 
 
 

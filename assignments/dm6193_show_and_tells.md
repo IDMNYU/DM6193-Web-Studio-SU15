@@ -11,7 +11,6 @@
 
 <table>
 <tr>
-<td><strong>Show &amp; Tells<br></strong></td>
 <td><p>Every class session 1 to 2 students will share a link with the class. Dates TBD.</p>
 <p><i>Post a message to basecamp with a subject of "show &amp; tell: descriptive name" and your name as the category. You will post 2 for the semeter. Dates TBD.</i></p>
 
