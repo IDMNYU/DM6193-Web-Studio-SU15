@@ -7,57 +7,9 @@
 
 ---
 
-## Projects and Assignments
-
-### PROJECTS
-
-<table>
-<tr>
-    <td colspan="2"><i>All due dates can be found in the schedule overview grid. This is just an overview and description of all the projects and main assignments for the course. All projects and assignments are subject to change at the discretion of the professor.</i></td>
-</tr>
-<tr>
-    <td><strong>HTML5/CSS3/Responsive Flat File Website</strong></td>  
-    <td>Design (or redesign) and build the front-end (or client-side) of a flat file website by hand-coding. Possible ideas are (but not limited to) a portfolio website, choose your own adventure website, website for a client, etc.<p>Focus on Content first and foremost. Also focus on functionality and interactivity (i.e. javascript, jQuery, &amp; / or CSS3)</p></td>
-</tr>
-<tr>
-    <td><strong>HTML5/CSS3/Responsive Framework Website</strong></td> 
-    <td>Recreate your website using the HTML/CSS responsive framework of your choice. Choose one of the following HTML/CSS frameworks (or if you are a CS student discuss with the professor another HTML/CSS framework of your choice):</p>
-    <ul>
-    <li>foundation (http://foundation.zurb.com)</li>
-    <li>bootstrap (http://getbootstrap.com)</li>
-    </ul>
-    </td>
-<tr>
-</table>
-
 ### ASSIGNMENTS
 <table>
-<tr>
-    <td><b>Stylistic Movements Presentation</b>
-    Each student will choose 2 movements to present to the class. Share a brief introduction to the movement and at least 3 images.
 
-    Great resources are:
-    http://images.google.com
-    http://www.designishistory.com/home</td>
-    <td>
-    <ul>
-    <li>Russian Constructivism</li>
-    <li>Bauhaus</li>
-    <li>Swiss Design (AKA Swiss Style or International Style)</li>
-    <li>Josef Müller-Brockmann</li>
-    <li>New Wave</li>
-    <li>Dada</li>
-    <li>De Stijl</li>
-    <li>Psychedelic Art (The Fillmore)</li>
-    <li>Semiotics (the study of symbols)</li>
-    <li>Art Nouveau</li>
-    <li>Art Deco</li>
-    <li>David Carson (design and typography)</li>
-    <li>Punk Aesthetic (Art Chantry)</li>
-    <li>House Industries</li>
-    </ul>
-    </td>
-</tr>
 <tr>
 <td><strong>Project Plan</strong></td>
 <td><a href="dm6193_project_plan.md">View project plan details</a></td>
@@ -93,58 +45,6 @@
 </td>
 </tr>
 
-
-<tr>
-<td><strong>Learning Logs</strong><br>Each week by Monday before class.</td>
-<td><p><i>Post to basecamp with a subject of "learning log: descriptive name" and your name as the category.</i></p>
-Do as many as needed based on your needs: 
-<ul>
-<li>HTML/CSS</li>
-<li>HTML5/CSS3</li>
-<li>Javascript/JQuery</li>
-<li>The Reponsive Web (Media Queries)</li>
-<li>Frameworks (Bootstrap and Foundation)</li>
-<li>CSS Preprocessor: SASS</li>
-<li>CMS: Wordpress, Drupal, or Ruby on Rails</li>
-<li>Other Web Technologies (as applicable to your project)</li>
-</ul>
-
-Identify (name, URL, sections, etc.) at least one tutorial you did, and answer the following questions.
-<ul>
-<li>Instances where you achieved clarity or experienced fragments of knowledge falling into place in your learning.</li>
-<li>Instances where you did NOT achieve clarity and why. What can you do to aid your understanding?</li>
-<li>Connections you made among the week’s readings, lectures, class activities, homework assignments, etc.</li>
-</ul></td>
-</tr>
-
-<tr>
-<td><strong>Show &amp; Tells<br></strong></td>
-<td><p>Every class session 1 to 2 students will share a link with the class. Dates TBD.</p>
-<p><i>Post a message to basecamp with a subject of "show &amp; tell: descriptive name" and your name as the category. You will post 2 for the semeter. Dates TBD.</i></p>
-
-For post 1, select a link to one of the following:
-<ul>
-<li>a website that has clear navigation and visual hierarchy.</li>
-<li>a website that is well designed visually.</li>
-<li>a website that has an interesting use of technology.</li>
-</ul>
- For post 2, select a link to one of the following:
-<ul>
-<li>a link to an article or tutorial about HTML5, CSS3, mobile first, the responsive web, and other web related issues.</li>
-</ul>
-<p>For both posts, briefly describe why you think the class should know about this link?</td>
-</tr>
-
-<tr>
-<td><strong>Ticket to Leave</strong></td>
-<td>Each class period, before you leave write your name on the writing
-material provided and answer 1 or both of the following questions:
-<ul>
-<li>What are the three most important points you learned today in class?</li>
-<li>What concept(s) confuses you from today’s lecture or exercises? (This
-will give you a clue as to what you should study before the next class.)</li>
-</ul></td>
-</tr>
 <tr>
   <td><strong>Responsive Website Rubric</strong></td><td>a handout</td>
 </tr>
