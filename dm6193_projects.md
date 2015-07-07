@@ -13,6 +13,8 @@
 
 **You will do one of the following sets of projects (either the beginner track or intermediate/advanced track), NOT both.**
 
+**All Triterms and Final Websites must be uploaded to a web server (i.e. live). You can NOT show local copies on the triterm and final dates.**
+
 ### PROJECTS for BEGINNERS
 
 <table>

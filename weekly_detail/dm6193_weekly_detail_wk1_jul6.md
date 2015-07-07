@@ -29,7 +29,6 @@
 <li>Knowledge Survey (Google Form)</li>
 <li>Class Exercise: Your Learning Goals<br><i>“There are two reasons for doing anything. A good reason and the real reason.”</i> –J.P. Morgan</li>
     <ul>
-    <li>
     <li>Why am I in this class? Why have I chosen to be sitting here NOW?</li>
     <li>What do I hope I will learn?</li> 
     <li>What are my goals?</li>
@@ -56,7 +55,7 @@
         <td valign="top"></td>
         <td valign="top">
         <ul>
-            <li>Research and prepare <a href="../assignments/dm6193_style_presentations.md">Style Presentations Due</a></li>
+            <li>Research and prepare <a href="../assignments/dm6193_style_presentations.md">Style Presentations</a></li>
             <li>Decide whether or not you want to follow the <a href="../dm6193_projects.md">beginner's or intermediate track</a></li>
             <ul>
                 <li>If you decide to follow intermediate track, please post on slack links to your websites.</li>
