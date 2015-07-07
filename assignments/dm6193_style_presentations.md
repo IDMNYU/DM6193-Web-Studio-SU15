@@ -9,7 +9,7 @@
 
 ## VISUAL STYLE PRESENTATIONS
 
-Each student will choose 2 movements, artists, or designers to present to the class. Share a brief introduction to the movements, artists, or designers and at least 3 images.
+Each student will choose 2 movements, artists, or designers to present to the class. Share a brief introduction to the movements, artists, or designers and at least 3 images for each (for a total of at least 6 images).
 
 Great resources are:<br>
 http://images.google.com<br>
@@ -17,14 +17,14 @@ http://www.designishistory.com/home
 
 
 * Russian Constructivism - Bobby
-* Bauhaus
-* Swiss Design (AKA Swiss Style or International Style)
+* **Bauhaus**
+* **Swiss Design (AKA Swiss Style or International Style)**
 * Josef Müller-Brockmann - Anneka
 * New Wave - Yoshi
 * Dada - Bobby
 * De Stijl - Rui
 * Psychedelic Art (The Fillmore) - Sriya
-* Semiotics (the study of symbols)
+* **Semiotics (the study of symbols)**
 * Art Nouveau - Rui
 * Art Deco - Sriya
 * David Carson (design and typography) - Monica
@@ -33,7 +33,7 @@ http://www.designishistory.com/home
 * Paula Scher - Yoshi
 * Hi Res! - Anneka
 * House Industries - Manuel
-* Ellen Lupton 
+* **Ellen Lupton** 
 
 
 
