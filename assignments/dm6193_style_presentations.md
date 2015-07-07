@@ -15,33 +15,26 @@ Great resources are:
 * http://images.google.com
 * http://www.designishistory.com/home
 
-<table>
-<tr>
-  
-    <td>
-    <ul>
-    <li>Russian Constructivism - Bobby</li>
-    <li>Bauhaus</li>
-    <li>Swiss Design (AKA Swiss Style or International Style)</li>
-    <li>Josef Müller-Brockmann - Anneka</li>
-    <li>New Wave - Yoshi</li>
-    <li>Dada - Bobby</li>
-    <li>De Stijl - Rui</li>
-    <li>Psychedelic Art (The Fillmore) - Sriya</li>
-    <li>Semiotics (the study of symbols)</li>
-    <li>Art Nouveau - Rui</li>
-    <li>Art Deco - Sriya</li>
-    <li>David Carson (design and typography) - Monica</li>
-    <li>Punk Aesthetic (Art Chantry) - Monica</li>
-    <li>Stefan Sagmeister - Manuel</li>
-    <li>Paula Scher - Yoshi</li>
-    <li>Hi Res! - Anneka</li>
-    <li>House Industries - Manuel</li>
-    <li>Ellen Lupton </li>
-    </ul>
-    </td>
-</tr>
-</table>
+
+* Russian Constructivism - Bobby
+* Bauhaus
+* Swiss Design (AKA Swiss Style or International Style)
+* Josef Müller-Brockmann - Anneka
+* New Wave - Yoshi
+* Dada - Bobby
+* De Stijl - Rui
+* Psychedelic Art (The Fillmore) - Sriya
+* Semiotics (the study of symbols)
+* Art Nouveau - Rui
+* Art Deco - Sriya
+* David Carson (design and typography) - Monica
+* Punk Aesthetic (Art Chantry) - Monica
+* Stefan Sagmeister - Manuel
+* Paula Scher - Yoshi
+* Hi Res! - Anneka
+* House Industries - Manuel
+* Ellen Lupton 
+
 
 
 
