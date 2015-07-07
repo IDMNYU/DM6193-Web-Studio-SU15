@@ -215,7 +215,7 @@ Students, in addition to their regular NYU allotment, also have available to the
 ### [REQUIRED AND RECOMMENDED RESOURCES](dm6193_resources.md)
 See Appendix
 
-### [PROJECTS &amp; ASSIGNMENTS](dm6193_projects.md)
+### [PROJECTS](dm6193_projects.md)
 See Appendix
 
 ### [PROJECT PLAN](assignments/dm6193_project_plan.md)
