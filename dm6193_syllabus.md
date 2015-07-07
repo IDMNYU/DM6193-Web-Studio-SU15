@@ -128,7 +128,7 @@ Students will conduct self assessments as well as be evaluated by the professor 
 * Attendance is mandatory and will be taken at the beginning of every class. Since there is so much technical, conceptual, and design information to absorb, regular attendance is essential.
 * Unexcused absences will affect your grade. One absence is allowed; after that, your final, overall, numerical grade will drop by 5 percent (1/2 a grade point (e.g. A to an A-)) for each additional absence.
 * Be on Time. Tardiness will affect your grade. For every 15 minutes of tardiness, your final, numerical grade will drop by 0.625 percent
-* Contact the professor IN ADVANCE if you will not be in class (in person or by email is preferred).
+* Contact the professor IN ADVANCE if you will not be in class (in person or via direct message on slack is preferred).
 * Attendance is mandatory for the midterm and final presentations.
 
 #### Your final grade will be based on a synthesis of quantitative & qualitative rubrics:

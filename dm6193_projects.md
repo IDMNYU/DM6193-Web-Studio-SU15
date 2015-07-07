@@ -47,7 +47,7 @@
         <p>Focus on Content first and foremost. Also focus on functionality and interactivity (i.e. javascript, jQuery, &amp; / or CSS3)</p></td>
     </tr>
     <tr>
-        <td><strong>Final: Course Management System (CMS)</strong></td>
+        <td><strong>Final: Content Management System (CMS)</strong></td>
         <td>Migrate your website to a CMS of your choice (back-end or server-side integration) while maintaining the same look and feel, structure, and layout of your flat file, framework.
 <ul>
 <li>wordpress (http://wordpress.org)</li>
