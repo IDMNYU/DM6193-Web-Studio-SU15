@@ -9,9 +9,7 @@
 
 ## SITEMAP and WIREFRAMES
 
-Refer to http://www.webmonkey.com/2010/02/information_architecture_tutorial for more detailed information. Should be 1 or 2 pages maximum. Be clear, concise, and to the point.
-
-**Post as a pdf on our slack channel.**
+**Post as a pdf (or image if haptic) on our slack channel.**
 
 <table>
 <tr>
@@ -20,7 +18,17 @@ Refer to http://www.webmonkey.com/2010/02/information_architecture_tutorial for 
 </tr>
 <tr>
 <td><strong>Wireframes/Schematics</strong></td>
-<td>Create a digital (or haptic (only if you have legible handwriting)) <a href="../resources/dm6193_ux_resources.md">wireframes/schematics</a> for your website.</td>
+<td>Create a digital (or haptic (only if you have legible handwriting)) <a href="../resources/dm6193_ux_resources.md">wireframes/schematics</a> for your website.<br><br>
+Reference UXPin's Guide to Wireframing (pinned on slack).
+<ul>
+<li>Black and White. No color.</li>
+<li>Use Real Words for body copy and text. No Lorem ipsum.</li>
+<li>Use a rectangle with a square to represent an image.</li>
+<li>Use a rectangle with a square with a playbutton in the middle to represent a video.</li>
+<li>For layout.</li>
+<li>Label w/ Title of Website. Your Name. Version #. Date.</li>
+</ul>
+</td>
 </tr>
 </table>
 

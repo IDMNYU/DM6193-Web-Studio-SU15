@@ -10,7 +10,7 @@
 ## LEARNING LOGS
 <table>
 <tr>
-<td><p><b>Post to slack. Begin message with "LL: descriptive name" (where descriptive name is a title that describes your show and tell).</b></p>
+<td><p><b>Post to slack. Begin message with "LL: descriptive name" (where descriptive name is a title that describes your learning log).</b></p>
 Learning Logs for the following, but not limited to: 
 <ul>
 <li>HTML/CSS</li>
