@@ -27,7 +27,8 @@
             <ul>
             <li><a href="../assignments/dm6193_show_and_tells.md">Show &amp; Tells</a>: Anneka, Yoshi, and Bobby</li>
             <li>Class Critique of Homework</li>
-            <li></li>
+            </ul>
+            <ul>
             <li>Intro to HTML &amp; CSS</li>
             <ul><li>Directory Structure</li></ul>
             <li>Absolute vs. Relative Links</li>
