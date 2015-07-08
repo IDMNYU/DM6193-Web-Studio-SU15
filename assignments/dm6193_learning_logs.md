@@ -23,7 +23,7 @@ Learning Logs for the following, but not limited to:
 <li>Other Web Technologies (as applicable to your project)</li>
 </ul>
 
-<b>Identify (name, URL, sections, etc.)</b> at least one tutorial you did, and answer the following questions.
+<b>Identify (name, URL, sections, etc.)</b> *at least* one tutorial you did, and respond to the following.
 <ul>
 <li>Instances where you achieved clarity or experienced fragments of knowledge falling into place in your learning.</li>
 <li>Instances where you did NOT achieve clarity and why. What can you do to aid your understanding?</li>

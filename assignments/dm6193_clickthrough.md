@@ -9,6 +9,9 @@
 
 ## Clickthrough / Skeleton
 
+*Beginners: Do NOT use a framework.
+Intermediate/Advanced: Using a Framework of your choice*
+<br><br>
 Using your sitemap, create the skeleton of the directory structure of your site by creating all corresponding folders and files. At the very least there should be a persistent, main navigation (nav) on every page linking to the corresponding pages of your main nav. Every page of your site should be represented. 
 <ul>
 <li>There should be index.html files in every folder.</li>
