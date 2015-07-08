@@ -38,14 +38,24 @@
         <td valign="top">
         <ul>
         <li><a href="../assignments/dm6193_project_plan.md">Project Plan Due</a></li>
-        <li><a href="../assignments/dm6193_show_and_tells.md">Sitemap Due</a></li>
-        <li><a href="../assignments/dm6193_show_and_tells.md">Wireframes / Schematics Due</a></li>
-        <li><a href="../assignments/dm6193_show_and_tells.md">Mood Boards Due</a></li>
+        <li><a href="../assignments/dm6193_sitemap_and_wireframes.md">Sitemap Due</a></li>
+        <li><a href="../assignments/dm6193_sitemap_and_wireframes.md">Wireframes / Schematics Due</a></li>
+        <li><a href="../assignments/dm6193_moodboard.md">Mood Boards Due</a></li>
+        <li><a href="../assignments/dm6193_learning_logs.md">Learning Log</a> for as many as needed based on your current knowledge and skill level:</li>
+                <ul>
+                <li>HTML/CSS</li>
+                <li>HTML5/CSS3</li>
+                <li>git/github</li>
+                <li>Javascript/JQuery</li>
+                <li>The Reponsive Web (Media Queries)</li>
+                <li>Frameworks (Bootstrap and Foundation)</li>
+                <li>CSS Preprocessor: SASS</li>
+                </ul>
         </ul>    
         </td>
         <td valign="top">
         <ul>
-            <li><a href="../assignments/dm6193_learning_logs.md">Learning Log</a> for as many as needed based on your current knowledge and skill level:</li>
+            <li>ONLY If you have NOT done your learning log for the week...<a href="../assignments/dm6193_learning_logs.md">Learning Log</a> for as many as needed based on your current knowledge and skill level:</li>
                 <ul>
                 <li>HTML/CSS</li>
                 <li>HTML5/CSS3</li>
