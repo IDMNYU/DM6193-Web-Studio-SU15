@@ -23,7 +23,7 @@ Name files:
 </tr>
 <tr>
 <td><strong>Wireframes/Schematics</strong></td>
-<td>Create a digital (or haptic (only if you have legible handwriting)) <a href="../resources/dm6193_ux_resources.md">wireframes/schematics</a> for every main page of your website.<br><br>
+<td>Create digital (or haptic (only if you have legible handwriting)) <a href="../resources/dm6193_ux_resources.md">wireframes/schematics</a> for every main page of your website.<br><br>
 Reference UXPin's Guide to Wireframing (pinned on slack).
 <ul>
 <li>Black and White. No color.</li>
