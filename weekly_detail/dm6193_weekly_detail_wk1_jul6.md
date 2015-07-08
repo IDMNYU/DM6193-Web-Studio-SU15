@@ -17,7 +17,7 @@
 </tr>
 <!-- first week -->
 <tr>
-        <td valign="top" width="4%">2</td>
+        <td valign="top" width="4%">1</td>
         <td valign="top" width="48%"><strong>Jul 6</strong></td>
         <td valign="top" width="48%"><strong>Jul 8</strong></td>
     </tr>

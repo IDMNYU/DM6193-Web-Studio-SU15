@@ -17,14 +17,14 @@ http://www.designishistory.com/home
 
 
 * Russian Constructivism - Bobby
-* **Bauhaus**
-* **Swiss Design (AKA Swiss Style or International Style)**
+* Bauhaus - Edan
+* Swiss Design (AKA Swiss Style or International Style) - Nicolas
 * Josef Müller-Brockmann - Anneka
 * New Wave - Yoshi
 * Dada - Bobby
 * De Stijl - Rui
 * Psychedelic Art (The Fillmore) - Sriya
-* **Semiotics (the study of symbols)**
+* Semiotics (the study of symbols) - Edam
 * Art Nouveau - Rui
 * Art Deco - Sriya
 * David Carson (design and typography) - Monica
@@ -33,7 +33,7 @@ http://www.designishistory.com/home
 * Paula Scher - Yoshi
 * Hi Res! - Anneka
 * House Industries - Manuel
-* **Ellen Lupton** 
+* Ellen Lupton - Nicolas
 
 
 

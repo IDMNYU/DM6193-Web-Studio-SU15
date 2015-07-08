@@ -12,7 +12,7 @@
 <table>
 <tr>
 <td><p>Every class session 1 to 2 students will share a link with the class. Dates TBD.</p>
-<p><b>Post to slack. Begin message with "S&amp;T: descriptive name" (where descriptive name is a title that describes your show and tell). You will post 2 for the semester. Dates TBD.</b></p>
+<p><b>Post to slack. Begin message with "S&amp;T: descriptive name" (where descriptive name is a title that describes your show and tell). You will post 2 for the semester. See details below. You can do post 1 and 2 in any order you like.</b></p>
 
 For post 1, select a link to one of the following:
 <ul>
@@ -22,7 +22,7 @@ For post 1, select a link to one of the following:
 </ul>
 For post 2, select a link to one of the following:
 <ul>
-<li>a link to an article or tutorial about HTML5, CSS3, mobile first, the responsive web, and other web related issues.</li>
+<li>a link to an article about HTML5, CSS3, mobile first, the responsive web, and other web related issues.</li>
 </ul>
 <p>For both posts, briefly describe why you think the class should know about this link?</td>
 </tr>
