@@ -10,7 +10,10 @@
 ## SITEMAP and WIREFRAMES
 
 **Post as a pdf (or image if haptic) on our slack channel.** 
-Name files: yourname_sitemap.pdf or yourname_wireframes.pdf or yourname_ui.pdf (if combining both.)
+Name files: 
+* yourname_sitemap.pdf or 
+* yourname_wireframes.pdf or 
+* yourname_ui.pdf (if combining both)
 
 <table>
 <tr>
