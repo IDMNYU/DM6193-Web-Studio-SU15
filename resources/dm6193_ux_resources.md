@@ -52,6 +52,8 @@ by Jason Beaird *
 #### Images
 * [Murally for Mood Boards](http://mural.ly)
 * [The Comprehensive Guide to Saving Images for the Web](http://sixrevisions.com/web_design/comprehensive-guide-saving-images-for-web)
+* [Flat Design] (http://www.smashingmagazine.com/2013/09/03/flat-and-thin-are-in)
+* [Apple's Flat Design] (http://cottervisual.com/apple-ios-7-icon-design-falls-flat)
 
 #### Social Networking Share Buttons
 * [Add This!](http://addthis.com)
