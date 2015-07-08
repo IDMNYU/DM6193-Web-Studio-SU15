@@ -28,6 +28,8 @@
             <li><a href="../assignments/dm6193_show_and_tells.md">Show &amp; Tells</a>: Anneka, Yoshi, and Bobby</li>
             <li>Class Critique of Homework</li>
             <li>Intro to HTML &amp; CSS</li>
+            <li>Directory Structure</li>
+            <li>Absolute vs. Relative Links</li>
             <li>Intro to Git &amp; Github</li>
             </ul>
         </td>
@@ -42,6 +44,7 @@
         <td valign="top">do</td>
         <td valign="top">
             <ul>
+            <li>OPTIONAL Only if you're working with a real client <a href="../assignments/dm6193_service_agreements.md">Service Agreement Due</a></li>
             <li><a href="../assignments/dm6193_project_plan.md">Project Plan Due</a></li>
             <li><a href="../assignments/dm6193_sitemap_and_wireframes.md">Sitemap Due</a></li>
             <li><a href="../assignments/dm6193_sitemap_and_wireframes.md">Wireframes / Schematics Due</a></li>
@@ -61,6 +64,7 @@
         <td valign="top">
             <ul>
             <li><a href="../assignments/dm6193_clickthrough.md">Clickthrough / Skeleton Due</a></li>
+            <li>Revised OPTIONAL Only if you're working with a real client <a href="../assignments/dm6193_service_agreements.md">Service Agreement Due</a></li>
             <li>Revised <a href="../assignments/dm6193_project_plan.md">Project Plan Due</a></li>
             <li>Revised <a href="../assignments/dm6193_sitemap_and_wireframes.md">Sitemap Due</a></li>
             <li>Revised <a href="../assignments/dm6193_sitemap_and_wireframes.md">Wireframes / Schematics Due</a></li>

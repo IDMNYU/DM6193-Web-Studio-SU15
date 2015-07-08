@@ -26,13 +26,13 @@
     <tr>
         <td valign="top">1</td>
         <td valign="top">Jul 6 Overview of Course<br><a href="weekly_detail/dm6193_weekly_detail_wk1_jul6.md">Intro to Each Other<br>Why Are You Here?<br>What are you expecting to learn?<br>Overview of Syllabus</a></td>
-        <td valign="top">Jul 8 Visual Design<br><a href="weekly_detail/dm6193_weekly_detail_wk1_jul6.md">Project Ideas<br><b>STYLE PRESENTATIONS DUE</b><br><br>Intro to Typography<br>Google Fonts / Font Squirrel<br>Photoshop Basics</a></td>
+        <td valign="top">Jul 8 Visual Design<br><a href="weekly_detail/dm6193_weekly_detail_wk1_jul6.md">Project Ideas<br><b>STYLE PRESENTATIONS DUE</b><br><br>Intro to Typography for the Web<br>Google Fonts / Font Squirrel<br>Images for the Web Basics</a></td>
     </tr>
      <tr>
         <td valign="top">2</td>
-        <td valign="top">Jul 13<br>Show &amp; Tells: Anneka, Yoshi, and Bobby<br><b>PROJECT PLAN DUE<br>SITEMAP DUE<br>WIREFRAMES / SCHEMATICS DUE<br>MOOD BOARDS DUE</b><br><br>Intro to HTML &amp; CSS for visual style<br>Intro to Git &amp; Github</td>
-        <td valign="top">Jul 15<br>Show &amp; Tells: Edan, Rui, and Monica<br><b>CLICKTHROUGH / SKELETON DUE</b><br><b><i>Revised PROJECT PLAN DUE<br>Revised SITEMAP DUE<br>Revised WIREFRAMES / SCHEMATICS DUE<br>Revised MOOD BOARDS DUE</i></b><br><br>HTML / CSS Frameworks: Foundation Vs.
-bootstrap<br>CSS Preprocessors: SASS vs. LESS<br>SASS</td>
+        <td valign="top">Jul 13<br><a href="weekly_detail/dm6193_weekly_detail_wk2_jul13.md">Show &amp; Tells: Anneka, Yoshi, and Bobby<br><b>PROJECT PLAN DUE<br>SITEMAP DUE<br>WIREFRAMES / SCHEMATICS DUE<br>MOOD BOARDS DUE</b><br><br>Intro to HTML &amp; CSS for visual style<br>Intro to Git &amp; Github</a></td>
+        <td valign="top">Jul 15<br><a href="weekly_detail/dm6193_weekly_detail_wk2_jul13.md">Show &amp; Tells: Edan, Rui, and Monica<br><b>CLICKTHROUGH / SKELETON DUE</b><br><b><i>Revised PROJECT PLAN DUE<br>Revised SITEMAP DUE<br>Revised WIREFRAMES / SCHEMATICS DUE<br>Revised MOOD BOARDS DUE</i></b><br><br>HTML / CSS Frameworks: Foundation Vs.
+bootstrap<br>CSS Preprocessors: SASS vs. LESS<br>SASS</a></td>
     </tr>
       <tr>
         <td valign="top">3</td>

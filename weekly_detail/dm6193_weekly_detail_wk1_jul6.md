@@ -45,9 +45,12 @@
 </ul></td>
 <td valign="top">
 <ul>
+<li><a href="dm6193_weekly_detail_wk2_jul13.md">Discuss Homework</a></li>
 <li><a href="../assignments/dm6193_style_presentations.md">Style Presentations Due</a></li>
-<li>Discuss Show &amp; Tells</li>
-<li>Discuss Learning Logs</li>
+<li>(if time) Images for the Web Basics</li>
+<li>(if time) Intro to Typography for the Web Basics</li>
+<li>(if time) Google Fonts / Font Squirrel</li>
+
 </ul></td>
 </tr>
 <tr>
