@@ -9,7 +9,8 @@
 
 ## SITEMAP and WIREFRAMES
 
-**Post as a pdf (or image if haptic) on our slack channel.**
+**Post as a pdf (or image if haptic) on our slack channel.** 
+Name files: yourname_sitemap.pdf or yourname_wireframes.pdf or yourname_ui.pdf (if combining both.)
 
 <table>
 <tr>
@@ -18,7 +19,7 @@
 </tr>
 <tr>
 <td><strong>Wireframes/Schematics</strong></td>
-<td>Create a digital (or haptic (only if you have legible handwriting)) <a href="../resources/dm6193_ux_resources.md">wireframes/schematics</a> for your website.<br><br>
+<td>Create a digital (or haptic (only if you have legible handwriting)) <a href="../resources/dm6193_ux_resources.md">wireframes/schematics</a> for every main page of your website.<br><br>
 Reference UXPin's Guide to Wireframing (pinned on slack).
 <ul>
 <li>Black and White. No color.</li>
