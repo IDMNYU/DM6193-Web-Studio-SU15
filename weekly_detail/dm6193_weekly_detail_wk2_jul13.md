@@ -30,9 +30,11 @@
             </ul>
             <ul>
             <li>Intro to HTML &amp; CSS</li>
+            <li>Intro to Typography for the Web Basics</li>
+            <li>Google Fonts / Font Squirrel</li>
             <ul><li>Directory Structure</li></ul>
             <li>Absolute vs. Relative Links</li>
-            <li>Intro to Git &amp; Github</li>
+            <li>(if time) Intro to Git &amp; Github</li>
             </ul>
         </td>
         <td>
@@ -46,8 +48,8 @@
         <td valign="top">do</td>
         <td valign="top">
             <ul>
-            <li>Read <a href="http://www.lukew.com/ff/entry.asp?981" target="_blank">Visible Narratives: Understanding Visual Organization</a> and write a reading response on slack.</li>
-            <li>OPTIONAL Only if you're working with a real client <a href="../assignments/dm6193_service_agreements.md">Service Agreement Due</a></li>
+            <li>Read <a href="http://www.lukew.com/ff/entry.asp?981" target="_blank">Visible Narratives: Understanding Visual Organization</a> and write a <a href="../assignments/dm6193_reading_responses.md">reading response</a> on slack.</li>
+            <li>OPTIONAL Only if you're working with a real client </li>
             <li><a href="../assignments/dm6193_project_plan.md">Project Plan Due</a></li>
             <li><a href="../assignments/dm6193_sitemap_and_wireframes.md">Sitemap Due</a></li>
             <li><a href="../assignments/dm6193_sitemap_and_wireframes.md">Wireframes / Schematics Due</a></li>

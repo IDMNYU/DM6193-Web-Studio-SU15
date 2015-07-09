@@ -47,9 +47,9 @@
 <ul>
 <li><a href="dm6193_weekly_detail_wk2_jul13.md">Discuss Homework</a></li>
 <li><a href="../assignments/dm6193_style_presentations.md">Style Presentations Due</a></li>
-<li>(if time) Images for the Web Basics</li>
-<li>(if time) Intro to Typography for the Web Basics</li>
-<li>(if time) Google Fonts / Font Squirrel</li>
+<li>Discuss <a href="../assignments/dm6193_service_agreements.md">Service Agreements</a></li>
+<li>Discuss Image formats for the Web Basics</li>
+
 
 </ul></td>
 </tr>
