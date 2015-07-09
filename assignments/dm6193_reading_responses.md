@@ -13,7 +13,7 @@
 
 * The most important point(s) (or the most useful or valuable thing(s) you learned) from the reading, and why.
 * The most confusing points, and why they were confusing.
-* How the material connects with or breaks from your prior knowledge or how it connects with your knowledge from other courses
+* How the material connects with or breaks from your prior knowledge or how it connects with your knowledge from other courses.
    
 
 
