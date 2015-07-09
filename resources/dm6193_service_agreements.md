@@ -17,7 +17,7 @@
 * My Service Agreement
 
 [Dealing with Clients who refuse to pay] (http://www.smashingmagazine.com/2010/04/09/dealing-with-clients-who-refuse-to-pay)
-* [CSS Kill Switch] (http://csskillswitch.com)
+* [CSS Kill Switch] (http://www.themelab.com/switch-website-one-line-code/)
 
 
 
