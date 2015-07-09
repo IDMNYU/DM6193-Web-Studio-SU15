@@ -48,7 +48,7 @@
 <li><a href="dm6193_weekly_detail_wk2_jul13.md">Discuss Homework</a></li>
 <li><a href="../assignments/dm6193_style_presentations.md">Style Presentations Due</a></li>
 <li>Discuss <a href="../resources/dm6193_ux_resources.md">Flat Design</a></li>
-<li>Discuss <a href="../assignments/dm6193_service_agreements.md">Service Agreements</a></li>
+<li>Discuss <a href="../resources/dm6193_service_agreements.md">Service Agreements</a></li>
 
 <li>Discuss <a href="../resources/dm6193_ux_resources.md">Image formats for the Web</a></li>
 <li>Discuss Project Ideas</li>
