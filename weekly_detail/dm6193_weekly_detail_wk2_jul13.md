@@ -49,7 +49,7 @@
         <td valign="top">
             <ul>
             <li>Read <a href="http://www.lukew.com/ff/entry.asp?981" target="_blank">Visible Narratives: Understanding Visual Organization</a> and write a <a href="../assignments/dm6193_reading_responses.md">reading response</a> on slack.</li>
-            <li>OPTIONAL Only if you're working with a real client </li>
+    
             <li><a href="../assignments/dm6193_project_plan.md">Project Plan Due</a></li>
             <li><a href="../assignments/dm6193_sitemap_and_wireframes.md">Sitemap Due</a></li>
             <li><a href="../assignments/dm6193_sitemap_and_wireframes.md">Wireframes / Schematics Due</a></li>
@@ -69,7 +69,6 @@
         <td valign="top">
             <ul>
             <li><a href="../assignments/dm6193_clickthrough.md">Clickthrough / Skeleton Due</a></li>
-            <li>Revised OPTIONAL Only if you're working with a real client <a href="../assignments/dm6193_service_agreements.md">Service Agreement Due</a></li>
             <li>Revised <a href="../assignments/dm6193_project_plan.md">Project Plan Due</a></li>
             <li>Revised <a href="../assignments/dm6193_sitemap_and_wireframes.md">Sitemap Due</a></li>
             <li>Revised <a href="../assignments/dm6193_sitemap_and_wireframes.md">Wireframes / Schematics Due</a></li>
