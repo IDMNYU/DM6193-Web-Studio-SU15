@@ -12,6 +12,8 @@
 #### GitHub Resources
 * [Gitprint] (http://gitprint.com)
 * [Github](https://github.com)
+* [GitHub for Mac] (https://mac.github.com)
+* [GitHub for Windows] (https://windows.github.com)
 * [Free private repositories for students](https://education.github.com)
 * [Understanding Github a Journey for Beginners Part 1](http://readwrite.com/2013/09/30/understanding-github-a-journey-for-beginners-part-1) 
 * [Github glossary](https://help.github.com/articles/github-glossary)

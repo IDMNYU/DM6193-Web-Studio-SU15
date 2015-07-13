@@ -68,13 +68,14 @@
         </td>
         <td valign="top">
             <ul>
+            <li>Read <a href="http://alistapart.com/article/responsive-comping-obtaining-signoff-with-mockups" target="_blank">Alistapart.com: Responsive Comping: Obtaining Signoff without Mockups</a> and write a <a href="../assignments/dm6193_reading_responses.md">reading response</a> on slack.</li>
             <li><a href="../assignments/dm6193_clickthrough.md">Clickthrough / Skeleton Due</a></li>
             <li>Revised <a href="../assignments/dm6193_project_plan.md">Project Plan Due</a></li>
             <li>Revised <a href="../assignments/dm6193_sitemap_and_wireframes.md">Sitemap Due</a></li>
             <li>Revised <a href="../assignments/dm6193_sitemap_and_wireframes.md">Wireframes / Schematics Due</a></li>
-            <li>Revised <a href="../assignments/dm6193_moodboard.md">Mood Boards Due</a></li>
+            <li>Transform Your <a href="../assignments/dm6193_moodboard.md">Mood Board</a> to a Style Guide for Your Site. See example pinned on slack. However, do not use lorem ipsum. Use language you'd use on your site.</li>
             <li>
-                <li>ONLY If you have NOT done your learning log for the week...<a href="../assignments/dm6193_learning_logs.md">Learning Log</a> for as many as needed based on your current knowledge and skill level:</li>
+                <li><a href="../assignments/dm6193_learning_logs.md">Learning Log</a> for as many as needed based on your current knowledge and skill level:</li>
                     <ul>
                     <li>HTML/CSS</li>
                     <li>HTML5/CSS3</li>

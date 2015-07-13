@@ -105,7 +105,7 @@ Students will conduct self assessments as well as be evaluated by the professor 
 * Schedule your time (keep a calendar of some sort) 
 * Come to class on time and participate (be present and engaged)
 * Study outside of class (ideally with classmate(s) i.e. Form a Study Group or Team)
-* Devote at a minimum 3 to 6 hours per week outside of class, fulfilling homework assignments, reading, and studying concepts covered in class.
+* Devote **at a minimum 6 to 12 hours per week outside of class**, fulfilling homework assignments, reading, and studying concepts covered in class.
 * **Back up your work constantly** (that's what github is for)
 * Consult slack and github at least once a week for up to date info
 * Complete all assignments by due dates
@@ -136,7 +136,7 @@ Students will conduct self assessments as well as be evaluated by the professor 
 ##### Quantitative Grading Overview
 
 * 5% Mood Board
-* 5% IDM Coursework Documentation
+* 5% Github Documentation
 * 5% Portfolio PDF
 * 5% Triterm Self-Assessment & Rubric
 * 5% Letter to Next Cohort
@@ -151,7 +151,7 @@ Students will conduct self assessments as well as be evaluated by the professor 
 
 ##### Triterm and Final Grading Overview
 
-* 40% Participation in the mandatory class critique
+* 40% Participation in the **mandatory** class critique
 * 20% Information Design
 * 20% Interaction Design
 * 20% Visual design

@@ -52,9 +52,10 @@
         <td><strong>Final: Content Management System (CMS)</strong></td>
         <td>Migrate your website to a CMS of your choice (back-end or server-side integration) while maintaining the same look and feel, structure, and layout of your flat file, framework.
 <ul>
-<li>wordpress (http://wordpress.org)</li>
-<li>drupal (http://www.drupal.org)</li>
-<li>ruby on rails (http://rubyonrails.org)</li>
+<li><a href="resources/intermediate_advanced/dm6193_wordpress_resources.md">wordpress</a> (http://wordpress.org)</li>
+<li><a href="resources/intermediate_advanced/dm6193_drupal_resources.md">drupal</a> (http://www.drupal.org)</li>
+<li><a href="resources/intermediate_advanced/dm6193_ruby_on_rails_resources.md">ruby on rails</a> (http://rubyonrails.org)</li>
+<li><a href="resources/intermediate_advanced/dm6193_nodejs_resources.md">node.js</a> (http://node.js)
 <li>or another CMS of your choice if approved by the instructor (CS students only)</li>
 </ul></td>
 
