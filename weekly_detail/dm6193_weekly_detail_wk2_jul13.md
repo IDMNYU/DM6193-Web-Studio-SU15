@@ -32,8 +32,9 @@
             <li>Intro to HTML &amp; CSS</li>
             <li>Intro to Typography for the Web Basics</li>
             <li>Google Fonts / Font Squirrel</li>
-            <ul><li>Directory Structure</li></ul>
-            <li>Absolute vs. Relative Links</li>
+            <li>Directory Structure</li>
+            <ul><li>Absolute vs. Relative Links</li></ul>
+            <li>HTML/CSS Frameworks: Foundation vs. Bootstrap</li>
             <li>(if time) Intro to Git &amp; Github</li>
             </ul>
         </td>
@@ -41,6 +42,7 @@
             <ul>
             <li>Class Critique of Homework</li>
             <li><a href="../assignments/dm6193_show_and_tells.md">Show &amp; Tells</a>: Edan, Rui, ans Monica</li>
+            <li>SASS vs. LESS</li>
             </ul>
         </td>
 </tr>
@@ -74,7 +76,7 @@
             <li>Revised <a href="../assignments/dm6193_sitemap_and_wireframes.md">Sitemap Due</a></li>
             <li>Revised <a href="../assignments/dm6193_sitemap_and_wireframes.md">Wireframes / Schematics Due</a></li>
             <li>Transform Your <a href="../assignments/dm6193_moodboard.md">Mood Board</a> to a Style Guide for Your Site. See example pinned on slack. However, do not use lorem ipsum. Use language you'd use on your site.</li>
-            <li>
+        
                 <li><a href="../assignments/dm6193_learning_logs.md">Learning Log</a> for as many as needed based on your current knowledge and skill level:</li>
                     <ul>
                     <li>HTML/CSS</li>
