@@ -18,6 +18,7 @@
 * There should be index.html files in every folder.
 * There should be at least css, js, and images folders in the root directory. Optionally, a scss or sass folder if you're using the foundation framework.
 * There should be images folders as needed in each directory.
+* Add as much content (text, images, video, etc.) as possible.
 * No additional CSS styling.
 * (OPTIONAL at this point) CSS positioning. Do the following tutorial: http://learnlayout.com (before adding CSS positioning.) 
 * You should commit to github.
