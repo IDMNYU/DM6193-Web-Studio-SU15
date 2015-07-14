@@ -16,6 +16,7 @@
 * At the very least there should be a persistent, main navigation (nav) on every page linking to the corresponding pages of your main nav. 
 * Every page of your site should be represented.
 * There should be index.html files in every folder.
+* There should be a descriptive title tag for every html file.
 * There should be at least css, js, and images folders in the root directory. Optionally, a scss or sass folder if you're using the foundation framework.
 * There should be images folders as needed in each directory.
 * Add as much content (text, images, video, etc.) as possible.
