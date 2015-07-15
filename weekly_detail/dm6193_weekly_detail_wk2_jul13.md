@@ -78,13 +78,16 @@
                 <li>Learn Web Concepts in order.</li>
                 <li>Discuss Anneka's LL</li>
                 </ul>
-            <li>Discuss Content Inventory of Project Plan.</li>
-                <ul><li>If you have a list of files, you can copy and paste filenames directly from operating system, and use your text editor of choice to clean up (global search and replace).</li></ul>
             <li>Discuss Project Planning... more specifically breaking your project into simple tasks. (a simple list or excel spreadsheet will suffice.)</li>
                 <ul><li>Kanbanery.com</li></ul>
+                <li>Discuss Content Inventory of Project Plan.</li>
+                <ul><li>If you have a list of files, you can copy and paste filenames directly from operating system, and use your text editor of choice to clean up (global search and replace).</li></ul>
+            
             <li>Discuss Rui's Sitemap</li>
             <li>Discuss Bobby's Sitemap</li>
             <li>Discuss Anneka's Style Guide vs. Monica's</li>
+            <li>Discuss Anneka's github repo</li>
+                <ul><li>External css and js scripts. No internal scripts.</li></ul>
             </ul>
         </td>
 </tr>
