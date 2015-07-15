@@ -50,7 +50,9 @@
                 <ul><li>Make sure that the same font is not on google fonts first. This will save you time.</li>
                 </ul>
             <li>Discuss Monica's S&amp;T (css &amp; http://codepen.io)</li>
+            <li>Discuss channels in slack.</li>
             <li>Discuss posts vs. messages in slack.</li>
+
                 <ul>
                 <li>Don't post your github link in a post. Post as a message so that the link is clickable.</li>
                 </ul>

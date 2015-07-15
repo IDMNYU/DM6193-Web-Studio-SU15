@@ -14,7 +14,8 @@
 
 * Using your sitemap, create the skeleton of the directory structure of your site by creating all corresponding folders and files. 
 * At the very least there should be a persistent, main navigation (nav) on every page linking to the corresponding pages of your main nav. 
-* Every page of your site should be represented.
+* Every HTML page of your site should be represented.
+* At *the bare minimum* there should be the basic building blocks of the page: html tags, title tag, head and body tag, and then within the body tag any text, images, and other content that you have should also be in the page. The content (text, images, etc. ) does not have to be styled. The content does not have to be positioned.
 * There should be index.html files in every folder.
 * There should be a descriptive title tag for every html file.
 * There should be at least css, js, and images folders in the root directory. Optionally, a scss or sass folder if you're using the foundation framework.

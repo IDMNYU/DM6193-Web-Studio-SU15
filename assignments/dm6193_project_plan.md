@@ -41,7 +41,7 @@ Refer to http://www.webmonkey.com/2010/02/information_architecture_tutorial for 
     </tr>
     <tr>
         <td>Content Inventory</td>
-        <td>Content is King! What types of content will your site have? Be specific. What text do you need? What images do you need? What videos do you need? Identify all with file names or subject matter. 
+        <td>Content is King! What types of content will your site have? Be specific. What text do you need? What images do you need? What videos do you need? Identify all with file names, titles, or subject matter. 
 </td>
     </tr>
     <tr>
