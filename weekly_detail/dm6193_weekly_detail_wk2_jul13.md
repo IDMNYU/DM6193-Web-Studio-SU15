@@ -56,7 +56,7 @@
             <li>Discuss posts vs. messages in slack.</li>
 
                 <ul>
-                <li>Don't post your github link in a post. Post as a message so that the link is clickable.</li>
+                <li>Make all URLs clickable either by posting as a message or using markdown in post.</li>
                 </ul>
             <li>Discuss Readings</li> 
                 <ul>
