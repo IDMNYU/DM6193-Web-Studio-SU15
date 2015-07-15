@@ -49,6 +49,8 @@
             <li>Discuss using Font Squirrel</li>
                 <ul><li>Make sure that the same font is not on google fonts first. This will save you time.</li>
                 </ul>
+            <li>Discuss Ecommerce (added ecommerce resource page in advanced folder): Shopify</li>
+            <li>Discuss Web Statistics (<a href="http://www.w3schools.com/browsers/default.asp">w3schools stats</a>)
             <li>Discuss Monica's S&amp;T (css &amp; http://codepen.io)</li>
             <li>Discuss channels in slack.</li>
             <li>Discuss posts vs. messages in slack.</li>
@@ -77,6 +79,7 @@
                 <li>Discuss Anneka's LL</li>
                 </ul>
             <li>Discuss Content Inventory of Project Plan.</li>
+                <ul><li>If you have a list of files, you can copy and paste filenames directly from operating system, and use your text editor of choice to clean up (global search and replace).</li></ul>
             <li>Discuss Project Planning... more specifically breaking your project into simple tasks. (a simple list or excel spreadsheet will suffice.)</li>
                 <ul><li>Kanbanery.com</li></ul>
             <li>Discuss Rui's Sitemap</li>

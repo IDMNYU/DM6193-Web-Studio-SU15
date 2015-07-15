@@ -19,7 +19,7 @@
 
 #### General Web, HTML5, and CSS3 Tutorials
 * [learn Shay Howe] (http://learn.shayhowe.com)
-* [lynda.com] (http://lynda.com)
+* [lynda.com] (http://lynda.com) ([NYU login of lynda.com] (http://www.nyu.edu/lynda))
 * [codeacademy.com] (http://codeacademy.com)
 
 #### General Web, HTML5, and CSS3 Reference

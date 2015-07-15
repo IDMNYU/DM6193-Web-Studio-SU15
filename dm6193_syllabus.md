@@ -63,10 +63,10 @@ This course will reinforce or introduce students to:
 * Javascript/ Javascript Libraries (i.e. JQuery)
 * HTML / CSS Frameworks: Foundation and Bootstrap
 * web accessibility
+* current content management system platforms 
 
 This course will help students to:
-* understand current content management system platforms 
-* explore issues of user experience including visual design, interaction design, information architecture, and information design
+* understand the web design and development process from conception to launch
 * develop a vocabulary to evaluate and critique web design and development
 
 
@@ -104,8 +104,7 @@ Students will conduct self assessments as well as be evaluated by the professor 
 
 * Schedule your time (keep a calendar of some sort) 
 * Come to class on time and participate (be present and engaged)
-* Study outside of class (ideally with classmate(s) i.e. Form a Study Group or Team)
-* Devote **at a minimum 6 to 12 hours per week outside of class**, fulfilling homework assignments, reading, and studying concepts covered in class.
+* Study outside of class (ideally with classmate(s) i.e. Form a Study Group or Team), devoting **at a minimum 6 to 12 hours per week outside of class**, fulfilling homework assignments, reading, and studying concepts covered in class.
 * **Back up your work constantly** (that's what github is for)
 * Consult slack and github at least once a week for up to date info
 * Complete all assignments by due dates
@@ -202,9 +201,9 @@ Students, in addition to their regular NYU allotment, also have available to the
 * Browser: Chrome or Firefox
 * Github Account: github.com/join
 * Developer Tools for Chrome or Firefox
-  * Firebug for Firefox, http://getfirebug.com
+  * Firebug for Firefox, http://getfirebug.com or
   * Chrome Developer Tools, https://developers.google.com/chrome-developer-tools http://discover-devtools.codeschool.com
-* HTML Text Editor (Sublime Text, Coda, Textmate, BBEdit/TextWrangler, etc)
+* HTML Text Editor (Sublime Text, Brackets.io, Coda, Textmate, BBEdit/TextWrangler, etc)
 * FTP Application (Cyberduck, Transmit, Fetch, FileZilla, etc)
 * Web Server Space
   * I highly recommend that you get your own web server space from an internet service provider. I recommend http://www.siteground.com.
