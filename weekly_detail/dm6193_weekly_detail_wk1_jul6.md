@@ -51,6 +51,8 @@
 <li>Discuss <a href="../resources/dm6193_service_agreements.md">Service Agreements</a></li>
 
 <li>Discuss <a href="../resources/dm6193_ux_resources.md">Image formats for the Web</a></li>
+<li>Discuss web color space (CMYK vs. RGB)</li>
+<li>Discuss resolution for the web (72dpi vs. 150dpi vs. 300dpi)</li>
 <li>Discuss Project Ideas</li>
 </ul></td>
 </tr>
