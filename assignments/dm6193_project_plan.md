@@ -40,8 +40,8 @@ Refer to http://www.webmonkey.com/2010/02/information_architecture_tutorial for 
         <td>What sites are similar to yours and how will yours be different? How will your site be positioned (branding) and differentiated (market and competitors or like works)?)</td>
     </tr>
     <tr>
-        <td>Content Requirements</td>
-        <td>Content is King! What types of content will your site have? 
+        <td>Content Inventory</td>
+        <td>Content is King! What types of content will your site have? Be specific. What text do you need? What images do you need? What videos do you need? Identify all with file names or subject matter. 
 </td>
     </tr>
     <tr>
