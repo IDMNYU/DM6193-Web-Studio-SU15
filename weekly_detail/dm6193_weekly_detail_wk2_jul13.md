@@ -44,6 +44,43 @@
             <li>HTML/CSS Frameworks: Foundation vs. Bootstrap</li>
             <li>SASS vs. LESS</li>
             </ul>
+
+            <ul>
+            <li>Discuss using Font Squirrel</li>
+                <ul><li>Make sure that the same font is not on google fonts first. This will save you time.</li>
+                </ul>
+            <li>Discuss Monica's S&amp;T (css &amp; http://codepen.io)</li>
+            <li>Discuss posts vs. messages in slack.</li>
+                <ul>
+                <li>Don't post your github link in a post. Post as a message so that the link is clickable.</li>
+                </ul>
+            <li>Discuss Readings</li> 
+                <ul>
+                <li>Visible Narratives (respond to Monica's post)</li> 
+                <li>Responsive Comping</li>
+                    <ul>
+                    <li>Respond to Sriya's and Bobby's post.</li>
+                        <ul>
+                        <li>Compare Blueprints for Building a House to Sitemaps,  Wireframes and Schematics, &amp; Style Guides.</li>
+                        </ul>
+                    <li>Discuss Mobile First.</li>
+                    </ul>
+                </ul>
+            <li>Discuss Learning Logs and Studying in General.</li>
+                <ul>
+                <li>Need to Know vs. Nice to Know</li>
+                    <ul><li>Focus. One thing at a time.</li></ul>
+                <li>Black Box Concept from Programming applied to Learning</li>
+                <li>Learn Web Concepts in order.</li>
+                <li>Discuss Anneka's LL</li>
+                </ul>
+            <li>Discuss Content Inventory of Project Plan.</li>
+            <li>Discuss Project Planning... more specifically breaking your project into simple tasks. (a simple list or excel spreadsheet will suffice.)</li>
+                <ul><li>Kanbanery.com</li></ul>
+            <li>Discuss Rui's Sitemap</li>
+            <li>Discuss Bobby's Sitemap</li>
+            <li>Discuss Anneka's Style Guide vs. Monica's</li>
+            </ul>
         </td>
 </tr>
 <tr>
