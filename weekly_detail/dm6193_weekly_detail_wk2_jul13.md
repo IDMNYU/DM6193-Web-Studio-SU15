@@ -83,8 +83,13 @@
                 <li>Discuss Content Inventory of Project Plan. Discuss Edan's.</li>
                 <ul><li>If you have a list of files, you can copy and paste filenames directly from operating system, and use your text editor of choice to clean up (global search and replace).</li></ul>
             
-            <li>Discuss Rui's Sitemap</li>
-            <li>Discuss Bobby's Sitemap</li>
+            <li>Discuss Sitemaps:</li>
+                <ul>
+                <li>Rui</li>
+                <li>Bobby</li>
+                <li>Yoshi</li>
+                </ul>
+            <li>Discuss Edan's Wireframes</li>
             <li>Discuss Anneka's Style Guide vs. Monica's</li>
             <li>Discuss Anneka's github repo</li>
                 <ul><li>External css and js scripts. No internal scripts.</li></ul>
