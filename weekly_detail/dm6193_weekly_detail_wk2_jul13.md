@@ -29,19 +29,19 @@
             <li>Class Critique of Homework</li>
             </ul>
             <ul>
-            <li>Intro to HTML &amp; CSS</li>
             <li>Intro to Typography for the Web Basics</li>
             <li>Google Fonts / Font Squirrel</li>
             <li>Directory Structure</li>
-            <ul><li>Absolute vs. Relative Links</li></ul>
-            <li>HTML/CSS Frameworks: Foundation vs. Bootstrap</li>
-            <li>(if time) Intro to Git &amp; Github</li>
+            <ul><li>Absolute vs. Relative Links</li></ul>      
+            <li>Intro to Git &amp; Github</li>
             </ul>
         </td>
         <td>
             <ul>
             <li>Class Critique of Homework</li>
-            <li><a href="../assignments/dm6193_show_and_tells.md">Show &amp; Tells</a>: Edan, Rui, ans Monica</li>
+            <li><a href="../assignments/dm6193_show_and_tells.md">Show &amp; Tells</a>: Edan, Rui, and Monica</li>
+            <li>Intro to HTML &amp; CSS</li>
+            <li>HTML/CSS Frameworks: Foundation vs. Bootstrap</li>
             <li>SASS vs. LESS</li>
             </ul>
         </td>
