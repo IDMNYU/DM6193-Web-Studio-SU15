@@ -75,3 +75,6 @@
 * http://caniuse.com
 * http://resizemybrowser.com
 
+#### Browser Statistics
+* [w3schools stats] (http://www.w3schools.com/browsers/default.asp)
+

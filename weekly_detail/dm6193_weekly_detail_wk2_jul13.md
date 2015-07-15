@@ -76,11 +76,11 @@
                     <ul><li>Focus. One thing at a time.</li></ul>
                 <li>Black Box Concept from Programming applied to Learning</li>
                 <li>Learn Web Concepts in order.</li>
-                <li>Discuss Anneka's LL</li>
+                <li>Discuss Anneka's &amp; Edan's LL</li>
                 </ul>
             <li>Discuss Project Planning... more specifically breaking your project into simple tasks. (a simple list or excel spreadsheet will suffice.)</li>
                 <ul><li>Kanbanery.com</li></ul>
-                <li>Discuss Content Inventory of Project Plan.</li>
+                <li>Discuss Content Inventory of Project Plan. Discuss Edan's.</li>
                 <ul><li>If you have a list of files, you can copy and paste filenames directly from operating system, and use your text editor of choice to clean up (global search and replace).</li></ul>
             
             <li>Discuss Rui's Sitemap</li>
