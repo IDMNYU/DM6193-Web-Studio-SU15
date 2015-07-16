@@ -35,9 +35,9 @@
     </tr>
       <tr>
         <td valign="top">3</td>
-        <td valign="top">Jul 20<br><a href="dm6193_weekly_detail_wk3_jul20.md">Show &amp; Tells: Manuel and Sriya<br><br>Intro to HTML &amp; CSS for visual style<br>Intro to HTML5 &amp; CSS3<br>CSS for Layout &amp; Positioning<br>HTML / CSS Frameworks: Foundation Vs.
+        <td valign="top">Jul 20<br><a href="weekly_detail/dm6193_weekly_detail_wk3_jul20.md">Show &amp; Tells: Manuel and Sriya<br><br>Intro to HTML &amp; CSS for visual style<br>Intro to HTML5 &amp; CSS3<br>CSS for Layout &amp; Positioning<br>HTML / CSS Frameworks: Foundation Vs.
 bootstrap<br>CSS Preprocessors: SASS vs. LESS<br>SASS</a</a></td>
-        <td valign="top">Jul 22<br><a href="dm6193_weekly_detail_wk3_jul20.md">Show &amp; Tells: Anneka, Yoshi, and Bobby<br><br>Mobile First<br>Intro to the Responsive Web: Flexible Media &amp; Layouts</a></td>
+        <td valign="top">Jul 22<br><a href="weekly_detail/dm6193_weekly_detail_wk3_jul20.md">Show &amp; Tells: Anneka, Yoshi, and Bobby<br><br>Mobile First<br>Intro to the Responsive Web: Flexible Media &amp; Layouts</a></td>
     </tr>
      <tr>
         <td valign="top">4</td>
