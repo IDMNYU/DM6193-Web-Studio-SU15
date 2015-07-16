@@ -40,9 +40,7 @@
             <ul>
             <li>Class Critique of Homework</li>
             <li><a href="../assignments/dm6193_show_and_tells.md">Show &amp; Tells</a>: Edan, Rui, and Monica</li>
-            <li>Intro to HTML &amp; CSS</li>
-            <li>HTML/CSS Frameworks: Foundation vs. Bootstrap</li>
-            <li>SASS vs. LESS</li>
+            
             </ul>
 
             <ul>

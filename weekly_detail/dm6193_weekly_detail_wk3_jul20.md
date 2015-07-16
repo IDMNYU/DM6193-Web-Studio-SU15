@@ -29,8 +29,12 @@
             <li>Class Critique of Homework</li>
             </ul>
             <ul>
-            <li>Intro to HTML5 &amp; CSS3</li>
+            <li>Intro to HTML &amp; CSS</li>
             <li>CSS for Layout &amp; Positioning</li>
+            <li>Intro to HTML5 &amp; CSS3</li>
+            <li>HTML/CSS Frameworks: Foundation vs. Bootstrap</li>
+            <li>SASS vs. LESS</li>
+
             </ul>
         </td>
         <td>

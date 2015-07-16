@@ -30,8 +30,8 @@
     </tr>
      <tr>
         <td valign="top">2</td>
-        <td valign="top">Jul 13<br><a href="weekly_detail/dm6193_weekly_detail_wk2_jul13.md">Show &amp; Tells: Anneka, Yoshi, and Bobby<br><b>PROJECT PLAN DUE<br>SITEMAP DUE<br>WIREFRAMES / SCHEMATICS DUE<br>MOOD BOARDS DUE</b><br><br>Intro to Git &amp; Github</a></td>
-        <td valign="top">Jul 15<br><a href="weekly_detail/dm6193_weekly_detail_wk2_jul13.md">Show &amp; Tells: Edan, Rui, and Monica<br><b>CLICKTHROUGH / SKELETON DUE</b><br><b><i>Revised PROJECT PLAN DUE<br>Revised SITEMAP DUE<br>Revised WIREFRAMES / SCHEMATICS DUE<br>Revised MOOD BOARDS DUE</i></b></a></td>
+        <td valign="top">Jul 13<br><a href="weekly_detail/dm6193_weekly_detail_wk2_jul13.md">Show &amp; Tells: Anneka, Yoshi, and Bobby<br><br><b>PROJECT PLAN DUE<br>SITEMAP DUE<br>WIREFRAMES / SCHEMATICS DUE<br>MOOD BOARDS DUE</b><br><br>Intro to Git &amp; Github</a></td>
+        <td valign="top">Jul 15<br><a href="weekly_detail/dm6193_weekly_detail_wk2_jul13.md">Show &amp; Tells: Edan, Rui, and Monica<br><br><b>CLICKTHROUGH / SKELETON DUE</b><br><b><i>Revised PROJECT PLAN DUE<br>Revised SITEMAP DUE<br>Revised WIREFRAMES / SCHEMATICS DUE<br>Revised MOOD BOARDS DUE</i></b></a></td>
     </tr>
       <tr>
         <td valign="top">3</td>
