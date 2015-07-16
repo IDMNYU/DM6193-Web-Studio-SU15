@@ -41,8 +41,8 @@ bootstrap<br>CSS Preprocessors: SASS vs. LESS<br>SASS</a</a></td>
     </tr>
      <tr>
         <td valign="top">4</td>
-        <td valign="top">Jul 27<br>Show &amp; Tells: Edan, Rui, and Monica<br><br>Responsive Web: Media Queries<br>Programming Basics<br>Intro to Javascript</td>
-        <td valign="top">Jul 29<br>Show &amp; Tells: Manuel, Nicolas, and Sriya<br><br>Intro to JQuery<br>Production</td>
+        <td valign="top">Jul 27<br><b>Guest Lecture: Luke DuBois (p5.js)</b><br>Show &amp; Tells: Edan, Rui, and Monica<br><br>Responsive Web: Media Queries<br>Programming Basics<br>Intro to Javascript</td>
+        <td valign="top">Jul 29<br>Show &amp; Tells: Manuel and Sriya<br><br>Intro to JQuery<br>Production</td>
     </tr>
     <tr>
         <td valign="top">5</td>
