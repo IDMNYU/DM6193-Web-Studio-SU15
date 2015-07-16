@@ -54,11 +54,11 @@
             <li><a href="../assignments/dm6193_learning_logs.md">Learning Log</a> for as many as needed based on your current knowledge and skill level:</li>
                     <ul>
                     <li>HTML/CSS</li>
-                    <li>HTML5/CSS3</li>
                     <li>git/github</li>
-                    <li>Javascript/JQuery</li>
-                    <li>The Reponsive Web (Media Queries)</li>
+                    <li>HTML5/CSS3</li>
                     <li>Frameworks (Bootstrap and Foundation)</li>
+                    <li>The Reponsive Web (Media Queries)</li>
+                    <li>Javascript Library (i.e. JQuery, p5.js)</li>                    
                     <li>CSS Preprocessor: SASS</li>
                     </ul>
             
@@ -70,12 +70,12 @@
             <li><a href="../assignments/dm6193_learning_logs.md">Learning Log</a> for as many as needed based on your current knowledge and skill level:</li>
                 <ul>
                 <li>HTML/CSS</li>
-                <li>HTML5/CSS3</li>
-                <li>git/github</li>
-                <li>Javascript/JQuery</li>
-                <li>The Reponsive Web (Media Queries)</li>
-                <li>Frameworks (Bootstrap and Foundation)</li>
-                <li>CSS Preprocessor: SASS</li>
+                    <li>git/github</li>
+                    <li>HTML5/CSS3</li>
+                    <li>Frameworks (Bootstrap and Foundation)</li>
+                    <li>The Reponsive Web (Media Queries)</li>
+                    <li>Javascript Library (i.e. JQuery, p5.js)</li>                    
+                    <li>CSS Preprocessor: SASS</li>
                 </ul>
             </ul>
         </td>
