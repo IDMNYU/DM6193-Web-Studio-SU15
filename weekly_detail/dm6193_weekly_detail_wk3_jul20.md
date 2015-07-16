@@ -25,7 +25,7 @@
         <td valign="top">class</td>
         <td valign="top">
             <ul>
-            <li><a href="../assignments/dm6193_show_and_tells.md">Show &amp; Tells</a>: Manuel, Nicolas, and Sriya</li>
+            <li><a href="../assignments/dm6193_show_and_tells.md">Show &amp; Tells</a>: Manuel and Sriya</li>
             <li>Class Critique of Homework</li>
             </ul>
             <ul>
