@@ -30,14 +30,14 @@
     </tr>
      <tr>
         <td valign="top">2</td>
-        <td valign="top">Jul 13<br><a href="weekly_detail/dm6193_weekly_detail_wk2_jul13.md">Show &amp; Tells: Anneka, Yoshi, and Bobby<br><b>PROJECT PLAN DUE<br>SITEMAP DUE<br>WIREFRAMES / SCHEMATICS DUE<br>MOOD BOARDS DUE</b><br><br>Intro to HTML &amp; CSS for visual style<br>Intro to Git &amp; Github</a></td>
-        <td valign="top">Jul 15<br><a href="weekly_detail/dm6193_weekly_detail_wk2_jul13.md">Show &amp; Tells: Edan, Rui, and Monica<br><b>CLICKTHROUGH / SKELETON DUE</b><br><b><i>Revised PROJECT PLAN DUE<br>Revised SITEMAP DUE<br>Revised WIREFRAMES / SCHEMATICS DUE<br>Revised MOOD BOARDS DUE</i></b><br><br>HTML / CSS Frameworks: Foundation Vs.
-bootstrap<br>CSS Preprocessors: SASS vs. LESS<br>SASS</a></td>
+        <td valign="top">Jul 13<br><a href="weekly_detail/dm6193_weekly_detail_wk2_jul13.md">Show &amp; Tells: Anneka, Yoshi, and Bobby<br><b>PROJECT PLAN DUE<br>SITEMAP DUE<br>WIREFRAMES / SCHEMATICS DUE<br>MOOD BOARDS DUE</b><br><br>Intro to Git &amp; Github</a></td>
+        <td valign="top">Jul 15<br><a href="weekly_detail/dm6193_weekly_detail_wk2_jul13.md">Show &amp; Tells: Edan, Rui, and Monica<br><b>CLICKTHROUGH / SKELETON DUE</b><br><b><i>Revised PROJECT PLAN DUE<br>Revised SITEMAP DUE<br>Revised WIREFRAMES / SCHEMATICS DUE<br>Revised MOOD BOARDS DUE</i></b></a></td>
     </tr>
       <tr>
         <td valign="top">3</td>
-        <td valign="top">Jul 20<br>Show &amp; Tells: Manuel, Nicolas, and Sriya<br><br>Intro to HTML5 &amp; CSS3<br>CSS for Layout &amp; Positioning</td>
-        <td valign="top">Jul 22<br>Show &amp; Tells: Anneka, Yoshi, and Bobby<br><br>Mobile First<br>Intro to the Responsive Web: Flexible Media &amp; Layouts</td>
+        <td valign="top">Jul 20<br><a href="dm6193_weekly_detail_wk3_jul20.md">Show &amp; Tells: Manuel and Sriya<br><br>Intro to HTML &amp; CSS for visual style<br>Intro to HTML5 &amp; CSS3<br>CSS for Layout &amp; Positioning<br>HTML / CSS Frameworks: Foundation Vs.
+bootstrap<br>CSS Preprocessors: SASS vs. LESS<br>SASS</a</a></td>
+        <td valign="top">Jul 22<br><a href="dm6193_weekly_detail_wk3_jul20.md">Show &amp; Tells: Anneka, Yoshi, and Bobby<br><br>Mobile First<br>Intro to the Responsive Web: Flexible Media &amp; Layouts</a></td>
     </tr>
      <tr>
         <td valign="top">4</td>
