@@ -26,15 +26,11 @@
         <td valign="top">
             <ul>
             <li><a href="../assignments/dm6193_show_and_tells.md">Show &amp; Tells</a>: Manuel and Sriya</li>
-            <li>Class Critique of Homework</li>
+            <li>Non-Quiz</li>
             </ul>
             <ul>
-            <li>Intro to HTML &amp; CSS</li>
-            <li>CSS for Layout &amp; Positioning</li>
-            <li>Intro to HTML5 &amp; CSS3</li>
-            <li>HTML/CSS Frameworks: Foundation vs. Bootstrap</li>
-            <li>SASS vs. LESS</li>
-
+            <li>HTML &amp; CSS Review</li>
+            <li>Intro to HTML5</li>
             </ul>
         </td>
         <td>
@@ -43,8 +39,7 @@
             <li>Class Critique of Homework</li> 
             </ul>
             <ul>
-            <li>Mobile First</li>
-            <li>Intro to the Responsive Web: Flexible Media &amp; Layouts</li>
+            <li>Review Git &amp; Github</li>
             </ul>
         </td>
 </tr>
@@ -59,9 +54,10 @@
                     <ul>
                     <li>HTML/CSS</li>
                     <li>git/github</li>
-                    <li>HTML5/CSS3</li>
-                    <li>Frameworks (Bootstrap and Foundation)</li>
+                    <li>HTML5</li>
                     <li>The Reponsive Web (Media Queries)</li>
+                    <li>Frameworks (Bootstrap and Foundation)</li>
+                    <li>CSS3</li>
                     <li>Javascript Library (i.e. JQuery, p5.js)</li>                    
                     <li>CSS Preprocessor: SASS</li>
                     </ul>
