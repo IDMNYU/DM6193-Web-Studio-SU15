@@ -50,9 +50,13 @@
         <td valign="top">do</td>
         <td valign="top">
             <ul>
-            <li>Complete <a href="../assignments/dm6193_clickthrough.md">Clickthrough / Skeleton</a> first if you have not done so already.</li>
-            <li>Do the following tutorial: http://learnlayout.com (before adding CSS positioning.)</li>        
-            <li>Add CSS Styling and/or Positioning to your code. Push code to github.</li>
+            <li>Continue to build your website. Push code to github.</li>
+                <ul>
+                <li>Do the following tutorial: http://learnlayout.com (before adding CSS positioning.)</li>                 <li>Add CSS Styling and/or Positioning to your code.</li>
+                <li>Design your website for mobile first.</li>
+                <li>Make your website responsive using flexible media and media queries.</li>
+                </ul>
+            <li><a href="../assignments/dm6193_learning_logs.md">Learning Log</a> for as many as needed based on your current knowledge and skill level:</li>
             <li><a href="../assignments/dm6193_learning_logs.md">Learning Log</a> for as many as needed based on your current knowledge and skill level:</li>
                     <ul>
                    <li>HTML/CSS</li>
@@ -72,6 +76,8 @@
            <li>Continue to build your website. Push code to github.</li>
                 <ul>
                 <li>Do the following tutorial: http://learnlayout.com (before adding CSS positioning.)</li>                 <li>Add CSS Styling and/or Positioning to your code.</li>
+                <li>Design your website for mobile first.</li>
+                <li>Make your website responsive using flexible media and media queries.</li>
                 </ul>
             <li><a href="../assignments/dm6193_learning_logs.md">Learning Log</a> for as many as needed based on your current knowledge and skill level:</li>
                 <ul>
