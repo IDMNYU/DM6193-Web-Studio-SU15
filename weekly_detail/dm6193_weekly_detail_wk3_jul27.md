@@ -52,11 +52,11 @@
             <ul>
             <li>Continue to build your website. Push code to github.</li>
                 <ul>
-                <li>Do the following tutorial: http://learnlayout.com (before adding CSS positioning.)</li>                 <li>Add CSS Styling and/or Positioning to your code.</li>
+                <li>Add CSS Styling and/or Positioning to your code.</li>
+                    <ul><li>Do the following tutorial: http://learnlayout.com (before adding CSS positioning.)</li> </ul>
                 <li>Design your website for mobile first.</li>
                 <li>Make your website responsive using flexible media and media queries.</li>
                 </ul>
-            <li><a href="../assignments/dm6193_learning_logs.md">Learning Log</a> for as many as needed based on your current knowledge and skill level:</li>
             <li><a href="../assignments/dm6193_learning_logs.md">Learning Log</a> for as many as needed based on your current knowledge and skill level:</li>
                     <ul>
                    <li>HTML/CSS</li>
@@ -75,7 +75,8 @@
             <ul>
            <li>Continue to build your website. Push code to github.</li>
                 <ul>
-                <li>Do the following tutorial: http://learnlayout.com (before adding CSS positioning.)</li>                 <li>Add CSS Styling and/or Positioning to your code.</li>
+                               <li>Add CSS Styling and/or Positioning to your code.</li>
+                <ul><li>Do the following tutorial: http://learnlayout.com (before adding CSS positioning.)</li> </ul>
                 <li>Design your website for mobile first.</li>
                 <li>Make your website responsive using flexible media and media queries.</li>
                 </ul>
