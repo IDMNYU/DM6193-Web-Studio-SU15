@@ -35,13 +35,13 @@
     </tr>
       <tr>
         <td valign="top">3</td>
-        <td valign="top">Jul 20<br><a href="weekly_detail/dm6193_weekly_detail_wk3_jul20.md">Show &amp; Tells: Manuel and Sriya<br><br>Intro to HTML &amp; CSS for visual style<br><br>Intro to HTML5</a></td>
-        <td valign="top">Jul 22<br><a href="weekly_detail/dm6193_weekly_detail_wk3_jul20.md">Show &amp; Tells: Anneka, Yoshi, and Bobby<br><br>Intro to HTML5 &amp; CSS3<br>CSS for Layout &amp; Positioning<br>HTML / CSS Frameworks: Foundation Vs.
+        <td valign="top">Jul 20<br><a href="weekly_detail/dm6193_weekly_detail_wk3_jul20.md">Show &amp; Tells: Manuel and Sriya<br><br>Non-Quiz<br>HTML &amp; CSS (for visual style) Review<br><br>Intro to HTML5</a></td>
+        <td valign="top">Jul 22<br><a href="weekly_detail/dm6193_weekly_detail_wk3_jul20.md">Show &amp; Tells: Anneka, Yoshi, and Bobby<br><br>CSS for Layout &amp; Positioning<br>HTML / CSS Frameworks: Foundation Vs.
 bootstrap<br>CSS Preprocessors: SASS vs. LESS<br>SASS<br>Mobile First<br>Intro to the Responsive Web: Flexible Media &amp; Layouts, &amp; Media Queries</a></td>
     </tr>
      <tr>
         <td valign="top">4</td>
-        <td valign="top">Jul 27<br><b>Guest Lecture: Luke DuBois (p5.js)</b><br>Show &amp; Tells: Edan, Rui, and Monica<br><br>Programming Basics<br>Intro to Javascript</td>
+        <td valign="top">Jul 27<br><b>Guest Lecture: Luke DuBois (p5.js)</b><br>Show &amp; Tells: Edan, Rui, and Monica<br><br>Programming Basics<br>Intro to Javascript<br>Intro to CSS3</td>
         <td valign="top">Jul 29<br>Show &amp; Tells: Manuel and Sriya<br><br>Intro to JQuery<br>Production</td>
     </tr>
     <tr>
