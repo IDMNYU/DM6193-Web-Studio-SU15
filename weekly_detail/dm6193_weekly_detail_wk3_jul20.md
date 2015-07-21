@@ -67,6 +67,9 @@
         <td valign="top">
             <ul>
            <li>Continue to build your website. Push code to github.</li>
+                <ul>
+                <li>Do the following tutorial: http://learnlayout.com (before adding CSS positioning.)</li>                 <li>Add CSS Styling and/or Positioning to your code. Push code to github.</li>
+                </ul>
             <li><a href="../assignments/dm6193_learning_logs.md">Learning Log</a> for as many as needed based on your current knowledge and skill level:</li>
                 <ul>
                 <li>HTML/CSS</li>
