@@ -35,9 +35,9 @@
     </tr>
       <tr>
         <td valign="top">3</td>
-        <td valign="top">Jul 20<br><a href="weekly_detail/dm6193_weekly_detail_wk3_jul20.md">Show &amp; Tells: Manuel and Sriya<br><br>Non-Quiz<br>HTML &amp; CSS (for visual style) Review<br><br>Intro to HTML5</a></td>
-        <td valign="top">Jul 22<br><a href="weekly_detail/dm6193_weekly_detail_wk3_jul20.md">Show &amp; Tells: Anneka, Yoshi, and Bobby<br><br>CSS for Layout &amp; Positioning<br>HTML / CSS Frameworks: Foundation Vs.
-bootstrap<br>CSS Preprocessors: SASS vs. LESS<br>SASS<br>Mobile First<br>Intro to the Responsive Web: Flexible Media &amp; Layouts, &amp; Media Queries</a></td>
+        <td valign="top">Jul 20<br><a href="weekly_detail/dm6193_weekly_detail_wk3_jul20.md">Show &amp; Tells: Manuel and Sriya<br><br>Non-Quiz<br><br>HTML &amp; CSS (for visual style) Review<br>Intro to HTML5</a></td>
+        <td valign="top">Jul 22<br><a href="weekly_detail/dm6193_weekly_detail_wk3_jul20.md">Show &amp; Tells: Anneka, Yoshi, and Bobby<br><br>Review Clickthroughs<br><br>CSS for Layout &amp; Positioning<br>HTML / CSS Frameworks: Foundation Vs.
+bootstrap<br>CSS Preprocessors: SASS vs. LESS<br>SASS<br>Mobile First<br>Intro to the Responsive Web<ul><li>Flexible Media &amp; Layouts</li><li>Media Queries</li></ul></a></td>
     </tr>
      <tr>
         <td valign="top">4</td>
