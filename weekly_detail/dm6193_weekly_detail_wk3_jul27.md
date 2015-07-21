@@ -25,21 +25,24 @@
         <td valign="top">class</td>
         <td valign="top">
             <ul>
-            <li><a href="../assignments/dm6193_show_and_tells.md">Show &amp; Tells</a>: Manuel and Sriya</li>
-            <li>Non-Quiz</li>
+            <li><a href="../assignments/dm6193_show_and_tells.md">Show &amp; Tells</a>: Edan, Rui, and Monica</li>
+            <li>Guest Lecture: Luke DuBois (p5.js)</li>
             </ul>
             <ul>
-            <li>HTML &amp; CSS Review</li>
-            <li>Intro to HTML5</li>
+            <li>Programming Basics</li>
+            <li>Intro to Javascript</li>
+            <li>Intro to CSS3</li>
             </ul>
         </td>
         <td>
             <ul>
-            <li><a href="../assignments/dm6193_show_and_tells.md">Show &amp; Tells</a>: Anneka, Yoshi, and Bobby</li>
+            <li><a href="../assignments/dm6193_show_and_tells.md">Show &amp; Tells</a>: Manuel and Sriya</li>
             <li>Class Critique of Homework</li> 
             </ul>
             <ul>
-            <li>Review Git &amp; Github</li>
+            <li></li>
+            <li></li>
+            <li></li>
             </ul>
         </td>
 </tr>
@@ -52,7 +55,7 @@
             <li>Add CSS Styling and/or Positioning to your code. Push code to github.</li>
             <li><a href="../assignments/dm6193_learning_logs.md">Learning Log</a> for as many as needed based on your current knowledge and skill level:</li>
                     <ul>
-                    <li>HTML/CSS</li>
+                   <li>HTML/CSS</li>
                     <li>git/github</li>
                     <li>HTML5</li>
                     <li>The Reponsive Web (Media Queries)</li>
@@ -74,9 +77,10 @@
                 <ul>
                 <li>HTML/CSS</li>
                     <li>git/github</li>
-                    <li>HTML5/CSS3</li>
-                    <li>Frameworks (Bootstrap and Foundation)</li>
+                    <li>HTML5</li>
                     <li>The Reponsive Web (Media Queries)</li>
+                    <li>Frameworks (Bootstrap and Foundation)</li>
+                    <li>CSS3</li>
                     <li>Javascript Library (i.e. JQuery, p5.js)</li>                    
                     <li>CSS Preprocessor: SASS</li>
                 </ul>
