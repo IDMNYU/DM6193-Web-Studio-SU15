@@ -56,14 +56,14 @@
                 </ul>
             <li><a href="../assignments/dm6193_learning_logs.md">Learning Log</a> for as many as needed based on your current knowledge and skill level:</li>
                     <ul>
-                   <li>HTML/CSS</li>
+                   <li>HTML/HTML5</li>
                     <li>git/github</li>
-                    <li>HTML5</li>
+                    <li>CSS</li>
                     <li>The Reponsive Web (Media Queries)</li>
                     <li>Frameworks (Bootstrap and Foundation)</li>
+                    <ul><li>CSS Preprocessor: SASS (if using Frameworks)</li></ul>
                     <li>CSS3</li>
                     <li>Javascript Library (i.e. JQuery, p5.js)</li>                    
-                    <li>CSS Preprocessor: SASS</li>
                     </ul>
             
             </ul>    
@@ -72,21 +72,21 @@
             <ul>
            <li>Continue to build your website. Push code to github.</li>
                 <ul>
-                               <li>Add CSS Styling and/or Positioning to your code.</li>
+                <li>Add CSS Styling and/or Positioning to your code.</li>
                 <ul><li>Do the following tutorial: http://learnlayout.com (before adding CSS positioning.)</li> </ul>
                 <li>Design your website for mobile first.</li>
                 <li>Make your website responsive using flexible media and media queries.</li>
                 </ul>
             <li><a href="../assignments/dm6193_learning_logs.md">Learning Log</a> for as many as needed based on your current knowledge and skill level:</li>
                 <ul>
-                <li>HTML/CSS</li>
+                <li>HTML/HTML5</li>
                     <li>git/github</li>
-                    <li>HTML5</li>
+                    <li>CSS</li>
                     <li>The Reponsive Web (Media Queries)</li>
                     <li>Frameworks (Bootstrap and Foundation)</li>
+                    <ul><li>CSS Preprocessor: SASS (if using Frameworks)</li></ul>
                     <li>CSS3</li>
-                    <li>Javascript Library (i.e. JQuery, p5.js)</li>                    
-                    <li>CSS Preprocessor: SASS</li>
+                    <li>Javascript Library (i.e. JQuery, p5.js)</li>
                 </ul>
             </ul>
         </td>
