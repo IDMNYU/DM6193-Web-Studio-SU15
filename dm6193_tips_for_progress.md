@@ -13,6 +13,17 @@
 
 * **Keep calm and focus your study.** 
 
+* Learn fundamentals in this order.
+    * Web Concepts (client vs. server, front-end vs. back-end, ftp, etc.)
+    * HTML/HTML5
+    * git/github
+    * CSS
+    * The Reponsive Web (Media Queries)
+    * Frameworks (Bootstrap and Foundation)
+    * CSS Preprocessor: SASS (if you're using Foundation)
+    * CSS3
+    * Javascript Library (i.e. JQuery, p5.js)
+
 * Add one thing at a time to your code until you know what the code is doing.
 
 * Don’t give up when something gets hard. Keep at it.
