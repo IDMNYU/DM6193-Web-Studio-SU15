@@ -39,12 +39,12 @@
         <td valign="top">Jul 22<br><a href="weekly_detail/dm6193_weekly_detail_wk3_jul20.md">Show &amp; Tells: Anneka, Yoshi, and Bobby<br><br>Review Clickthroughs<br><br>
         Git / Github Review<br>
         CSS Review continued<br>
-       Responsive Web Design<br>
+       Mobile First<br>Intro to the Responsive Web<ul><li>Flexible Media &amp; Layouts</li><li>Media Queries</li></ul><br>
 </a></td>
     </tr>
      <tr>
         <td valign="top">4</td>
-        <td valign="top">Jul 27<br>Show &amp; Tells: Edan, Rui, and Monica<br><br>HTML / CSS Frameworks: Foundation vs. Bootstrap<br>CSS Preprocessors: <strong>SASS</strong> vs. LESS<br>Mobile First<br>Intro to the Responsive Web<ul><li>Flexible Media &amp; Layouts</li><li>Media Queries</li></ul></td>
+        <td valign="top">Jul 27<br>Show &amp; Tells: Edan, Rui, and Monica<br><br>HTML / CSS Frameworks: Foundation vs. Bootstrap<br>CSS Preprocessors: <strong>SASS</strong> vs. LESS<br></td>
         <td valign="top">Jul 29<br><b>Guest Lecture: Luke DuBois (p5.js)</b><br>Show &amp; Tells: Manuel and Sriya<br><br>Intro to JQuery<br>Programming Basics<br>Intro to Javascript<br>Intro to CSS3</td>
     </tr>
     <tr>
@@ -54,7 +54,7 @@
     </tr>
     <tr>
         <td valign="top">6</td>
-        <td valign="top">Aug 10<br>Guest Speaker: Alex Gilbert, Partner of <a href="http://punkave.com/" target="_blank">P'unk Avenue</a><br><br>SEO<br>Production</td>
+        <td valign="top">Aug 10<br><strong>Guest Speaker: Alex Gilbert, Partner of <a href="http://punkave.com/" target="_blank">P'unk Avenue</a></strong><br><br>SEO<br>Production</td>
         <td valign="top">Aug 12<br><b>FINAL WEBSITE DUE<br>FINAL SELF-ASSESSMENT DUE<br>FINAL WEBSITE RUBRIC DUE</b></td>
     </tr>
 </table>
