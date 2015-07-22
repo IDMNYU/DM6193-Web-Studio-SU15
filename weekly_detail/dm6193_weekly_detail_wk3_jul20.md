@@ -39,7 +39,32 @@
             <li>Class Critique of Homework</li> 
             </ul>
             <ul>
-            <li>Review Git &amp; Github</li>
+            <li>Git / Github Review</li>
+            <li>Learn Shay Howe: Getting to Know CSS</li>
+            <ul>
+            <li>Cascade</li>
+            <li>CSS Specificity</li>
+            <li>Combining Selectors (read right to left)</li>
+            <li>How to use multiple classes on a single element to layer on different styles for more modular code</li>
+            <li>(OPTIONAL) Learn Shaw Howe: Complex Selectors</li> 
+            <li>Color Picker</li>       
+            </ul>
+            <li>Learn Shay Howe: Opening the Box Model</li>
+            <ul>
+            <li>Margin &amp; Padding Declarations (TRBL)</li>
+            <li>Borders</li>
+            <li>Display property</li>
+            <li>Browser Prefixes</li>
+            <li>Developer Tools (Chrome Inspector)</li>
+            </ul>
+            <li>CSS positioning: <a href="Learnlayout.com" target="_blank">Learnlayout.com</a></li>
+            <ul>
+            <li>(ALTERNATE) Learn Shay Howe: Positioning Content</li>
+            <li>(ALTERNATE) Learn Shay Howe: Detailed Positioning</li>
+            </ul>
+            <li><a href="http://mediaqueri.es" target="_blank">http://mediaqueri.es</a></li>
+            <li>Learn Shay Howe: Responsive Web Design</li>
+            <li> (ALTERNATE) Chris Coyier /</li>
             </ul>
         </td>
 </tr>

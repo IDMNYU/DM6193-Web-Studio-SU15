@@ -38,7 +38,6 @@
         <td valign="top">Jul 20<br><a href="weekly_detail/dm6193_weekly_detail_wk3_jul20.md">Show &amp; Tells: Manuel and Sriya<br><br>Non-Quiz<br><br>HTML &amp; CSS (for visual style) Review<br>Intro to HTML5</a></td>
         <td valign="top">Jul 22<br><a href="weekly_detail/dm6193_weekly_detail_wk3_jul20.md">Show &amp; Tells: Anneka, Yoshi, and Bobby<br><br>Review Clickthroughs<br><br>
         Git / Github Review<br>
-        CSS Review<br>
         Learn Shay Howe: Getting to Know CSS<br>
         Cascade<br>
         CSS Specificity<br>

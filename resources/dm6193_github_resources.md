@@ -17,7 +17,7 @@
 * [Free private repositories for students](https://education.github.com)
 * [Understanding Github a Journey for Beginners Part 1](http://readwrite.com/2013/09/30/understanding-github-a-journey-for-beginners-part-1) 
 * [Github glossary](https://help.github.com/articles/github-glossary)
-* [Github guides](https://guides.github.com)
+* ** [Github guides](https://guides.github.com)**
 * [Github help](https://help.github.com)
 * [The Official Git site](http://git-scm.com)
 * [Great in-depth guide to git, also a book](http://git-scm.com/book)
