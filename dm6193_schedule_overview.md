@@ -9,7 +9,7 @@
 
 ## SCHEDULE OVERVIEW
 
-*All dates and assignments are subject to change at the discretion of the professor! Github and slack are the official sources for all dates and assignments.* 
+*All dates and assignments are subject to change at the discretion of the professor! Github and slack are the official sources for all dates and assignments.*
 
 *Github / Slack are living, dynamic sources. **If there are any changes to the schedule as printed in the syllabus, I will note these changes on github and/or slack and in person during class.***
 
@@ -36,12 +36,37 @@
       <tr>
         <td valign="top">3</td>
         <td valign="top">Jul 20<br><a href="weekly_detail/dm6193_weekly_detail_wk3_jul20.md">Show &amp; Tells: Manuel and Sriya<br><br>Non-Quiz<br><br>HTML &amp; CSS (for visual style) Review<br>Intro to HTML5</a></td>
-        <td valign="top">Jul 22<br><a href="weekly_detail/dm6193_weekly_detail_wk3_jul20.md">Show &amp; Tells: Anneka, Yoshi, and Bobby<br><br>Review Clickthroughs<br><br>CSS for Layout &amp; Positioning<br>HTML / CSS Frameworks: Foundation vs. Bootstrap<br>CSS Preprocessors: <strong>SASS</strong> vs. LESS<br>Mobile First<br>Intro to the Responsive Web<ul><li>Flexible Media &amp; Layouts</li><li>Media Queries</li></ul></a></td>
+        <td valign="top">Jul 22<br><a href="weekly_detail/dm6193_weekly_detail_wk3_jul20.md">Show &amp; Tells: Anneka, Yoshi, and Bobby<br><br>Review Clickthroughs<br><br>
+        Git / Github Review<br>
+        CSS Review<br>
+        Learn Shay Howe: Getting to Know CSS<br>
+        Cascade<br>
+        CSS Specificity<br>
+        Combining Selectors (read right to left)<br>
+        How to use multiple classes on a single element to layer on different styles for more modular code<br>
+        (OPTIONAL) Learn Shaw Howe: Complex Selectors<br>
+        Color Picker<br>
+<br>
+        Learn Shay Howe: <br>
+        Margin &amp; Padding Declarations (TRBL)<br>
+        Borders<br>
+        Display property<br>
+        Browser Prefixes<br>
+        Developer Tools (Chrome Inspector)<br>
+<br>
+        CSS positioning: <a href="Learnlayout.com" target="_blank">Learnlayout.com</a><br>
+        (ALTERNATE) Learn Shay Howe: Positioning Content<br>
+        (ALTERNATE) Learn Shay Howe: Detailed Positioning<br>
+<br>
+        <a href="http://mediaqueri.es" target="_blank">http://mediaqueri.es</a><br>
+        Learn Shay Howe: Responsive Web Design<br>
+        (ALTERNATE) Chris Coyier /<br>
+<br></a></td>
     </tr>
      <tr>
         <td valign="top">4</td>
-        <td valign="top">Jul 27<br><b>Guest Lecture: Luke DuBois (p5.js)</b><br>Show &amp; Tells: Edan, Rui, and Monica<br><br>Programming Basics<br>Intro to Javascript<br>Intro to CSS3</td>
-        <td valign="top">Jul 29<br>Show &amp; Tells: Manuel and Sriya<br><br>Intro to JQuery<br>Production</td>
+        <td valign="top">Jul 27<br>Show &amp; Tells: Edan, Rui, and Monica<br><br>HTML / CSS Frameworks: Foundation vs. Bootstrap<br>CSS Preprocessors: <strong>SASS</strong> vs. LESS<br>Mobile First<br>Intro to the Responsive Web<ul><li>Flexible Media &amp; Layouts</li><li>Media Queries</li></ul></td>
+        <td valign="top">Jul 29<br><b>Guest Lecture: Luke DuBois (p5.js)</b><br>Show &amp; Tells: Manuel and Sriya<br><br>Intro to JQuery<br>Programming Basics<br>Intro to Javascript<br>Intro to CSS3</td>
     </tr>
     <tr>
         <td valign="top">5</td>
@@ -50,7 +75,7 @@
     </tr>
     <tr>
         <td valign="top">6</td>
-        <td valign="top">Aug 10<br>Production</td>
+        <td valign="top">Aug 10<br>Guest Speaker: Alex Gilbert, Partner of <a href="http://punkave.com/" target="_blank">P'unk Avenue</a><br><br>SEO<br>Production</td>
         <td valign="top">Aug 12<br><b>FINAL WEBSITE DUE<br>FINAL SELF-ASSESSMENT DUE<br>FINAL WEBSITE RUBRIC DUE</b></td>
     </tr>
 </table>
