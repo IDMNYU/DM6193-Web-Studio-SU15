@@ -11,7 +11,9 @@
 
 * Get ready to be frustrated. This is an integral part of learning. Everyone makes mistakes; you will too. It is ok.
 
-* Keep Calm and Focus your study.
+* **Keep calm and focus your study.** 
+
+* Add one thing at a time to your code until you know what the code is doing.
 
 * Don’t give up when something gets hard. Keep at it.
 

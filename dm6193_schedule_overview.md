@@ -44,7 +44,7 @@
      <tr>
         <td valign="top">4</td>
         <td valign="top">Jul 27<br><a href="weekly_detail/dm6193_weekly_detail_wk3_jul27.md">Show &amp; Tells: Edan, Rui, and Monica<br><br>HTML / CSS Frameworks: Foundation vs. Bootstrap<br>CSS Preprocessors: <strong>SASS</strong> vs. LESS<br></a></td>
-        <td valign="top">Jul 29<br><a href="weekly_detail/dm6193_weekly_detail_wk3_jul27.md"><b>Guest Lecture: Luke DuBois (p5.js)</b><br>Show &amp; Tells: Manuel and Sriya<br><br>Programming Basics<br>Intro to JQuery<br>Intro to Javascript<br>Intro to CSS3</a></td>
+        <td valign="top">Jul 29<br><a href="weekly_detail/dm6193_weekly_detail_wk3_jul27.md">Show &amp; Tells: Manuel and Sriya<br><b>Guest Lecture: Luke DuBois (p5.js)</b><br><br>Programming Basics<br>Intro to JQuery<br>Intro to Javascript<br>Intro to CSS3</a></td>
     </tr>
     <tr>
         <td valign="top">5</td>
