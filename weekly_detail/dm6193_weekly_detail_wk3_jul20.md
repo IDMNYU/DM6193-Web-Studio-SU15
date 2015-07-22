@@ -36,6 +36,7 @@
         <td>
             <ul>
             <li><a href="../assignments/dm6193_show_and_tells.md">Show &amp; Tells</a>: Anneka, Yoshi, and Bobby</li>
+            <li>REMINDER: Clickable links on slack. Make all URLs clickable either by posting as a message or using markdown in post.</li>
             <li>Class Critique of Homework</li> 
             </ul>
             <ul>
@@ -62,9 +63,12 @@
             <li>(ALTERNATE) Learn Shay Howe: Positioning Content</li>
             <li>(ALTERNATE) Learn Shay Howe: Detailed Positioning</li>
             </ul>
-            <li><a href="http://mediaqueri.es" target="_blank">http://mediaqueri.es</a></li>
-            <li>Learn Shay Howe: Responsive Web Design</li>
-            <li> (ALTERNATE) Chris Coyier /</li>
+            <li>Responsive Design</a>
+                <ul>
+                <li><a href="http://mediaqueri.es" target="_blank">http://mediaqueri.es</a></li>
+                <li>Learn Shay Howe: Responsive Web Design</li>
+                <li> (ALTERNATE) <a href="https://css-tricks.com/logic-in-media-queries/" target="_blank">css-tricks.com: Logic in Media Queries by Chris Coyier</a></li>
+                </ul>
             </ul>
         </td>
 </tr>

@@ -15,6 +15,7 @@
 * [Fluid Media](http://clagnut.com/sandbox/imagetest3)
 * [Fluidly Tiled Background Images](http://alistapart.com/article/fauxcolumns)
 * [Media Queries Cheat Sheet] (http://mac-blog.org.ua/css-3-media-queries-cheat-sheet)
+* [css-tricks.com: Logic in Media Queries by Chris Coyier] (https://css-tricks.com/logic-in-media-queries)
 
 #### Responsive Type
 * [Typetester](http://www.typetester.org)
