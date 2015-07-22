@@ -60,6 +60,7 @@ by Jason Beaird *
 * [Add to Any](http://addtoany.com)
 
 #### Typography / Font Resources
+* [Typetester](http://www.typetester.org)
 * [Thinking with Type](http://thinkingwithtype.com)
 * [Google Fonts](https://www.google.com/fonts)
 * [Font Squirrel](http://www.fontsquirrel.com)

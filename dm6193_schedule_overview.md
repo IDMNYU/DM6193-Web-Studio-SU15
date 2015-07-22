@@ -35,32 +35,12 @@
     </tr>
       <tr>
         <td valign="top">3</td>
-        <td valign="top">Jul 20<br><a href="weekly_detail/dm6193_weekly_detail_wk3_jul20.md">Show &amp; Tells: Manuel and Sriya<br><br>Non-Quiz<br><br>HTML &amp; CSS (for visual style) Review<br>Intro to HTML5</a></td>
+        <td valign="top">Jul 20<br><a href="weekly_detail/dm6193_weekly_detail_wk3_jul20.md">Show &amp; Tells: Manuel and Sriya<br><br>Non-Quiz<br><br>HTML &amp; CSS Review<br>Intro to HTML5</a></td>
         <td valign="top">Jul 22<br><a href="weekly_detail/dm6193_weekly_detail_wk3_jul20.md">Show &amp; Tells: Anneka, Yoshi, and Bobby<br><br>Review Clickthroughs<br><br>
         Git / Github Review<br>
-        Learn Shay Howe: Getting to Know CSS<br>
-        Cascade<br>
-        CSS Specificity<br>
-        Combining Selectors (read right to left)<br>
-        How to use multiple classes on a single element to layer on different styles for more modular code<br>
-        (OPTIONAL) Learn Shaw Howe: Complex Selectors<br>
-        Color Picker<br>
-<br>
-        Learn Shay Howe: <br>
-        Margin &amp; Padding Declarations (TRBL)<br>
-        Borders<br>
-        Display property<br>
-        Browser Prefixes<br>
-        Developer Tools (Chrome Inspector)<br>
-<br>
-        CSS positioning: <a href="Learnlayout.com" target="_blank">Learnlayout.com</a><br>
-        (ALTERNATE) Learn Shay Howe: Positioning Content<br>
-        (ALTERNATE) Learn Shay Howe: Detailed Positioning<br>
-<br>
-        <a href="http://mediaqueri.es" target="_blank">http://mediaqueri.es</a><br>
-        Learn Shay Howe: Responsive Web Design<br>
-        (ALTERNATE) Chris Coyier /<br>
-<br></a></td>
+        CSS Review continued<br>
+       Responsive Web Design<br>
+</a></td>
     </tr>
      <tr>
         <td valign="top">4</td>

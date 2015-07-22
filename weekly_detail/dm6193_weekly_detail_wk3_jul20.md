@@ -63,11 +63,12 @@
             <li>(ALTERNATE) Learn Shay Howe: Positioning Content</li>
             <li>(ALTERNATE) Learn Shay Howe: Detailed Positioning</li>
             </ul>
-            <li>Responsive Design</a>
+            <li>Responsive Web Design</a>
                 <ul>
                 <li><a href="http://mediaqueri.es" target="_blank">http://mediaqueri.es</a></li>
                 <li>Learn Shay Howe: Responsive Web Design</li>
-                <li> (ALTERNATE) <a href="https://css-tricks.com/logic-in-media-queries/" target="_blank">css-tricks.com: Logic in Media Queries by Chris Coyier</a></li>
+                <li><a href="http://www.typetester.org" target="_blank">Responsive Text - Typetester</a></li>
+                <li>(ALTERNATE) <a href="https://css-tricks.com/logic-in-media-queries/" target="_blank">css-tricks.com: Logic in Media Queries by Chris Coyier</a></li>
                 </ul>
             </ul>
         </td>
