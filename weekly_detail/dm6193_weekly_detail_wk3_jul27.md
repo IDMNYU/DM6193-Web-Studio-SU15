@@ -61,7 +61,7 @@
                     <li>CSS</li>
                     <li>The Reponsive Web (Media Queries)</li>
                     <li>Frameworks (Bootstrap and Foundation)</li>
-                    <ul><li>CSS Preprocessor: SASS (if using Frameworks)</li></ul>
+                    <ul><li>CSS Preprocessor: SASS (if using Foundation)</li></ul>
                     <li>CSS3</li>
                     <li>Javascript Library (i.e. JQuery, p5.js)</li>                    
                     </ul>
