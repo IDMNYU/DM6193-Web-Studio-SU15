@@ -31,8 +31,14 @@
             <li>sljdflksjdlfj sljflskdjflskdjlsj f</li>
         <li></li>       
             <li><a href="../assignments/dm6193_show_and_tells.md">Show &amp; Tells</a>: Edan, Rui, and Monica</li>
-            <li>HTML / CSS Frameworks: Foundation vs. Bootstrap</li>
-            <li>CSS Preprocessors: SASS vs. LESS</li>
+            <li>Responsive Web Design</a>
+                <ul>
+                <li><a href="http://mediaqueri.es" target="_blank">http://mediaqueri.es</a></li>
+                <li>Learn Shay Howe: Responsive Web Design</li>
+                <li><a href="http://www.typetester.org" target="_blank">Responsive Text - Typetester</a></li>
+                <li>(ALTERNATE) <a href="https://css-tricks.com/logic-in-media-queries/" target="_blank">css-tricks.com: Logic in Media Queries by Chris Coyier</a></li>
+                </ul>
+            <li>Intro to CSS3</li>
             </ul>
         </td>
         <td>
@@ -44,7 +50,7 @@
             <li>Programming Basics</li>
             <li>Intro to JQuery</li>
             <li>Intro to Javascript</li>
-            <li>Intro to CSS3</li>
+            
             </ul>
         </td>
 </tr>
