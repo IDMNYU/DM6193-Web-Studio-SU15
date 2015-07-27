@@ -23,13 +23,7 @@
 </tr>
  <tr>
         <td valign="top">class</td>
-        <td valign="top">
-            <ul>
-            
-            <
-            
-            <li>sljdflksjdlfj sljflskdjflskdjlsj f</li>
-        <li></li>       
+        <td valign="top">   
             <li><a href="../assignments/dm6193_show_and_tells.md">Show &amp; Tells</a>: Edan, Rui, and Monica</li>
             <li>Responsive Web Design</a>
                 <ul>
