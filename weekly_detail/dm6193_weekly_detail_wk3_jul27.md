@@ -25,9 +25,13 @@
         <td valign="top">class</td>
         <td valign="top">   
             <li><a href="../assignments/dm6193_show_and_tells.md">Show &amp; Tells</a>: Edan, Rui, and Monica</li>
+            <li>Review Yoshi's Site</li>
+            <li>Review Manuel's Site</li>
+            <li>Review Bobby's Site and Sitemap</li>
             <li>Responsive Web Design</a>
                 <ul>
                 <li><a href="http://mediaqueri.es" target="_blank">http://mediaqueri.es</a></li>
+                <li>w3schools: responsive web design</li>
                 <li>Learn Shay Howe: Responsive Web Design</li>
                 <li><a href="http://www.typetester.org" target="_blank">Responsive Text - Typetester</a></li>
                 <li>(ALTERNATE) <a href="https://css-tricks.com/logic-in-media-queries/" target="_blank">css-tricks.com: Logic in Media Queries by Chris Coyier</a></li>
@@ -43,8 +47,7 @@
             <ul>
             <li>Programming Basics</li>
             <li>Intro to JQuery</li>
-            <li>Intro to Javascript</li>
-            
+            <li>Intro to Javascript</li>    
             </ul>
         </td>
 </tr>

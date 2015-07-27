@@ -78,3 +78,6 @@
 #### Browser Statistics
 * [w3schools stats] (http://www.w3schools.com/browsers/default.asp)
 
+#### Turning a list into a navigation bar
+* [turning a list into a navigation bar] (http://www.456bereastreet.com/archive/200501/turning_a_list_into_a_navigation_bar)
+
