@@ -25,6 +25,11 @@
         <td valign="top">class</td>
         <td valign="top">
             <ul>
+            
+            <
+            
+            <li>sljdflksjdlfj sljflskdjflskdjlsj f</li>
+        <li></li>       
             <li><a href="../assignments/dm6193_show_and_tells.md">Show &amp; Tells</a>: Edan, Rui, and Monica</li>
             <li>HTML / CSS Frameworks: Foundation vs. Bootstrap</li>
             <li>CSS Preprocessors: SASS vs. LESS</li>
@@ -50,6 +55,7 @@
             <li>Continue to build your website. Push code to github.</li>
                 <ul>
                 <li>Add CSS Styling and/or Positioning to your code.</li>
+                <li>I'm adding more code.</li>
                     <ul><li>Do the following tutorial: http://learnlayout.com (before adding CSS positioning.)</li> </ul>
                 <li>Design your website for mobile first.</li>
                 <li>Make your website responsive using flexible media and media queries.</li>
