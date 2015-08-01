@@ -21,7 +21,3 @@
 * lynda.com: Installing and Running WordPress: MAMP with Morten Rand-Hendriksen
 * and a gazillion others on <a href="http://www.lynda.com/search?q=wordpress" target="_blank">lynda.com</a>
 
-
-#### MAMP/WAMP ALTERNATIVE
-* [VAGRANT] (https://www.vagrantup.com)
-* [VAGRANTPRESS] (http://vagrantpress.org/)
