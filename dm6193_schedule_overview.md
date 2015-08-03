@@ -47,8 +47,8 @@
     </tr>
     <tr>
         <td valign="top">5</td>
-        <td valign="top">Aug 3<br><b>TRITERM WEBSITE DUE<br>TRITERM WEBSITE RUBRIC DUE</b><br><br>HTML / CSS Frameworks: Foundation vs. Bootstrap<br>CSS Preprocessors: <strong>SASS</strong> vs. LESS</td>
-        <td valign="top">Aug 5<br>TRITERM SELF-ASSESSMENT DUE<br>Web Accessibility<br>Production</td>
+        <td valign="top">Aug 3<br><a href="weekly_detail/dm6193_weekly_detail_wk5_aug3.md"><b>TRITERM WEBSITE DUE<br>TRITERM WEBSITE RUBRIC DUE</b><br><br>HTML / CSS Frameworks: Foundation vs. Bootstrap<br>CSS Preprocessors: <strong>SASS</strong> vs. LESS</a></td>
+        <td valign="top">Aug 5<br><a href="weekly_detail/dm6193_weekly_detail_wk5_aug3.md">TRITERM SELF-ASSESSMENT DUE<br>Web Accessibility<br>Production</a></td>
     </tr>
     <tr>
         <td valign="top">6</td>
