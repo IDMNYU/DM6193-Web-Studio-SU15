@@ -26,7 +26,7 @@
         <td valign="top">
             
             <ul>
-            <li><a href="dm6193_projects.md">TRITERM WEBSITE DUE</a></li>
+            <li><a href="../dm6193_projects.md">TRITERM WEBSITE DUE</a></li>
             <li>TRITERM WEBSITE RUBRIC DUE (will be done during class)</li>
             <li>HTML / CSS Frameworks: Foundation vs. Bootstrap</li>
             <li>CSS Preprocessors: <strong>SASS</strong> vs. LESS</td>
@@ -42,7 +42,7 @@
         <td valign="top">do</td>
         <td valign="top">
             <ul>
-            <li><a href="dm6193_projects.md">TRITERM Website DUE</a></li>
+            <li><a href="../dm6193_projects.md">TRITERM Website DUE</a></li>
             <li><a href="../assignments/dm6193_learning_logs.md">Learning Log</a> for as many as needed based on your current knowledge and skill level:</li>
                     <ul>
                    <li>HTML/HTML5</li>
