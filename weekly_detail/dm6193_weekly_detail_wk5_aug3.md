@@ -23,17 +23,14 @@
 </tr>
  <tr>
         <td valign="top">class</td>
-        <td valign="top">Aug 3<br>  
+        <td valign="top">
             
             <ul>
-            <li>TRITERM WEBSITE DUE</li>
+            <li><a href="dm6193_projects.md">TRITERM WEBSITE DUE</a></li>
             <li>TRITERM WEBSITE RUBRIC DUE (will be done during class)</li>
             <li>HTML / CSS Frameworks: Foundation vs. Bootstrap</li>
             <li>CSS Preprocessors: <strong>SASS</strong> vs. LESS</td>
-        <td valign="top">Aug 5<br></l    
-            </ul>
-        </td>
-        <td>
+        <td valign="top">
             <ul>
             <li>TRITERM SELF-ASSESSMENT DUE</li>
             <li>Web Accessibility</li>
@@ -45,13 +42,7 @@
         <td valign="top">do</td>
         <td valign="top">
             <ul>
-        
-            <li>Recreate your website using the HTML/CSS responsive framework of your choice. Choose one of the following HTML/CSS frameworks (or if you are a CS student discuss with the professor another HTML/CSS framework of your choice):</li>
-            <li>Create a separate github repo for your framework. Push code to github.</li>
-    <ul>
-    <li>foundation (http://foundation.zurb.com)</li>
-    <li>bootstrap (http://getbootstrap.com)</li>
-    </ul>
+            <li><a href="dm6193_projects.md">TRITERM Website DUE</a></li>
             <li><a href="../assignments/dm6193_learning_logs.md">Learning Log</a> for as many as needed based on your current knowledge and skill level:</li>
                     <ul>
                    <li>HTML/HTML5</li>
