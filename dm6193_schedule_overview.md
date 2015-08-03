@@ -42,8 +42,8 @@
     </tr>
      <tr>
         <td valign="top">4</td>
-        <td valign="top">Jul 27<br><a href="weekly_detail/dm6193_weekly_detail_wk3_jul27.md">Show &amp; Tells: Edan, Rui, and Monica<br><br>Intro to the Responsive Web<ul><li>Mobile First</li><li>Flexible Media &amp; Layouts</li><li>Media Queries</li ></ul>Intro to CSS3</a></td>
-        <td valign="top">Jul 29<br><a href="weekly_detail/dm6193_weekly_detail_wk3_jul27.md">Show &amp; Tells: Manuel and Sriya<br><b>Guest Lecture: Luke DuBois (p5.js)</b><br><br>Programming Basics<br>Intro to JQuery<br>Intro to Javascript</a></td>
+        <td valign="top">Jul 27<br><a href="weekly_detail/dm6193_weekly_detail_wk4_jul27.md">Show &amp; Tells: Edan, Rui, and Monica<br><br>Intro to the Responsive Web<ul><li>Mobile First</li><li>Flexible Media &amp; Layouts</li><li>Media Queries</li ></ul>Intro to CSS3</a></td>
+        <td valign="top">Jul 29<br><a href="weekly_detail/dm6193_weekly_detail_wk4_jul27.md">Show &amp; Tells: Manuel and Sriya<br><b>Guest Lecture: Luke DuBois (p5.js)</b><br><br>Programming Basics<br>Intro to JQuery<br>Intro to Javascript</a></td>
     </tr>
     <tr>
         <td valign="top">5</td>
