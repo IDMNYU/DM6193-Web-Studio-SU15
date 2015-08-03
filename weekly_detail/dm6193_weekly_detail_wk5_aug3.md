@@ -60,11 +60,12 @@
         <td valign="top">
             <ul>
            <li>Recreate your website using the HTML/CSS responsive framework of your choice. Choose one of the following HTML/CSS frameworks (or if you are a CS student discuss with the professor another HTML/CSS framework of your choice):</li>
-            <li>Create a separate github repo for your framework. Push code to github.</li>
-    <ul>
+           <ul>
     <li>foundation (http://foundation.zurb.com)</li>
     <li>bootstrap (http://getbootstrap.com)</li>
     </ul>
+            <li>Create a separate github repo for your framework. Push code to github.</li>
+    
             <li><a href="../assignments/dm6193_learning_logs.md">Learning Log</a> for as many as needed based on your current knowledge and skill level:</li>
                 <ul>
                 <li>HTML/HTML5</li>
