@@ -26,14 +26,16 @@
         <td valign="top">   
             <ul>
             <li><a href="../dm6193_projects.md">TRITERM WEBSITE DUE</a></li>
-            <li>HTML / CSS Frameworks: Foundation vs. Bootstrap</li>
-            <li>CSS Preprocessors: <strong>SASS</strong> vs. LESS</td>
+            </ul>
+            </td>
         <td valign="top">
             <ul>
             <li>TRITERM WEBSITE RUBRIC DUE</li>
             <li>TRITERM SELF-ASSESSMENT DUE</li>
+            <li>HTML / CSS Frameworks: Foundation vs. Bootstrap</li>
+            <li>CSS Preprocessors: <strong>SASS</strong> vs. LESS
             <li>Web Accessibility</li>
-            <li>Production</li>    
+              
             </ul>
         </td>
 </tr>
@@ -58,7 +60,15 @@
         </td>
         <td valign="top">
             <ul>
-           <li>Recreate your website using the HTML/CSS responsive framework of your choice. Choose one of the following HTML/CSS frameworks (or if you are a CS student discuss with the professor another HTML/CSS framework of your choice):</li>
+            <li>TRITERM WEBSITE RUBRIC (pdf pinned on slack)</li>
+            <li>TRITERM SELF-ASSESSMENT (pdf pinned on slack)</li>
+            <li>Make your site mobile first and responsive</li>
+            <ul>
+            <li>Add <a href="http://stackoverflow.com/questions/10892463/how-is-the-meta-viewport-tag-used-and-what-does-it-do" target="_blank">Meta and viewport tags</a></li>
+            <li></li>
+            <li></li>
+            </ul>
+           <li>ONLY IF YOU HAVE TIME BEGIN to recreate your website using the HTML/CSS responsive framework of your choice. Choose one of the following HTML/CSS frameworks (or if you are a CS student discuss with the professor another HTML/CSS framework of your choice):</li>
            <ul>
     <li>foundation (http://foundation.zurb.com)</li>
     <li>bootstrap (http://getbootstrap.com)</li>
