@@ -23,15 +23,14 @@
 </tr>
  <tr>
         <td valign="top">class</td>
-        <td valign="top">
-            
+        <td valign="top">   
             <ul>
             <li><a href="../dm6193_projects.md">TRITERM WEBSITE DUE</a></li>
-            <li>TRITERM WEBSITE RUBRIC DUE (will be done during class)</li>
             <li>HTML / CSS Frameworks: Foundation vs. Bootstrap</li>
             <li>CSS Preprocessors: <strong>SASS</strong> vs. LESS</td>
         <td valign="top">
             <ul>
+            <li>TRITERM WEBSITE RUBRIC DUE</li>
             <li>TRITERM SELF-ASSESSMENT DUE</li>
             <li>Web Accessibility</li>
             <li>Production</li>    
