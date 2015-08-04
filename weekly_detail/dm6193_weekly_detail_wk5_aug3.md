@@ -62,12 +62,12 @@
             <ul>
             <li>TRITERM WEBSITE RUBRIC<br>(pdf pinned on slack)</li>
             <li>TRITERM SELF-ASSESSMENT<br>(pdf pinned on slack)</li>
-            <li>Make your site mobile first and responsive</li>
+            <li>BEFORE moving foward with framework, make your site mobile first and responsive, by adding</li>
             <ul>
-            <li>Add <a href="http://stackoverflow.com/questions/10892463/how-is-the-meta-viewport-tag-used-and-what-does-it-do" target="_blank">Meta and viewport tags</a></li>
-            <li><a href="http://learn.shayhowe.com/advanced-html-css/responsive-web-design/#flexible-layouts">Add flexible grid</a></li>
-            <li><a href="http://clagnut.com/sandbox/imagetest3" target="_blank">Add flexible media</a></li>
-            <li><a href="http://learn.shayhowe.com/advanced-html-css/responsive-web-design/#media-queries" target="_blank">Add media queries</a></li>
+            <li><a href="http://stackoverflow.com/questions/10892463/how-is-the-meta-viewport-tag-used-and-what-does-it-do" target="_blank">viewport tag via meta tag</a></li>
+            <li><a href="http://learn.shayhowe.com/advanced-html-css/responsive-web-design/#flexible-layouts" target="_blank">flexible grid</a></li>
+            <li><a href="http://clagnut.com/sandbox/imagetest3" target="_blank">flexible media</a></li>
+            <li><a href="http://learn.shayhowe.com/advanced-html-css/responsive-web-design/#media-queries" target="_blank">media queries</a></li>
             </ul>
            <li>(ONLY IF YOU HAVE TIME) BEGIN to recreate your website using the HTML/CSS responsive framework of your choice. Choose one of the following HTML/CSS frameworks (or if you are a CS student discuss with the professor another HTML/CSS framework of your choice):</li>
            <ul>
