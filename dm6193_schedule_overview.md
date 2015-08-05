@@ -53,6 +53,6 @@
     <tr>
         <td valign="top">6</td>
         <td valign="top">Aug 10<br><a href="weekly_detail/dm6193_weekly_detail_wk6_aug10.md"><strong>Guest Speaker: Alex Gilbert, Partner of <a href="http://punkave.com/" target="_blank">P'unk Avenue</a></strong><br><br>SEO</a></td>
-        <td valign="top">Aug 12<br><a href="weekly_detail/dm6193_weekly_detail_wk6_aug10.md"><b>FINAL WEBSITE DUE<br>FINAL SELF-ASSESSMENT DUE<br>FINAL WEBSITE RUBRIC DUE</b></a></td>
+        <td valign="top">Aug 12<br><a href="weekly_detail/dm6193_weekly_detail_wk6_aug10.md"><b>FINAL WEBSITE DUE<br>FINAL WEBSITE RUBRIC DUE<br>END OF SEMESTER DELIVERABLES</b></a></td>
     </tr>
 </table>

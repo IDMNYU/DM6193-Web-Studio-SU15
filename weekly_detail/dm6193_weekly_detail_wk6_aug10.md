@@ -71,8 +71,14 @@
         </td>
         <td valign="top">
             <ul>
+            <li>FINAL WEBSITE (Using HTML/CSS Framework)</li>
             <li>FINAL WEBSITE RUBRIC<br>(pdf will be pinned on slack)</li>
-            <li>FINAL SELF-ASSESSMENT</li>
+            <li>End of Semester Deliverables:</li>
+            <ul>
+            <li><a href="../assignments/dm6193_end_of_semester_deliverables.md">LETTER TO NEXT COHORT</a></li>
+            <li><a href="../assignments/dm6193_end_of_semester_deliverables.md">FINAL SELF-ASSESSMENT</a></li>
+            <li><a href="../assignments/dm6193_end_of_semester_deliverables.md">END OF SEMESTER PDF</a></li>
+            </ul>
             <li>Post your Final Website in another directory within the same root directory but different from your Triterm website.</li>
             <li><a href="../assignments/dm6193_learning_logs.md">Learning Log</a> for as many as needed based on your current knowledge and skill level:</li>
                 <ul>
