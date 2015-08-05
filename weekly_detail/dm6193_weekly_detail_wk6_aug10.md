@@ -33,7 +33,12 @@
             <ul>
             <li>FINAL WEBSITE DUE (Using HTML/CSS Framework)</li>
             <li>FINAL WEBSITE RUBRIC DUE</li>
-            <li>FINAL SELF-ASSESSMENT DUE</li>
+            <li>End of Semester Deliverables:</li>
+            <ul>
+            <li><a href="../assignments/dm6193_end_of_semester_deliverables.md">LETTER TO NEXT COHORT</a></li>
+            <li><a href="../assignments/dm6193_end_of_semester_deliverables.md">FINAL SELF-ASSESSMENT</a></li>
+            <li><a href="../assignments/dm6193_end_of_semester_deliverables.md">END OF SEMESTER PDF</a></li>
+            </ul>
              
             </ul>
         </td>
