@@ -17,26 +17,24 @@
 </tr>
 <!-- first week -->
 <tr>
-        <td valign="top" width="4%">5</td>
-        <td valign="top" width="48%"><strong>Aug 3</strong></td>
-        <td valign="top" width="48%"><strong>Aug 5</strong></td>
+        <td valign="top" width="4%">6</td>
+        <td valign="top" width="48%"><strong>Aug 10</strong></td>
+        <td valign="top" width="48%"><strong>Aug 12</strong></td>
 </tr>
  <tr>
         <td valign="top">class</td>
         <td valign="top">   
             <ul>
-            <li><a href="../dm6193_projects.md">TRITERM WEBSITE DUE</a></li>
+            <li><strong>Guest Speaker: Alex Gilbert, Partner of <a href="http://punkave.com/" target="_blank">P'unk Avenue</a></strong></li>
+            <li>SEO</li>
             </ul>
             </td>
         <td valign="top">
             <ul>
-            <li>TRITERM WEBSITE RUBRIC DUE</li>
-            <li>TRITERM SELF-ASSESSMENT DUE</li>
-            <li>Discuss Self Assesments</li>
-            <li>Awards</li>
-            <li>HTML / CSS Frameworks: Foundation vs. Bootstrap</li>
-            <li>CSS Preprocessors: <strong>SASS</strong> vs. LESS
-            <li>Web Accessibility</li>         
+            <li>FINAL WEBSITE DUE (Using HTML/CSS Framework)</li>
+            <li>FINAL WEBSITE RUBRIC DUE</li>
+            <li>FINAL SELF-ASSESSMENT DUE</li>
+             
             </ul>
         </td>
 </tr>
@@ -44,7 +42,19 @@
         <td valign="top">do</td>
         <td valign="top">
             <ul>
-            <li><a href="../dm6193_projects.md">TRITERM Website DUE</a></li>
+            <li>BEFORE moving foward with framework, make your site mobile first and responsive, by adding</li>
+            <ul>
+            <li><a href="http://stackoverflow.com/questions/10892463/how-is-the-meta-viewport-tag-used-and-what-does-it-do" target="_blank">viewport tag via meta tag</a></li>
+            <li><a href="http://learn.shayhowe.com/advanced-html-css/responsive-web-design/#flexible-layouts" target="_blank">flexible grid</a></li>
+            <li><a href="http://clagnut.com/sandbox/imagetest3" target="_blank">flexible media</a></li>
+            <li><a href="http://learn.shayhowe.com/advanced-html-css/responsive-web-design/#media-queries" target="_blank">media queries</a></li>
+            </ul>
+           <li>(ONLY IF YOU HAVE TIME) BEGIN to recreate your website using the HTML/CSS responsive framework of your choice. Choose one of the following HTML/CSS frameworks (or if you are a CS student discuss with the professor another HTML/CSS framework of your choice):</li>
+           <ul>
+    <li>foundation (http://foundation.zurb.com)</li>
+    <li>bootstrap (http://getbootstrap.com)</li>
+    </ul>
+            <li>Create a separate github repo for your framework. Push code to github.</li>
             <li><a href="../assignments/dm6193_learning_logs.md">Learning Log</a> for as many as needed based on your current knowledge and skill level:</li>
                     <ul>
                    <li>HTML/HTML5</li>
@@ -61,22 +71,9 @@
         </td>
         <td valign="top">
             <ul>
-            <li>TRITERM WEBSITE RUBRIC<br>(pdf pinned on slack)</li>
-            <li>TRITERM SELF-ASSESSMENT<br>(pdf pinned on slack)</li>
-            <li>BEFORE moving foward with framework, make your site mobile first and responsive, by adding</li>
-            <ul>
-            <li><a href="http://stackoverflow.com/questions/10892463/how-is-the-meta-viewport-tag-used-and-what-does-it-do" target="_blank">viewport tag via meta tag</a></li>
-            <li><a href="http://learn.shayhowe.com/advanced-html-css/responsive-web-design/#flexible-layouts" target="_blank">flexible grid</a></li>
-            <li><a href="http://clagnut.com/sandbox/imagetest3" target="_blank">flexible media</a></li>
-            <li><a href="http://learn.shayhowe.com/advanced-html-css/responsive-web-design/#media-queries" target="_blank">media queries</a></li>
-            </ul>
-           <li>(ONLY IF YOU HAVE TIME) BEGIN to recreate your website using the HTML/CSS responsive framework of your choice. Choose one of the following HTML/CSS frameworks (or if you are a CS student discuss with the professor another HTML/CSS framework of your choice):</li>
-           <ul>
-    <li>foundation (http://foundation.zurb.com)</li>
-    <li>bootstrap (http://getbootstrap.com)</li>
-    </ul>
-            <li>Create a separate github repo for your framework. Push code to github.</li>
-    
+            <li>FINAL WEBSITE RUBRIC<br>(pdf will be pinned on slack)</li>
+            <li>FINAL SELF-ASSESSMENT</li>
+            <li>Post your Final Website in another directory within the same root directory but different from your Triterm website.</li>
             <li><a href="../assignments/dm6193_learning_logs.md">Learning Log</a> for as many as needed based on your current knowledge and skill level:</li>
                 <ul>
                 <li>HTML/HTML5</li>
